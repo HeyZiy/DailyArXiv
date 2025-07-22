@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2025
+title: Latest 15 Papers - July 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Dynamics is what you need for time-series forecasting!](http://arxiv.org/abs/2507.15774v1)** | 2025-07-21 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 1 table</p></details> |
+| **[Are We Overlooking the Dimensions? Learning Latent Hierarchical Channel Structure for High-Dimensional Time Series Forecasting](http://arxiv.org/abs/2507.15119v1)** | 2025-07-20 |  |
+| **[Diffusion Models for Time Series Forecasting: A Survey](http://arxiv.org/abs/2507.14507v1)** | 2025-07-19 |  |
+| **[Comparing skill of historical rainfall data based monsoon rainfall prediction in India with NWP forecasts](http://arxiv.org/abs/2402.07851v2)** | 2025-07-18 |  |
 | **[ParallelTime: Dynamically Weighting the Balance of Short- and Long-Term Temporal Dependencies](http://arxiv.org/abs/2507.13998v1)** | 2025-07-18 |  |
 | **[Time Series Forecastability Measures](http://arxiv.org/abs/2507.13556v1)** | 2025-07-17 |  |
 | **[The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting](http://arxiv.org/abs/2507.13043v1)** | 2025-07-17 | 15 pages, 6 figures |
@@ -18,14 +22,17 @@ labels: documentation
 | **[Matrix Is All You Need](http://arxiv.org/abs/2506.01966v2)** | 2025-07-15 |  |
 | **[Gradient Regularization-based Neural Granger Causality](http://arxiv.org/abs/2507.11178v1)** | 2025-07-15 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
 | **[Patch-wise Structural Loss for Time Series Forecasting](http://arxiv.org/abs/2503.00877v2)** | 2025-07-15 |  |
-| **[TAT: Temporal-Aligned Transformer for Multi-Horizon Peak Demand Forecasting](http://arxiv.org/abs/2507.10349v1)** | 2025-07-14 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, 7 tables, published at KDD 2025 workshop on AI for Supply Chain: Today and Future</p></details> |
-| **[TKAN: Temporal Kolmogorov-Arnold Networks](http://arxiv.org/abs/2405.07344v4)** | 2025-07-14 |  |
-| **[Fusing Large Language Models with Temporal Transformers for Time Series Forecasting](http://arxiv.org/abs/2507.10098v1)** | 2025-07-14 |  |
-| **[Reprogramming Vision Foundation Models for Spatio-Temporal Forecasting](http://arxiv.org/abs/2507.11558v1)** | 2025-07-14 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Binary VPN Traffic Detection Using Wavelet Features and Machine Learning](http://arxiv.org/abs/2502.13804v2)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted for presentation at SoftCOM 2025</p></details> |
+| **[Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting](http://arxiv.org/abs/2408.16191v3)** | 2025-07-21 | <details><summary>ACM T...</summary><p>ACM Transactions on Intelligent Systems and Technology (TIST) Submission, 2025</p></details> |
+| **[Joint-Local Grounded Action Transformation for Sim-to-Real Transfer in Multi-Agent Traffic Control](http://arxiv.org/abs/2507.15174v1)** | 2025-07-21 | <details><summary>This ...</summary><p>This paper was accepted to RLC/RLJ 2025</p></details> |
+| **[How Cars Move: Analyzing Driving Dynamics for Safer Urban Traffic](http://arxiv.org/abs/2412.04020v3)** | 2025-07-20 | 8 pages, 5 figures |
+| **[InterAct-Video: Reasoning-Rich Video QA for Urban Traffic](http://arxiv.org/abs/2507.14743v1)** | 2025-07-19 |  |
+| **[Fourier Domain Adaptation for Traffic Light Detection in Adverse Weather](http://arxiv.org/abs/2411.07901v2)** | 2025-07-19 | <details><summary>Accep...</summary><p>Accepted at the 2COOOL Workshop, ICCV 2025</p></details> |
+| **[DHLight: Multi-agent Policy-based Directed Hypergraph Learning for Traffic Signal Control](http://arxiv.org/abs/2409.05037v2)** | 2025-07-19 | <details><summary>Accep...</summary><p>Accepted by the 28th European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
 | **[AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework](http://arxiv.org/abs/2507.13729v1)** | 2025-07-18 |  |
 | **[GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination](http://arxiv.org/abs/2507.13511v1)** | 2025-07-17 |  |
 | **[Air Traffic Controller Task Demand via Graph Neural Networks: An Interpretable Approach to Airspace Complexity](http://arxiv.org/abs/2507.13423v1)** | 2025-07-17 | <details><summary>Autho...</summary><p>Author Accepted Manuscript version of paper at the AIAA AVIATION Forum 2025</p></details> |
@@ -34,17 +41,15 @@ labels: documentation
 | **[Traffic-Aware Pedestrian Intention Prediction](http://arxiv.org/abs/2507.12433v1)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the American Control Conference (ACC) 2025</p></details> |
 | **[On QoE-Aware Traffic Management for Real-time, Interactive Video with Time-variant Spatial Complexity](http://arxiv.org/abs/2507.11798v1)** | 2025-07-15 |  |
 | **[Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption](http://arxiv.org/abs/2507.11702v1)** | 2025-07-15 |  |
-| **[HCOMC: A Hierarchical Cooperative On-Ramp Merging Control Framework in Mixed Traffic Environment on Two-Lane Highways](http://arxiv.org/abs/2507.11621v1)** | 2025-07-15 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables, accepted for IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025</p></details> |
-| **[A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network](http://arxiv.org/abs/2504.04027v2)** | 2025-07-15 | <details><summary>Accep...</summary><p>Accepted by 23rd USENIX Symposium on Network Systems Design and Implementation (NSDI '26), to be held in Seattle on May 4-6, 2026</p></details> |
-| **[IoT Malware Network Traffic Detection using Deep Learning and GraphSAGE Models](http://arxiv.org/abs/2507.10758v1)** | 2025-07-14 |  |
-| **[A new time-stepping strategy and boundary treatment to improve recent 2d traffic model](http://arxiv.org/abs/2507.10205v1)** | 2025-07-14 |  |
-| **[TGLD: A Trust-Aware Game-Theoretic Lane-Changing Decision Framework for Automated Vehicles in Heterogeneous Traffic](http://arxiv.org/abs/2507.10075v1)** | 2025-07-14 | <details><summary>6 pag...</summary><p>6 pages, 7 figures, accepted for IEEE International Conference on Intelligent Transportation Systems (ITSC) 2025</p></details> |
-| **[Federated Learning with Graph-Based Aggregation for Traffic Forecasting](http://arxiv.org/abs/2507.09805v1)** | 2025-07-13 | <details><summary>Accep...</summary><p>Accepted at FedKDD 2025: International Joint Workshop on Federated Learning for Data Mining and Graph Analytics. 6 pages, 1 figure</p></details> |
-| **[Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal Traffic Prediction](http://arxiv.org/abs/2507.11550v1)** | 2025-07-13 | 7 pages |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods](http://arxiv.org/abs/2405.00430v2)** | 2025-07-21 |  |
+| **[PEMF-VTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm](http://arxiv.org/abs/2412.03021v5)** | 2025-07-21 |  |
+| **[Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks](http://arxiv.org/abs/2507.15246v1)** | 2025-07-21 |  |
+| **[How Cars Move: Analyzing Driving Dynamics for Safer Urban Traffic](http://arxiv.org/abs/2412.04020v3)** | 2025-07-20 | 8 pages, 5 figures |
+| **[Spatial-Temporal Transformer with Curriculum Learning for EEG-Based Emotion Recognition](http://arxiv.org/abs/2507.14698v1)** | 2025-07-19 |  |
 | **[DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition](http://arxiv.org/abs/2507.12426v2)** | 2025-07-18 | 17 pages |
 | **[One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion](http://arxiv.org/abs/2507.13801v1)** | 2025-07-18 |  |
 | **[Quantifying the Improvement of Accessibility achieved via Shared Mobility on Demand](http://arxiv.org/abs/2507.13100v1)** | 2025-07-17 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving](http://arxiv.org/abs/2507.08563v2)** | 2025-07-14 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, accepted at ITSC 2025</p></details> |
 | **[VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding](http://arxiv.org/abs/2507.09815v1)** | 2025-07-13 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 5 tables</p></details> |
 | **[BiDepth: A Bidirectional-Depth Neural Network for Spatio-Temporal Prediction](http://arxiv.org/abs/2501.08411v3)** | 2025-07-13 | <details><summary>21 pa...</summary><p>21 pages, 6 figures. Submitted to ACM TKDD</p></details> |
-| **[Online Micro-gesture Recognition Using Data Augmentation and Spatial-Temporal Attention](http://arxiv.org/abs/2507.09512v1)** | 2025-07-13 | 11 pages, 4 figures |
-| **[Spatial-Temporal Aware Visuomotor Diffusion Policy Learning](http://arxiv.org/abs/2507.06710v2)** | 2025-07-13 |  |
-| **[Ophora: A Large-Scale Data-Driven Text-Guided Ophthalmic Surgical Video Generation Model](http://arxiv.org/abs/2505.07449v7)** | 2025-07-12 | <details><summary>Early...</summary><p>Early accepted in MICCAI25</p></details> |
-| **[EmissionNet: Air Quality Pollution Forecasting for Agriculture](http://arxiv.org/abs/2507.05416v2)** | 2025-07-11 | <details><summary>The a...</summary><p>The appendix figures are mixed up - several emission plots (e.g. CO2, CH4, GWP) are mislabeled and appear in the wrong order, leading to confusion in interpreting the results</p></details> |
-| **[TinierHAR: Towards Ultra-Lightweight Deep Learning Models for Efficient Human Activity Recognition on Edge Devices](http://arxiv.org/abs/2507.07949v1)** | 2025-07-10 |  |
 
