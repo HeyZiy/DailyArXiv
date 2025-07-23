@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 23, 2025
+title: Latest 15 Papers - July 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Risk and cross validation in ridge regression with correlated samples](http://arxiv.org/abs/2408.04607v5)** | 2025-07-22 | <details><summary>44 pa...</summary><p>44 pages, 19 figures. v4: ICML 2025 camera-ready. v5: Fix typo in statement of Theorem 5</p></details> |
 | **[Dynamics is what you need for time-series forecasting!](http://arxiv.org/abs/2507.15774v1)** | 2025-07-21 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 1 table</p></details> |
 | **[Are We Overlooking the Dimensions? Learning Latent Hierarchical Channel Structure for High-Dimensional Time Series Forecasting](http://arxiv.org/abs/2507.15119v1)** | 2025-07-20 |  |
 | **[Diffusion Models for Time Series Forecasting: A Survey](http://arxiv.org/abs/2507.14507v1)** | 2025-07-19 |  |
@@ -21,14 +22,17 @@ labels: documentation
 | **[Sparse Identification of Nonlinear Dynamics with Conformal Prediction](http://arxiv.org/abs/2507.11739v1)** | 2025-07-15 |  |
 | **[Matrix Is All You Need](http://arxiv.org/abs/2506.01966v2)** | 2025-07-15 |  |
 | **[Gradient Regularization-based Neural Granger Causality](http://arxiv.org/abs/2507.11178v1)** | 2025-07-15 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
-| **[Patch-wise Structural Loss for Time Series Forecasting](http://arxiv.org/abs/2503.00877v2)** | 2025-07-15 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](http://arxiv.org/abs/2507.16438v1)** | 2025-07-22 | <details><summary>This ...</summary><p>This paper has been accepted at ACM SIGCOMM 2025. It will appear in the proceedings with DOI 10.1145/3718958.3750498</p></details> |
+| **[Beacon: A Naturalistic Driving Dataset During Blackouts for Benchmarking Traffic Reconstruction and Control](http://arxiv.org/abs/2412.14208v2)** | 2025-07-22 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p></details> |
+| **[Heterogeneous Mixed Traffic Control and Coordination](http://arxiv.org/abs/2409.12330v2)** | 2025-07-22 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p></details> |
 | **[Binary VPN Traffic Detection Using Wavelet Features and Machine Learning](http://arxiv.org/abs/2502.13804v2)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted for presentation at SoftCOM 2025</p></details> |
 | **[Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting](http://arxiv.org/abs/2408.16191v3)** | 2025-07-21 | <details><summary>ACM T...</summary><p>ACM Transactions on Intelligent Systems and Technology (TIST) Submission, 2025</p></details> |
 | **[Joint-Local Grounded Action Transformation for Sim-to-Real Transfer in Multi-Agent Traffic Control](http://arxiv.org/abs/2507.15174v1)** | 2025-07-21 | <details><summary>This ...</summary><p>This paper was accepted to RLC/RLJ 2025</p></details> |
+| **[5G Traffic Prediction with Time Series Analysis](http://arxiv.org/abs/2110.03781v2)** | 2025-07-20 | 5 pages, 5 figures |
 | **[How Cars Move: Analyzing Driving Dynamics for Safer Urban Traffic](http://arxiv.org/abs/2412.04020v3)** | 2025-07-20 | 8 pages, 5 figures |
 | **[InterAct-Video: Reasoning-Rich Video QA for Urban Traffic](http://arxiv.org/abs/2507.14743v1)** | 2025-07-19 |  |
 | **[Fourier Domain Adaptation for Traffic Light Detection in Adverse Weather](http://arxiv.org/abs/2411.07901v2)** | 2025-07-19 | <details><summary>Accep...</summary><p>Accepted at the 2COOOL Workshop, ICCV 2025</p></details> |
@@ -37,14 +41,14 @@ labels: documentation
 | **[GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination](http://arxiv.org/abs/2507.13511v1)** | 2025-07-17 |  |
 | **[Air Traffic Controller Task Demand via Graph Neural Networks: An Interpretable Approach to Airspace Complexity](http://arxiv.org/abs/2507.13423v1)** | 2025-07-17 | <details><summary>Autho...</summary><p>Author Accepted Manuscript version of paper at the AIAA AVIATION Forum 2025</p></details> |
 | **[Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data](http://arxiv.org/abs/2507.13112v1)** | 2025-07-17 |  |
-| **[Dual LiDAR-Based Traffic Movement Count Estimation at a Signalized Intersection: Deployment, Data Collection, and Preliminary Analysis](http://arxiv.org/abs/2507.13073v1)** | 2025-07-17 | <details><summary>7 Pag...</summary><p>7 Pages, 8 Figures. This paper has been accepted for publication at the 2025 IEEE ITSC. Copyright IEEE</p></details> |
-| **[Traffic-Aware Pedestrian Intention Prediction](http://arxiv.org/abs/2507.12433v1)** | 2025-07-16 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the American Control Conference (ACC) 2025</p></details> |
-| **[On QoE-Aware Traffic Management for Real-time, Interactive Video with Time-variant Spatial Complexity](http://arxiv.org/abs/2507.11798v1)** | 2025-07-15 |  |
-| **[Time series classification of satellite data using LSTM networks: an approach for predicting leaf-fall to minimize railroad traffic disruption](http://arxiv.org/abs/2507.11702v1)** | 2025-07-15 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding](http://arxiv.org/abs/2507.09815v2)** | 2025-07-22 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 5 tables</p></details> |
+| **[Learning Streaming Video Representation via Multitask Training](http://arxiv.org/abs/2504.20041v2)** | 2025-07-22 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://go2heart.github.io/streamformer</p></details> |
+| **[METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark](http://arxiv.org/abs/2507.16206v1)** | 2025-07-22 | <details><summary>9 pag...</summary><p>9 pages,3 figures ICCV format</p></details> |
+| **[Micromobility Flow Prediction: A Bike Sharing Station-level Study via Multi-level Spatial-Temporal Attention Neural Network](http://arxiv.org/abs/2507.16020v1)** | 2025-07-21 | <details><summary>6 pag...</summary><p>6 pages, UrbComp 2024</p></details> |
 | **[Continuous sPatial-Temporal Deformable Image Registration (CPT-DIR) for motion modelling in radiotherapy: beyond classic voxel-based methods](http://arxiv.org/abs/2405.00430v2)** | 2025-07-21 |  |
 | **[PEMF-VTO: Point-Enhanced Video Virtual Try-on via Mask-free Paradigm](http://arxiv.org/abs/2412.03021v5)** | 2025-07-21 |  |
 | **[Spatio-Temporal Demand Prediction for Food Delivery Using Attention-Driven Graph Neural Networks](http://arxiv.org/abs/2507.15246v1)** | 2025-07-21 |  |
@@ -56,8 +60,4 @@ labels: documentation
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v6)** | 2025-07-17 |  |
 | **[STF: Spatial Temporal Fusion for Trajectory Prediction](http://arxiv.org/abs/2311.18149v2)** | 2025-07-17 | 6 pages, 6 figures |
 | **[Leveraging Quantum Superposition to Infer the Dynamic Behavior of a Spatial-Temporal Neural Network Signaling Model](http://arxiv.org/abs/2403.18963v4)** | 2025-07-16 | <details><summary>36 pa...</summary><p>36 pages, 4 figures. See https://github.com/gabe-alex-silva/Network_Dynamics_QuantumSim/tree/main for code details</p></details> |
-| **[Streaming 4D Visual Geometry Transformer](http://arxiv.org/abs/2507.11539v1)** | 2025-07-15 | <details><summary>Code ...</summary><p>Code is available at: https://github.com/wzzheng/StreamVGGT</p></details> |
-| **[STRAP: Spatial-Temporal Risk-Attentive Vehicle Trajectory Prediction for Autonomous Driving](http://arxiv.org/abs/2507.08563v2)** | 2025-07-14 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, accepted at ITSC 2025</p></details> |
-| **[VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding](http://arxiv.org/abs/2507.09815v1)** | 2025-07-13 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 5 tables</p></details> |
-| **[BiDepth: A Bidirectional-Depth Neural Network for Spatio-Temporal Prediction](http://arxiv.org/abs/2501.08411v3)** | 2025-07-13 | <details><summary>21 pa...</summary><p>21 pages, 6 figures. Submitted to ACM TKDD</p></details> |
 
