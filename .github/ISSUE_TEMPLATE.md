@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 24, 2025
+title: Latest 15 Papers - July 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](http://arxiv.org/abs/2506.07584v3)** | 2025-07-23 |  |
+| **[C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning](http://arxiv.org/abs/2507.17454v1)** | 2025-07-23 |  |
+| **[Causal Graph Fuzzy LLMs: A First Introduction and Applications in Time Series Forecasting](http://arxiv.org/abs/2507.17016v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted for publication at the Brazilian Congress of Artificial Intelligence (CBIC)</p></details> |
+| **[Unified Sparse-Matrix Representations for Diverse Neural Architectures](http://arxiv.org/abs/2506.01966v3)** | 2025-07-22 |  |
 | **[Risk and cross validation in ridge regression with correlated samples](http://arxiv.org/abs/2408.04607v5)** | 2025-07-22 | <details><summary>44 pa...</summary><p>44 pages, 19 figures. v4: ICML 2025 camera-ready. v5: Fix typo in statement of Theorem 5</p></details> |
 | **[Dynamics is what you need for time-series forecasting!](http://arxiv.org/abs/2507.15774v1)** | 2025-07-21 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 1 table</p></details> |
 | **[Are We Overlooking the Dimensions? Learning Latent Hierarchical Channel Structure for High-Dimensional Time Series Forecasting](http://arxiv.org/abs/2507.15119v1)** | 2025-07-20 |  |
@@ -18,14 +22,13 @@ labels: documentation
 | **[Joint Price and Power MPC for Peak Power Reduction at Workplace EV Charging Stations](http://arxiv.org/abs/2507.12703v1)** | 2025-07-17 |  |
 | **[Timing is Important: Risk-aware Fund Allocation based on Time-Series Forecasting](http://arxiv.org/abs/2505.24835v3)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 ADS Track</p></details> |
 | **[NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting](http://arxiv.org/abs/2507.09888v2)** | 2025-07-16 |  |
-| **[Data Augmentation in Time Series Forecasting through Inverted Framework](http://arxiv.org/abs/2507.11439v2)** | 2025-07-16 | <details><summary>The p...</summary><p>The paper is under consideration at Pattern Recognition Letters</p></details> |
-| **[Sparse Identification of Nonlinear Dynamics with Conformal Prediction](http://arxiv.org/abs/2507.11739v1)** | 2025-07-15 |  |
-| **[Matrix Is All You Need](http://arxiv.org/abs/2506.01966v2)** | 2025-07-15 |  |
-| **[Gradient Regularization-based Neural Granger Causality](http://arxiv.org/abs/2507.11178v1)** | 2025-07-15 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning](http://arxiv.org/abs/2507.17418v1)** | 2025-07-23 |  |
+| **[Cross-domain Multi-step Thinking: Zero-shot Fine-grained Traffic Sign Recognition in the Wild](http://arxiv.org/abs/2409.01534v2)** | 2025-07-23 | <details><summary>Publi...</summary><p>Published by Knowledge-Based Systems</p></details> |
+| **[Joint Pedestrian and Vehicle Traffic Optimization in Urban Environments using Reinforcement Learning](http://arxiv.org/abs/2504.05018v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p></details> |
 | **[The Sweet Danger of Sugar: Debunking Representation Learning for Encrypted Traffic Classification](http://arxiv.org/abs/2507.16438v1)** | 2025-07-22 | <details><summary>This ...</summary><p>This paper has been accepted at ACM SIGCOMM 2025. It will appear in the proceedings with DOI 10.1145/3718958.3750498</p></details> |
 | **[Beacon: A Naturalistic Driving Dataset During Blackouts for Benchmarking Traffic Reconstruction and Control](http://arxiv.org/abs/2412.14208v2)** | 2025-07-22 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p></details> |
 | **[Heterogeneous Mixed Traffic Control and Coordination](http://arxiv.org/abs/2409.12330v2)** | 2025-07-22 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p></details> |
@@ -38,13 +41,12 @@ labels: documentation
 | **[Fourier Domain Adaptation for Traffic Light Detection in Adverse Weather](http://arxiv.org/abs/2411.07901v2)** | 2025-07-19 | <details><summary>Accep...</summary><p>Accepted at the 2COOOL Workshop, ICCV 2025</p></details> |
 | **[DHLight: Multi-agent Policy-based Directed Hypergraph Learning for Traffic Signal Control](http://arxiv.org/abs/2409.05037v2)** | 2025-07-19 | <details><summary>Accep...</summary><p>Accepted by the 28th European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
 | **[AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework](http://arxiv.org/abs/2507.13729v1)** | 2025-07-18 |  |
-| **[GraphTrafficGPT: Enhancing Traffic Management Through Graph-Based AI Agent Coordination](http://arxiv.org/abs/2507.13511v1)** | 2025-07-17 |  |
-| **[Air Traffic Controller Task Demand via Graph Neural Networks: An Interpretable Approach to Airspace Complexity](http://arxiv.org/abs/2507.13423v1)** | 2025-07-17 | <details><summary>Autho...</summary><p>Author Accepted Manuscript version of paper at the AIAA AVIATION Forum 2025</p></details> |
-| **[Prediction of Highway Traffic Flow Based on Artificial Intelligence Algorithms Using California Traffic Data](http://arxiv.org/abs/2507.13112v1)** | 2025-07-17 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras](http://arxiv.org/abs/2507.17664v1)** | 2025-07-23 | <details><summary>Prepr...</summary><p>Preprint; 42 pages, 17 figures, 16 tables; Project Page at https://talk2event.github.io</p></details> |
+| **[STQE: Spatial-Temporal Quality Enhancement for G-PCC Compressed Dynamic Point Clouds](http://arxiv.org/abs/2507.17522v1)** | 2025-07-23 |  |
 | **[VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding](http://arxiv.org/abs/2507.09815v2)** | 2025-07-22 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 5 tables</p></details> |
 | **[Learning Streaming Video Representation via Multitask Training](http://arxiv.org/abs/2504.20041v2)** | 2025-07-22 | <details><summary>Techn...</summary><p>Technical Report. Project Page: https://go2heart.github.io/streamformer</p></details> |
 | **[METER: Multi-modal Evidence-based Thinking and Explainable Reasoning -- Algorithm and Benchmark](http://arxiv.org/abs/2507.16206v1)** | 2025-07-22 | <details><summary>9 pag...</summary><p>9 pages,3 figures ICCV format</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion](http://arxiv.org/abs/2507.13801v1)** | 2025-07-18 |  |
 | **[Quantifying the Improvement of Accessibility achieved via Shared Mobility on Demand](http://arxiv.org/abs/2507.13100v1)** | 2025-07-17 |  |
 | **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v6)** | 2025-07-17 |  |
-| **[STF: Spatial Temporal Fusion for Trajectory Prediction](http://arxiv.org/abs/2311.18149v2)** | 2025-07-17 | 6 pages, 6 figures |
-| **[Leveraging Quantum Superposition to Infer the Dynamic Behavior of a Spatial-Temporal Neural Network Signaling Model](http://arxiv.org/abs/2403.18963v4)** | 2025-07-16 | <details><summary>36 pa...</summary><p>36 pages, 4 figures. See https://github.com/gabe-alex-silva/Network_Dynamics_QuantumSim/tree/main for code details</p></details> |
 
