@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 25, 2025
+title: Latest 15 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fixing the Pitfalls of Probabilistic Time-Series Forecasting Evaluation by Kernel Quadrature](http://arxiv.org/abs/2503.06079v2)** | 2025-07-24 | 11 pages, 6 figures |
 | **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](http://arxiv.org/abs/2506.07584v3)** | 2025-07-23 |  |
 | **[C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning](http://arxiv.org/abs/2507.17454v1)** | 2025-07-23 |  |
 | **[Causal Graph Fuzzy LLMs: A First Introduction and Applications in Time Series Forecasting](http://arxiv.org/abs/2507.17016v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted for publication at the Brazilian Congress of Artificial Intelligence (CBIC)</p></details> |
@@ -21,11 +22,13 @@ labels: documentation
 | **[The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting](http://arxiv.org/abs/2507.13043v1)** | 2025-07-17 | 15 pages, 6 figures |
 | **[Joint Price and Power MPC for Peak Power Reduction at Workplace EV Charging Stations](http://arxiv.org/abs/2507.12703v1)** | 2025-07-17 |  |
 | **[Timing is Important: Risk-aware Fund Allocation based on Time-Series Forecasting](http://arxiv.org/abs/2505.24835v3)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 ADS Track</p></details> |
-| **[NeuTSFlow: Modeling Continuous Functions Behind Time Series Forecasting](http://arxiv.org/abs/2507.09888v2)** | 2025-07-16 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Designing Value-Aligned Traffic Agents through Conflict Sensitivity](http://arxiv.org/abs/2507.18284v1)** | 2025-07-24 | <details><summary>Short...</summary><p>Short version of this paper has been accepted at EUMAS 2025 https://euramas.github.io/eumas2025/</p></details> |
+| **[Machine Unlearning of Traffic State Estimation and Prediction](http://arxiv.org/abs/2507.17984v1)** | 2025-07-23 |  |
+| **[LSDM: LLM-Enhanced Spatio-temporal Diffusion Model for Service-Level Mobile Traffic Prediction](http://arxiv.org/abs/2507.17795v1)** | 2025-07-23 | 14 pages, 9 figures |
 | **[Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning](http://arxiv.org/abs/2507.17418v1)** | 2025-07-23 |  |
 | **[Cross-domain Multi-step Thinking: Zero-shot Fine-grained Traffic Sign Recognition in the Wild](http://arxiv.org/abs/2409.01534v2)** | 2025-07-23 | <details><summary>Publi...</summary><p>Published by Knowledge-Based Systems</p></details> |
 | **[Joint Pedestrian and Vehicle Traffic Optimization in Urban Environments using Reinforcement Learning](http://arxiv.org/abs/2504.05018v2)** | 2025-07-23 | <details><summary>Accep...</summary><p>Accepted to IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[5G Traffic Prediction with Time Series Analysis](http://arxiv.org/abs/2110.03781v2)** | 2025-07-20 | 5 pages, 5 figures |
 | **[How Cars Move: Analyzing Driving Dynamics for Safer Urban Traffic](http://arxiv.org/abs/2412.04020v3)** | 2025-07-20 | 8 pages, 5 figures |
 | **[InterAct-Video: Reasoning-Rich Video QA for Urban Traffic](http://arxiv.org/abs/2507.14743v1)** | 2025-07-19 |  |
-| **[Fourier Domain Adaptation for Traffic Light Detection in Adverse Weather](http://arxiv.org/abs/2411.07901v2)** | 2025-07-19 | <details><summary>Accep...</summary><p>Accepted at the 2COOOL Workshop, ICCV 2025</p></details> |
-| **[DHLight: Multi-agent Policy-based Directed Hypergraph Learning for Traffic Signal Control](http://arxiv.org/abs/2409.05037v2)** | 2025-07-19 | <details><summary>Accep...</summary><p>Accepted by the 28th European Conference on Artificial Intelligence (ECAI 2025)</p></details> |
-| **[AGENTS-LLM: Augmentative GENeration of Challenging Traffic Scenarios with an Agentic LLM Framework](http://arxiv.org/abs/2507.13729v1)** | 2025-07-18 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
