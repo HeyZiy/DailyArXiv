@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2025
+title: Latest 15 Papers - July 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -10,22 +10,14 @@ labels: documentation
 | **[Fixing the Pitfalls of Probabilistic Time-Series Forecasting Evaluation by Kernel Quadrature](http://arxiv.org/abs/2503.06079v2)** | 2025-07-24 | 11 pages, 6 figures |
 | **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](http://arxiv.org/abs/2506.07584v3)** | 2025-07-23 |  |
 | **[C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning](http://arxiv.org/abs/2507.17454v1)** | 2025-07-23 |  |
-| **[Causal Graph Fuzzy LLMs: A First Introduction and Applications in Time Series Forecasting](http://arxiv.org/abs/2507.17016v1)** | 2025-07-22 | <details><summary>Accep...</summary><p>Accepted for publication at the Brazilian Congress of Artificial Intelligence (CBIC)</p></details> |
-| **[Unified Sparse-Matrix Representations for Diverse Neural Architectures](http://arxiv.org/abs/2506.01966v3)** | 2025-07-22 |  |
-| **[Risk and cross validation in ridge regression with correlated samples](http://arxiv.org/abs/2408.04607v5)** | 2025-07-22 | <details><summary>44 pa...</summary><p>44 pages, 19 figures. v4: ICML 2025 camera-ready. v5: Fix typo in statement of Theorem 5</p></details> |
-| **[Dynamics is what you need for time-series forecasting!](http://arxiv.org/abs/2507.15774v1)** | 2025-07-21 | <details><summary>13 pa...</summary><p>13 pages, 6 figures, 1 table</p></details> |
-| **[Are We Overlooking the Dimensions? Learning Latent Hierarchical Channel Structure for High-Dimensional Time Series Forecasting](http://arxiv.org/abs/2507.15119v1)** | 2025-07-20 |  |
-| **[Diffusion Models for Time Series Forecasting: A Survey](http://arxiv.org/abs/2507.14507v1)** | 2025-07-19 |  |
-| **[Comparing skill of historical rainfall data based monsoon rainfall prediction in India with NWP forecasts](http://arxiv.org/abs/2402.07851v2)** | 2025-07-18 |  |
-| **[ParallelTime: Dynamically Weighting the Balance of Short- and Long-Term Temporal Dependencies](http://arxiv.org/abs/2507.13998v1)** | 2025-07-18 |  |
-| **[Time Series Forecastability Measures](http://arxiv.org/abs/2507.13556v1)** | 2025-07-17 |  |
-| **[The Power of Architecture: Deep Dive into Transformer Architectures for Long-Term Time Series Forecasting](http://arxiv.org/abs/2507.13043v1)** | 2025-07-17 | 15 pages, 6 figures |
-| **[Joint Price and Power MPC for Peak Power Reduction at Workplace EV Charging Stations](http://arxiv.org/abs/2507.12703v1)** | 2025-07-17 |  |
-| **[Timing is Important: Risk-aware Fund Allocation based on Time-Series Forecasting](http://arxiv.org/abs/2505.24835v3)** | 2025-07-16 | <details><summary>Accep...</summary><p>Accepted by KDD 2025 ADS Track</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TARS: Traffic-Aware Radar Scene Flow Estimation](http://arxiv.org/abs/2503.10210v2)** | 2025-07-25 |  |
+| **[Fine-Grained Traffic Inference from Road to Lane via Spatio-Temporal Graph Node Generation](http://arxiv.org/abs/2507.19089v1)** | 2025-07-25 |  |
+| **[A CASP-based Solution for Traffic Signal Optimisation](http://arxiv.org/abs/2507.19061v1)** | 2025-07-25 | <details><summary>To ap...</summary><p>To appear in Theory and Practice of Logic Programming (TPLP), Proceedings of ICLP 2025</p></details> |
+| **[TrafficMCTS: A Closed-Loop Traffic Flow Generation Framework with Group-Based Monte Carlo Tree Search](http://arxiv.org/abs/2308.12797v3)** | 2025-07-25 | <details><summary>Publi...</summary><p>Published in IEEE Transactions on Intelligent Transportation Systems</p></details> |
 | **[Designing Value-Aligned Traffic Agents through Conflict Sensitivity](http://arxiv.org/abs/2507.18284v1)** | 2025-07-24 | <details><summary>Short...</summary><p>Short version of this paper has been accepted at EUMAS 2025 https://euramas.github.io/eumas2025/</p></details> |
 | **[Machine Unlearning of Traffic State Estimation and Prediction](http://arxiv.org/abs/2507.17984v1)** | 2025-07-23 |  |
 | **[LSDM: LLM-Enhanced Spatio-temporal Diffusion Model for Service-Level Mobile Traffic Prediction](http://arxiv.org/abs/2507.17795v1)** | 2025-07-23 | 14 pages, 9 figures |
@@ -37,14 +29,13 @@ labels: documentation
 | **[Heterogeneous Mixed Traffic Control and Coordination](http://arxiv.org/abs/2409.12330v2)** | 2025-07-22 | <details><summary>IEEE/...</summary><p>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025</p></details> |
 | **[Binary VPN Traffic Detection Using Wavelet Features and Machine Learning](http://arxiv.org/abs/2502.13804v2)** | 2025-07-21 | <details><summary>Accep...</summary><p>Accepted for presentation at SoftCOM 2025</p></details> |
 | **[Variational Mode-Driven Graph Convolutional Network for Spatiotemporal Traffic Forecasting](http://arxiv.org/abs/2408.16191v3)** | 2025-07-21 | <details><summary>ACM T...</summary><p>ACM Transactions on Intelligent Systems and Technology (TIST) Submission, 2025</p></details> |
-| **[Joint-Local Grounded Action Transformation for Sim-to-Real Transfer in Multi-Agent Traffic Control](http://arxiv.org/abs/2507.15174v1)** | 2025-07-21 | <details><summary>This ...</summary><p>This paper was accepted to RLC/RLJ 2025</p></details> |
-| **[5G Traffic Prediction with Time Series Analysis](http://arxiv.org/abs/2110.03781v2)** | 2025-07-20 | 5 pages, 5 figures |
-| **[How Cars Move: Analyzing Driving Dynamics for Safer Urban Traffic](http://arxiv.org/abs/2412.04020v3)** | 2025-07-20 | 8 pages, 5 figures |
-| **[InterAct-Video: Reasoning-Rich Video QA for Urban Traffic](http://arxiv.org/abs/2507.14743v1)** | 2025-07-19 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Cross Spatial Temporal Fusion Attention for Remote Sensing Object Detection via Image Feature Matching](http://arxiv.org/abs/2507.19118v1)** | 2025-07-25 |  |
+| **[MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control](http://arxiv.org/abs/2411.13807v4)** | 2025-07-25 | <details><summary>ICCV ...</summary><p>ICCV 2025 camera-ready version, Project Website: https://flymin.github.io/magicdrive-v2/</p></details> |
+| **[FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Vision Language Models](http://arxiv.org/abs/2501.01986v2)** | 2025-07-24 | ICCV 2025 |
 | **[Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras](http://arxiv.org/abs/2507.17664v1)** | 2025-07-23 | <details><summary>Prepr...</summary><p>Preprint; 42 pages, 17 figures, 16 tables; Project Page at https://talk2event.github.io</p></details> |
 | **[STQE: Spatial-Temporal Quality Enhancement for G-PCC Compressed Dynamic Point Clouds](http://arxiv.org/abs/2507.17522v1)** | 2025-07-23 |  |
 | **[VRU-Accident: A Vision-Language Benchmark for Video Question Answering and Dense Captioning for Accident Scene Understanding](http://arxiv.org/abs/2507.09815v2)** | 2025-07-22 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 5 tables</p></details> |
@@ -57,7 +48,4 @@ labels: documentation
 | **[How Cars Move: Analyzing Driving Dynamics for Safer Urban Traffic](http://arxiv.org/abs/2412.04020v3)** | 2025-07-20 | 8 pages, 5 figures |
 | **[Spatial-Temporal Transformer with Curriculum Learning for EEG-Based Emotion Recognition](http://arxiv.org/abs/2507.14698v1)** | 2025-07-19 |  |
 | **[DVFL-Net: A Lightweight Distilled Video Focal Modulation Network for Spatio-Temporal Action Recognition](http://arxiv.org/abs/2507.12426v2)** | 2025-07-18 | 17 pages |
-| **[One Step Closer: Creating the Future to Boost Monocular Semantic Scene Completion](http://arxiv.org/abs/2507.13801v1)** | 2025-07-18 |  |
-| **[Quantifying the Improvement of Accessibility achieved via Shared Mobility on Demand](http://arxiv.org/abs/2507.13100v1)** | 2025-07-17 |  |
-| **[STI-Bench: Are MLLMs Ready for Precise Spatial-Temporal World Understanding?](http://arxiv.org/abs/2503.23765v6)** | 2025-07-17 |  |
 
