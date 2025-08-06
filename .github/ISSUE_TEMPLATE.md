@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 06, 2025
+title: Latest 15 Papers - August 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Supervised Dynamic Dimension Reduction with Deep Neural Network](http://arxiv.org/abs/2508.03546v1)** | 2025-08-05 |  |
+| **[Full-History Graphs with Edge-Type Decoupled Networks for Temporal Reasoning](http://arxiv.org/abs/2508.03251v1)** | 2025-08-05 | <details><summary>Europ...</summary><p>European Conference of Artificial Intelligence 2025</p></details> |
+| **[Byte Pair Encoding for Efficient Time Series Forecasting](http://arxiv.org/abs/2505.14411v2)** | 2025-08-05 | <details><summary>24 pa...</summary><p>24 pages in total, 17 figures</p></details> |
 | **[DeepKoopFormer: A Koopman Enhanced Transformer Based Architecture for Time Series Forecasting](http://arxiv.org/abs/2508.02616v1)** | 2025-08-04 |  |
 | **[Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting](http://arxiv.org/abs/2502.02410v3)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted as ICML 2025 Spotlight</p></details> |
 | **[SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration](http://arxiv.org/abs/2508.02069v1)** | 2025-08-04 | 7 pages, 4 figures |
 | **[Revitalizing Canonical Pre-Alignment for Irregular Multivariate Time Series Forecasting](http://arxiv.org/abs/2508.01971v1)** | 2025-08-04 | Under review |
 | **[Informed Forecasting: Leveraging Auxiliary Knowledge to Boost LLM Performance on Time Series Forecasting](http://arxiv.org/abs/2505.10213v2)** | 2025-08-03 |  |
 | **[Semantically-Guided Inference for Conditional Diffusion Models: Enhancing Covariate Consistency in Time Series Forecasting](http://arxiv.org/abs/2508.01761v1)** | 2025-08-03 |  |
+| **[DMSC: Dynamic Multi-Scale Coordination Framework for Time Series Forecasting](http://arxiv.org/abs/2508.02753v1)** | 2025-08-03 |  |
 | **[OccamVTS: Distilling Vision Models to 1% Parameters for Time Series Forecasting](http://arxiv.org/abs/2508.01727v1)** | 2025-08-03 |  |
 | **[BEAT: Balanced Frequency Adaptive Tuning for Long-Term Time-Series Forecasting](http://arxiv.org/abs/2501.19065v2)** | 2025-08-03 | 9 pages, 1 figure |
 | **[KANMixer: Can KAN Serve as a New Modeling Core for Long-term Time Series Forecasting?](http://arxiv.org/abs/2508.01575v1)** | 2025-08-03 | <details><summary>11 pa...</summary><p>11 pages, 3 figures, 5 tables</p></details> |
 | **[CPformer -- Concept and Physics enhanced Transformer for Time Series Forecasting](http://arxiv.org/abs/2508.01407v1)** | 2025-08-02 |  |
 | **[Fourier Basis Mapping: A Time-Frequency Learning Framework for Time Series Forecasting](http://arxiv.org/abs/2507.09445v2)** | 2025-08-02 | 18 pages, 6 figures |
-| **[Enhancing Time Series Forecasting via Multi-Level Text Alignment with LLMs](http://arxiv.org/abs/2504.07360v2)** | 2025-08-01 | <details><summary>This ...</summary><p>This paper is accepted by DASFAA2025</p></details> |
-| **[Rethinking Irregular Time Series Forecasting: A Simple yet Effective Baseline](http://arxiv.org/abs/2505.11250v2)** | 2025-08-01 |  |
-| **[KFS: KAN based adaptive Frequency Selection learning architecture for long term time series forecasting](http://arxiv.org/abs/2508.00635v1)** | 2025-08-01 |  |
-| **[Wavelet-Based Time-Frequency Fingerprinting for Feature Extraction of Traditional Irish Music](http://arxiv.org/abs/2508.00479v1)** | 2025-08-01 | <details><summary>Maste...</summary><p>Master's thesis. The focus of the thesis is on the underlying techniques for signal fingerprinting</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Long-term Traffic Simulation with Interleaved Autoregressive Motion and Scenario Generation](http://arxiv.org/abs/2506.17213v2)** | 2025-08-05 | <details><summary>ICCV ...</summary><p>ICCV 2025. Project page: https://orangesodahub.github.io/InfGen Code: https://github.com/OrangeSodahub/infgen</p></details> |
+| **[WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching](http://arxiv.org/abs/2508.03151v1)** | 2025-08-05 |  |
+| **[MIDAR: Mimicking LiDAR Detection for Traffic Applications with a Lightweight Plug-and-Play Model](http://arxiv.org/abs/2508.02858v1)** | 2025-08-04 | 18 pages, 9 figures |
 | **[Traffic-R1: Reinforced LLMs Bring Human-Like Reasoning to Traffic Signal Control Systems](http://arxiv.org/abs/2508.02344v1)** | 2025-08-04 |  |
 | **[UoMo: A Foundation Model for Mobile Traffic Forecasting with Diffusion Model](http://arxiv.org/abs/2410.15322v3)** | 2025-08-04 | <details><summary>2025 ...</summary><p>2025 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD 2025</p></details> |
 | **[Distillation-Enhanced Clustering Acceleration for Encrypted Traffic Classification](http://arxiv.org/abs/2508.02282v1)** | 2025-08-04 | Under review |
@@ -38,13 +41,12 @@ labels: documentation
 | **[LAVA: Language Driven Scalable and Versatile Traffic Video Analytics](http://arxiv.org/abs/2507.19821v2)** | 2025-08-02 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025, code: https://github.com/yuyanrui/LAVA</p></details> |
 | **[Embracing Large Language Models in Traffic Flow Forecasting](http://arxiv.org/abs/2412.12201v2)** | 2025-08-01 | Accepted by ACL 2025 |
 | **[Spatial-Temporal Reinforcement Learning for Network Routing with Non-Markovian Traffic](http://arxiv.org/abs/2507.22174v2)** | 2025-07-31 |  |
-| **[EP-Diffuser: An Efficient Diffusion Model for Traffic Scene Generation and Prediction via Polynomial Representations](http://arxiv.org/abs/2504.05422v3)** | 2025-07-31 |  |
-| **[Contrastive Learning-Driven Traffic Sign Perception: Multi-Modal Fusion of Text and Vision](http://arxiv.org/abs/2507.23331v1)** | 2025-07-31 | 11pages, 5 figures |
-| **[Controllable Traffic Simulation through LLM-Guided Hierarchical Reasoning and Refinement](http://arxiv.org/abs/2409.15135v2)** | 2025-07-31 | <details><summary>Accep...</summary><p>Accepted by IROS 2025</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WaMo: Wavelet-Enhanced Multi-Frequency Trajectory Analysis for Fine-Grained Text-Motion Retrieval](http://arxiv.org/abs/2508.03343v1)** | 2025-08-05 |  |
+| **[Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition](http://arxiv.org/abs/2507.21977v2)** | 2025-08-05 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
 | **[ADformer: A Multi-Granularity Spatial-Temporal Transformer for EEG-Based Alzheimer Detection](http://arxiv.org/abs/2409.00032v2)** | 2025-08-04 | <details><summary>This ...</summary><p>This work will be submitted to the IEEE for possible publication</p></details> |
 | **[SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration](http://arxiv.org/abs/2508.02069v1)** | 2025-08-04 | 7 pages, 4 figures |
 | **[StarPose: 3D Human Pose Estimation via Spatial-Temporal Autoregressive Diffusion](http://arxiv.org/abs/2508.02056v1)** | 2025-08-04 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[CoST: Efficient Collaborative Perception From Unified Spatiotemporal Perspective](http://arxiv.org/abs/2508.00359v1)** | 2025-08-01 | ICCV25 (Highlight) |
 | **[EmissionNet: Air Quality Pollution Forecasting for Agriculture](http://arxiv.org/abs/2507.05416v3)** | 2025-08-01 | <details><summary>The a...</summary><p>The appendix figures are mixed up - several emission plots (e.g. CO2, CH4, GWP) are mislabeled and appear in the wrong order, leading to confusion in interpreting the results</p></details> |
 | **[Identifying Unique Spatial-Temporal Bayesian Network without Markov Equivalence](http://arxiv.org/abs/2211.10085v4)** | 2025-08-01 | <details><summary>This ...</summary><p>This manuscript is submitted to facilitate early access and encourage follow-up research by other scholars. The code for this work is available at: https://github.com/KMY-SEU/HCE. We sincerely thank you for your support!</p></details> |
-| **[Spatial-Temporal Reinforcement Learning for Network Routing with Non-Markovian Traffic](http://arxiv.org/abs/2507.22174v2)** | 2025-07-31 |  |
-| **[Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space](http://arxiv.org/abs/2503.09215v3)** | 2025-07-31 | 8 pages, 7 figures |
 
