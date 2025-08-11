@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2025
+title: Latest 15 Papers - August 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[iTFKAN: Interpretable Time Series Forecasting with Kolmogorov-Arnold Network](http://arxiv.org/abs/2504.16432v2)** | 2025-08-08 | <details><summary>Curre...</summary><p>Currently under review at IEEE Transactions on Knowledge and Data Engineering</p></details> |
+| **[Movement-Prediction-Adjusted Naive Forecast](http://arxiv.org/abs/2406.14469v9)** | 2025-08-08 |  |
+| **[Time-Prompt: Integrated Heterogeneous Prompts for Unlocking LLMs in Time Series Forecasting](http://arxiv.org/abs/2506.17631v2)** | 2025-08-08 |  |
+| **[Holistic Explainable AI (H-XAI): Extending Transparency Beyond Developers in AI-Driven Decision Making](http://arxiv.org/abs/2508.05792v1)** | 2025-08-07 |  |
 | **[FlowState: Sampling Rate Invariant Time Series Forecasting](http://arxiv.org/abs/2508.05287v1)** | 2025-08-07 | <details><summary>Curre...</summary><p>Currently under review at AAAI 2026</p></details> |
 | **[Salt-Rock Creep Deformation Forecasting Using Deep Neural Networks and Analytical Models for Subsurface Energy Storage Applications](http://arxiv.org/abs/2508.05248v1)** | 2025-08-07 |  |
 | **[Q-DPTS: Quantum Differentially Private Time Series Forecasting via Variational Quantum Circuits](http://arxiv.org/abs/2508.05036v1)** | 2025-08-07 |  |
@@ -18,14 +22,13 @@ labels: documentation
 | **[PA-RNet: Perturbation-Aware Reasoning Network for Multimodal Time Series Forecasting](http://arxiv.org/abs/2508.04750v1)** | 2025-08-06 |  |
 | **[DP-GPT4MTS: Dual-Prompt Large Language Model for Textual-Numerical Time Series Forecasting](http://arxiv.org/abs/2508.04239v1)** | 2025-08-06 |  |
 | **[Empowering Time Series Forecasting with LLM-Agents](http://arxiv.org/abs/2508.04231v1)** | 2025-08-06 |  |
-| **[BadTime: An Effective Backdoor Attack on Multivariate Long-Term Time Series Forecasting](http://arxiv.org/abs/2508.04189v1)** | 2025-08-06 |  |
-| **[KFS: KAN based adaptive Frequency Selection learning architecture for long term time series forecasting](http://arxiv.org/abs/2508.00635v2)** | 2025-08-06 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2406.03751 by other authors</p></details> |
-| **[DMSC: Dynamic Multi-Scale Coordination Framework for Time Series Forecasting](http://arxiv.org/abs/2508.02753v2)** | 2025-08-06 |  |
-| **[Time Evidence Fusion Network: Multi-source View in Long-Term Time Series Forecasting](http://arxiv.org/abs/2405.06419v4)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Lightweight Auto-bidding based on Traffic Prediction in Live Advertising](http://arxiv.org/abs/2508.06069v1)** | 2025-08-08 |  |
+| **[InterAct-Video: Reasoning-Rich Video QA for Urban Traffic](http://arxiv.org/abs/2507.14743v2)** | 2025-08-08 |  |
+| **[Spatio-Temporal Partial Sensing Forecast for Long-term Traffic](http://arxiv.org/abs/2408.02689v2)** | 2025-08-08 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research, 2025</p></details> |
 | **[Channel-Independent Federated Traffic Prediction](http://arxiv.org/abs/2508.04517v1)** | 2025-08-06 |  |
 | **[Reconstructing Physics-Informed Machine Learning for Traffic Flow Modeling: a Multi-Gradient Descent and Pareto Learning Approach](http://arxiv.org/abs/2505.13241v2)** | 2025-08-06 |  |
 | **[CityLight: A Neighborhood-inclusive Universal Model for Coordinated City-scale Traffic Signal Control](http://arxiv.org/abs/2406.02126v4)** | 2025-08-06 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[AirTrafficGen: Configurable Air Traffic Scenario Generation with Large Language Models](http://arxiv.org/abs/2508.02269v1)** | 2025-08-04 | <details><summary>7 pag...</summary><p>7 pages and appendices</p></details> |
 | **[Real-Time Conflict Prediction for Large Truck Merging in Mixed Traffic at Work Zone Lane Closures](http://arxiv.org/abs/2508.02109v1)** | 2025-08-04 | <details><summary>This ...</summary><p>This work has been submitted to the Transportation Research Record: Journal of the Transportation Research Board for possible publication</p></details> |
 | **[Traffic Scene Generation from Natural Language Description for Autonomous Vehicles with Large Language Model](http://arxiv.org/abs/2409.09575v3)** | 2025-08-04 |  |
-| **[Mapillary Vistas Validation for Fine-Grained Traffic Signs: A Benchmark Revealing Vision-Language Model Limitations](http://arxiv.org/abs/2508.02047v1)** | 2025-08-04 | <details><summary>Accep...</summary><p>Accepted to ICCV 2025 Workshop (4th DataCV Workshop and Challenge)</p></details> |
-| **[PRIME: Plasticity-Robust Incremental Model for Encrypted Traffic Classification in Dynamic Network Environments](http://arxiv.org/abs/2508.02031v1)** | 2025-08-04 |  |
-| **[Convolutions are Competitive with Transformers for Encrypted Traffic Classification with Pre-training](http://arxiv.org/abs/2508.02001v1)** | 2025-08-04 | Under review |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
