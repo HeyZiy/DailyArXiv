@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](http://arxiv.org/abs/2508.11175v1)** | 2025-08-15 |  |
+| **[LETS Forecast: Learning Embedology for Time Series Forecasting](http://arxiv.org/abs/2506.06454v2)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML) 2025</p></details> |
 | **[Goal-Oriented Time-Series Forecasting: Foundation Framework Design](http://arxiv.org/abs/2504.17493v3)** | 2025-08-14 |  |
 | **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](http://arxiv.org/abs/2508.07697v2)** | 2025-08-14 | 14 pages,9 figures |
 | **[Distributed Lag Transformer based on Time-Variable-Aware Learning for Explainable Multivariate Time Series Forecasting](http://arxiv.org/abs/2408.16896v2)** | 2025-08-13 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Adaptive Fine-Tuning via Pattern Specialization for Deep Time Series Forecasting](http://arxiv.org/abs/2508.07927v1)** | 2025-08-11 |  |
 | **[N-BEATS-MOE: N-BEATS with a Mixture-of-Experts Layer for Heterogeneous Time Series Forecasting](http://arxiv.org/abs/2508.07490v1)** | 2025-08-10 |  |
 | **[Adapting LLMs to Time Series Forecasting via Temporal Heterogeneity Modeling and Semantic Alignment](http://arxiv.org/abs/2508.07195v1)** | 2025-08-10 |  |
-| **[TLCCSP: A Scalable Framework for Enhancing Time Series Forecasting with Time-Lagged Cross-Correlations](http://arxiv.org/abs/2508.07016v1)** | 2025-08-09 |  |
-| **[QuiZSF: An efficient data-model interaction framework for zero-shot time-series forecasting](http://arxiv.org/abs/2508.06915v1)** | 2025-08-09 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Predicting and Explaining Traffic Crash Severity Through Crash Feature Selection](http://arxiv.org/abs/2508.11504v1)** | 2025-08-15 | <details><summary>Prepr...</summary><p>Preprint. Manuscript under review at "Accident Analysis & Prevention" journal</p></details> |
+| **[AirTrafficGen: Configurable Air Traffic Scenario Generation with Large Language Models](http://arxiv.org/abs/2508.02269v2)** | 2025-08-15 | <details><summary>9 pag...</summary><p>9 pages and appendices</p></details> |
 | **[Traffic Intersection Simulation Using Turning Movement Count Data in SUMO: A Case Study of Toronto Intersections](http://arxiv.org/abs/2508.10733v1)** | 2025-08-14 | <details><summary>Publi...</summary><p>Published in 2025 21st DCOSS-IoT, Code is available at Github: https://github.com/ANTS-OntarioTechU/CrossFlow</p></details> |
 | **[Beyond conventional vision: RGB-event fusion for robust object detection in dynamic traffic scenarios](http://arxiv.org/abs/2508.10704v1)** | 2025-08-14 |  |
 | **[Gaze-Based Indicators of Driver Cognitive Distraction: Effects of Different Traffic Conditions and Adaptive Cruise Control Use](http://arxiv.org/abs/2508.10624v1)** | 2025-08-14 |  |
@@ -39,14 +41,14 @@ labels: documentation
 | **[Carbon Pricing in Traffic Networks](http://arxiv.org/abs/2508.09280v1)** | 2025-08-12 | 29 pages, 2 figures |
 | **[Generalising Traffic Forecasting to Regions without Traffic Observations](http://arxiv.org/abs/2508.08947v1)** | 2025-08-12 |  |
 | **[Safety Perspective on Assisted Lane Changes: Insights from Open-Road, Live-Traffic Experiments](http://arxiv.org/abs/2508.09233v1)** | 2025-08-12 | 21 pages, 8 Figures |
-| **[Cluster Topology-Driven Placement of Experts Reduces Network Traffic in MoE Inference](http://arxiv.org/abs/2508.09229v1)** | 2025-08-12 |  |
-| **[DriveIndia: An Object Detection Dataset for Diverse Indian Traffic Scenes](http://arxiv.org/abs/2507.19912v3)** | 2025-08-12 | <details><summary>Accep...</summary><p>Accepted at ITSC 2025 Conference</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MobQA: A Benchmark Dataset for Semantic Understanding of Human Mobility Data through Question Answering](http://arxiv.org/abs/2508.11163v1)** | 2025-08-15 | 23 pages, 12 figures |
 | **[Cooperative Face Liveness Detection from Optical Flow](http://arxiv.org/abs/2508.10786v1)** | 2025-08-14 |  |
 | **[Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition](http://arxiv.org/abs/2507.21977v3)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
+| **[EVCtrl: Efficient Control Adapter for Visual Generation](http://arxiv.org/abs/2508.10963v1)** | 2025-08-14 |  |
 | **[Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection](http://arxiv.org/abs/2508.10568v1)** | 2025-08-14 | work in progress |
 | **[HGAurban: Heterogeneous Graph Autoencoding for Urban Spatial-Temporal Learning](http://arxiv.org/abs/2410.10915v2)** | 2025-08-14 | 10 pages |
 | **[Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning](http://arxiv.org/abs/2506.05207v2)** | 2025-08-13 | <details><summary>proje...</summary><p>project page: https://follow-your-motion.github.io/</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[CharacterShot: Controllable and Consistent 4D Character Animation](http://arxiv.org/abs/2508.07409v1)** | 2025-08-10 | <details><summary>13 pa...</summary><p>13 pages, 10 figures. Code at https://github.com/Jeoyal/CharacterShot</p></details> |
 | **[BrainATCL: Adaptive Temporal Brain Connectivity Learning for Functional Link Prediction and Age Estimation](http://arxiv.org/abs/2508.07106v1)** | 2025-08-09 |  |
 | **[StarPose: 3D Human Pose Estimation via Spatial-Temporal Autoregressive Diffusion](http://arxiv.org/abs/2508.02056v2)** | 2025-08-09 |  |
-| **[Zero-Shot Cellular Trajectory Map Matching](http://arxiv.org/abs/2508.06674v1)** | 2025-08-08 |  |
-| **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](http://arxiv.org/abs/2508.05635v1)** | 2025-08-07 | <details><summary>https...</summary><p>https://genie-envisioner.github.io/</p></details> |
 
