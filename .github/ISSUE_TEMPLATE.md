@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2025
+title: Latest 15 Papers - August 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HRS: Hybrid Representation Framework with Scheduling Awareness for Time Series Forecasting in Crowdsourced Cloud-Edge Platforms](http://arxiv.org/abs/2508.12839v1)** | 2025-08-18 | <details><summary>10 pa...</summary><p>10 pages, 14 figures, ECAI2025</p></details> |
+| **[PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting](http://arxiv.org/abs/2508.13773v1)** | 2025-08-19 |  |
+| **[FlowState: Sampling Rate Invariant Time Series Forecasting](http://arxiv.org/abs/2508.05287v2)** | 2025-08-19 | <details><summary>Curre...</summary><p>Currently under review</p></details> |
+| **[HRS: Hybrid Representation Framework with Scheduling Awareness for Time Series Forecasting in Crowdsourced Cloud-Edge Platforms](http://arxiv.org/abs/2508.12839v2)** | 2025-08-19 | <details><summary>10 pa...</summary><p>10 pages, 14 figures, ECAI2025</p></details> |
+| **[DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework](http://arxiv.org/abs/2507.21830v3)** | 2025-08-19 | <details><summary>This ...</summary><p>This paper has been accepted by ACM Multimedia 2025 (ACM MM 2025)</p></details> |
+| **[EventTSF: Event-Aware Non-Stationary Time Series Forecasting](http://arxiv.org/abs/2508.13434v1)** | 2025-08-19 | 13 pages, 10 figures |
 | **[SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration](http://arxiv.org/abs/2508.02069v2)** | 2025-08-18 | 9 pages, 4 figures |
 | **[TFB: Towards Comprehensive and Fair Benchmarking of Time Series Forecasting Methods](http://arxiv.org/abs/2403.20150v4)** | 2025-08-18 | <details><summary>Direc...</summary><p>Directly accepted by PVLDB 2024, VLDB Best Research Paper Award Nomination 2024</p></details> |
 | **[Deep Learning-Based Financial Time Series Forecasting via Sliding Window and Variational Mode Decomposition](http://arxiv.org/abs/2508.12565v1)** | 2025-08-18 |  |
@@ -18,14 +22,13 @@ labels: documentation
 | **[LETS Forecast: Learning Embedology for Time Series Forecasting](http://arxiv.org/abs/2506.06454v2)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML) 2025</p></details> |
 | **[Goal-Oriented Time-Series Forecasting: Foundation Framework Design](http://arxiv.org/abs/2504.17493v3)** | 2025-08-14 |  |
 | **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](http://arxiv.org/abs/2508.07697v2)** | 2025-08-14 | 14 pages,9 figures |
-| **[Distributed Lag Transformer based on Time-Variable-Aware Learning for Explainable Multivariate Time Series Forecasting](http://arxiv.org/abs/2408.16896v2)** | 2025-08-13 |  |
-| **[Measuring Time Series Forecast Stability for Demand Planning](http://arxiv.org/abs/2508.10063v1)** | 2025-08-13 | <details><summary>6 pag...</summary><p>6 pages, 3 figures; KDD '25</p></details> |
-| **[Synaptic Pruning: A Biological Inspiration for Deep Learning Regularization](http://arxiv.org/abs/2508.09330v1)** | 2025-08-12 | 24 pages, 7 figures |
-| **[Fre-CW: Targeted Attack on Time Series Forecasting using Frequency Domain Loss](http://arxiv.org/abs/2508.08955v1)** | 2025-08-12 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference](http://arxiv.org/abs/2508.13439v1)** | 2025-08-19 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 1 table</p></details> |
+| **[STPFormer: A State-of-the-Art Pattern-Aware Spatio-Temporal Transformer for Traffic Forecasting](http://arxiv.org/abs/2508.13433v1)** | 2025-08-19 |  |
+| **[Towards Vision Zero: The TUM Traffic Accid3nD Dataset](http://arxiv.org/abs/2503.12095v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted for the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)</p></details> |
 | **[SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior](http://arxiv.org/abs/2508.12777v1)** | 2025-08-18 |  |
 | **[Argos: A Decentralized Federated System for Detection of Traffic Signs in CAVs](http://arxiv.org/abs/2508.12712v1)** | 2025-08-18 | 7 pages, 10 figures |
 | **[RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation](http://arxiv.org/abs/2505.03344v2)** | 2025-08-18 |  |
@@ -38,13 +41,15 @@ labels: documentation
 | **[AirTrafficGen: Configurable Air Traffic Scenario Generation with Large Language Models](http://arxiv.org/abs/2508.02269v2)** | 2025-08-15 | <details><summary>9 pag...</summary><p>9 pages and appendices</p></details> |
 | **[Traffic Intersection Simulation Using Turning Movement Count Data in SUMO: A Case Study of Toronto Intersections](http://arxiv.org/abs/2508.10733v1)** | 2025-08-14 | <details><summary>Publi...</summary><p>Published in 2025 21st DCOSS-IoT, Code is available at Github: https://github.com/ANTS-OntarioTechU/CrossFlow</p></details> |
 | **[Beyond conventional vision: RGB-event fusion for robust object detection in dynamic traffic scenarios](http://arxiv.org/abs/2508.10704v1)** | 2025-08-14 |  |
-| **[Gaze-Based Indicators of Driver Cognitive Distraction: Effects of Different Traffic Conditions and Adaptive Cruise Control Use](http://arxiv.org/abs/2508.10624v1)** | 2025-08-14 |  |
-| **[Are Electrodermal Activity-Based Indicators of Driver Cognitive Distraction Robust to Varying Traffic Conditions and Adaptive Cruise Control Use?](http://arxiv.org/abs/2508.10620v1)** | 2025-08-14 |  |
-| **[M3-Net: A Cost-Effective Graph-Free MLP-Based Model for Traffic Prediction](http://arxiv.org/abs/2508.08543v2)** | 2025-08-14 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial-Temporal Transformer with Curriculum Learning for EEG-Based Emotion Recognition](http://arxiv.org/abs/2507.14698v2)** | 2025-08-19 |  |
+| **[Where to Go Next Day: Multi-scale Spatial-Temporal Decoupled Model for Mid-term Human Mobility Prediction](http://arxiv.org/abs/2501.06561v2)** | 2025-08-19 |  |
+| **[ContrastAlign: Toward Robust BEV Feature Alignment via Contrastive Learning for Multi-Modal 3D Object Detection](http://arxiv.org/abs/2405.16873v3)** | 2025-08-19 | 12 pages, 3 figures |
+| **[ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments](http://arxiv.org/abs/2508.13488v1)** | 2025-08-19 | 8 pages, 9 figures |
+| **[STPFormer: A State-of-the-Art Pattern-Aware Spatio-Temporal Transformer for Traffic Forecasting](http://arxiv.org/abs/2508.13433v1)** | 2025-08-19 |  |
 | **[The Maximum Coverage Model and Recommendation System for UAV Vertiports Location Planning](http://arxiv.org/abs/2508.12651v1)** | 2025-08-18 | 10 pages |
 | **[SpikeSTAG: Spatial-Temporal Forecasting via GNN-SNN Collaboration](http://arxiv.org/abs/2508.02069v2)** | 2025-08-18 | 9 pages, 4 figures |
 | **[TiP4GEN: Text to Immersive Panorama 4D Scene Generation](http://arxiv.org/abs/2508.12415v1)** | 2025-08-17 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[EVCtrl: Efficient Control Adapter for Visual Generation](http://arxiv.org/abs/2508.10963v1)** | 2025-08-14 |  |
 | **[Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection](http://arxiv.org/abs/2508.10568v1)** | 2025-08-14 | work in progress |
 | **[HGAurban: Heterogeneous Graph Autoencoding for Urban Spatial-Temporal Learning](http://arxiv.org/abs/2410.10915v2)** | 2025-08-14 | 10 pages |
-| **[Follow-Your-Motion: Video Motion Transfer via Efficient Spatial-Temporal Decoupled Finetuning](http://arxiv.org/abs/2506.05207v2)** | 2025-08-13 | <details><summary>proje...</summary><p>project page: https://follow-your-motion.github.io/</p></details> |
-| **[Spatial Traces: Enhancing VLA Models with Spatial-Temporal Understanding](http://arxiv.org/abs/2508.09032v1)** | 2025-08-12 |  |
-| **[Spatial-Temporal Multi-Scale Quantization for Flexible Motion Generation](http://arxiv.org/abs/2508.08991v1)** | 2025-08-12 | 18 pages |
-| **[KFFocus: Highlighting Keyframes for Enhanced Video Understanding](http://arxiv.org/abs/2508.08989v1)** | 2025-08-12 |  |
-| **[Disentangling Multiplex Spatial-Temporal Transition Graph Representation Learning for Socially Enhanced POI Recommendation](http://arxiv.org/abs/2508.07649v1)** | 2025-08-11 |  |
 
