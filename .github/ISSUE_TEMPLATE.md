@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 21, 2025
+title: Latest 15 Papers - August 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Benchmarking Pre-Trained Time Series Models for Electricity Price Forecasting](http://arxiv.org/abs/2506.08113v2)** | 2025-08-20 |  |
 | **[PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting](http://arxiv.org/abs/2508.13773v1)** | 2025-08-19 |  |
 | **[FlowState: Sampling Rate Invariant Time Series Forecasting](http://arxiv.org/abs/2508.05287v2)** | 2025-08-19 | <details><summary>Curre...</summary><p>Currently under review</p></details> |
 | **[HRS: Hybrid Representation Framework with Scheduling Awareness for Time Series Forecasting in Crowdsourced Cloud-Edge Platforms](http://arxiv.org/abs/2508.12839v2)** | 2025-08-19 | <details><summary>10 pa...</summary><p>10 pages, 14 figures, ECAI2025</p></details> |
@@ -21,11 +22,14 @@ labels: documentation
 | **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](http://arxiv.org/abs/2508.11175v1)** | 2025-08-15 |  |
 | **[LETS Forecast: Learning Embedology for Time Series Forecasting](http://arxiv.org/abs/2506.06454v2)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted at International Conference on Machine Learning (ICML) 2025</p></details> |
 | **[Goal-Oriented Time-Series Forecasting: Foundation Framework Design](http://arxiv.org/abs/2504.17493v3)** | 2025-08-14 |  |
-| **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](http://arxiv.org/abs/2508.07697v2)** | 2025-08-14 | 14 pages,9 figures |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning from user's behaviour of some well-known congested traffic networks](http://arxiv.org/abs/2508.14804v1)** | 2025-08-20 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 3 tables</p></details> |
+| **[Safety-Critical Learning for Long-Tail Events: The TUM Traffic Accident Dataset](http://arxiv.org/abs/2508.14567v1)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted for ICRA 40 Year Anniversary (ICRA40)</p></details> |
+| **[Computing-In-Memory Dataflow for Minimal Buffer Traffic](http://arxiv.org/abs/2508.14375v1)** | 2025-08-20 | <details><summary>IEEE ...</summary><p>IEEE International Conference on Computer Design</p></details> |
+| **[DeeP-TE: Data-enabled Predictive Traffic Engineering](http://arxiv.org/abs/2508.14281v1)** | 2025-08-19 |  |
 | **[Structured Prompting and Multi-Agent Knowledge Distillation for Traffic Video Interpretation and Risk Inference](http://arxiv.org/abs/2508.13439v1)** | 2025-08-19 | <details><summary>16 pa...</summary><p>16 pages, 10 figures, 1 table</p></details> |
 | **[STPFormer: A State-of-the-Art Pattern-Aware Spatio-Temporal Transformer for Traffic Forecasting](http://arxiv.org/abs/2508.13433v1)** | 2025-08-19 |  |
 | **[Towards Vision Zero: The TUM Traffic Accid3nD Dataset](http://arxiv.org/abs/2503.12095v2)** | 2025-08-18 | <details><summary>Accep...</summary><p>Accepted for the IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)</p></details> |
@@ -37,16 +41,17 @@ labels: documentation
 | **[SafePLUG: Empowering Multimodal LLMs with Pixel-Level Insight and Temporal Grounding for Traffic Accident Understanding](http://arxiv.org/abs/2508.06763v2)** | 2025-08-17 | <details><summary>The c...</summary><p>The code, dataset, and model checkpoints will be made publicly available at: https://zihaosheng.github.io/SafePLUG</p></details> |
 | **[Euclidean Approach to Green-Wave Theory Applied to Traffic Signal Networks](http://arxiv.org/abs/2508.12146v1)** | 2025-08-16 | 74 pages, 49 figures |
 | **[Scale-Disentangled spatiotemporal Modeling for Long-term Traffic Emission Forecasting](http://arxiv.org/abs/2508.11923v1)** | 2025-08-16 |  |
-| **[Predicting and Explaining Traffic Crash Severity Through Crash Feature Selection](http://arxiv.org/abs/2508.11504v1)** | 2025-08-15 | <details><summary>Prepr...</summary><p>Preprint. Manuscript under review at "Accident Analysis & Prevention" journal</p></details> |
-| **[AirTrafficGen: Configurable Air Traffic Scenario Generation with Large Language Models](http://arxiv.org/abs/2508.02269v2)** | 2025-08-15 | <details><summary>9 pag...</summary><p>9 pages and appendices</p></details> |
-| **[Traffic Intersection Simulation Using Turning Movement Count Data in SUMO: A Case Study of Toronto Intersections](http://arxiv.org/abs/2508.10733v1)** | 2025-08-14 | <details><summary>Publi...</summary><p>Published in 2025 21st DCOSS-IoT, Code is available at Github: https://github.com/ANTS-OntarioTechU/CrossFlow</p></details> |
-| **[Beyond conventional vision: RGB-event fusion for robust object detection in dynamic traffic scenarios](http://arxiv.org/abs/2508.10704v1)** | 2025-08-14 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From Sparse Inputs without Per-Scene Optimization](http://arxiv.org/abs/2508.14811v1)** | 2025-08-20 | <details><summary>Proje...</summary><p>Project webpage: https://aim-uofa.github.io/Tinker</p></details> |
+| **[TRUST-Planner: Topology-guided Robust Trajectory Planner for AAVs with Uncertain Obstacle Spatial-temporal Avoidance](http://arxiv.org/abs/2508.14610v1)** | 2025-08-20 |  |
+| **[UST-SSM: Unified Spatio-Temporal State Space Models for Point Cloud Video Modeling](http://arxiv.org/abs/2508.14604v1)** | 2025-08-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, Accepted to ICCV2025</p></details> |
+| **[MMAD: Multi-label Micro-Action Detection in Videos](http://arxiv.org/abs/2407.05311v3)** | 2025-08-20 | <details><summary>Accep...</summary><p>Accepted by ICCV 2025</p></details> |
 | **[Spatial-Temporal Transformer with Curriculum Learning for EEG-Based Emotion Recognition](http://arxiv.org/abs/2507.14698v2)** | 2025-08-19 |  |
 | **[Where to Go Next Day: Multi-scale Spatial-Temporal Decoupled Model for Mid-term Human Mobility Prediction](http://arxiv.org/abs/2501.06561v2)** | 2025-08-19 |  |
+| **[STAS: Spatio-Temporal Adaptive Computation Time for Spiking Transformers](http://arxiv.org/abs/2508.14138v1)** | 2025-08-19 | 8 pages |
 | **[ContrastAlign: Toward Robust BEV Feature Alignment via Contrastive Learning for Multi-Modal 3D Object Detection](http://arxiv.org/abs/2405.16873v3)** | 2025-08-19 | 12 pages, 3 figures |
 | **[ROVER: Robust Loop Closure Verification with Trajectory Prior in Repetitive Environments](http://arxiv.org/abs/2508.13488v1)** | 2025-08-19 | 8 pages, 9 figures |
 | **[STPFormer: A State-of-the-Art Pattern-Aware Spatio-Temporal Transformer for Traffic Forecasting](http://arxiv.org/abs/2508.13433v1)** | 2025-08-19 |  |
@@ -55,9 +60,4 @@ labels: documentation
 | **[TiP4GEN: Text to Immersive Panorama 4D Scene Generation](http://arxiv.org/abs/2508.12415v1)** | 2025-08-17 |  |
 | **[Exploring Spatial-Temporal Dynamics in Event-based Facial Micro-Expression Analysis](http://arxiv.org/abs/2508.11988v1)** | 2025-08-16 |  |
 | **[MobQA: A Benchmark Dataset for Semantic Understanding of Human Mobility Data through Question Answering](http://arxiv.org/abs/2508.11163v1)** | 2025-08-15 | 23 pages, 12 figures |
-| **[Cooperative Face Liveness Detection from Optical Flow](http://arxiv.org/abs/2508.10786v1)** | 2025-08-14 |  |
-| **[Motion Matters: Motion-guided Modulation Network for Skeleton-based Micro-Action Recognition](http://arxiv.org/abs/2507.21977v3)** | 2025-08-14 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2025</p></details> |
-| **[EVCtrl: Efficient Control Adapter for Visual Generation](http://arxiv.org/abs/2508.10963v1)** | 2025-08-14 |  |
-| **[Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection](http://arxiv.org/abs/2508.10568v1)** | 2025-08-14 | work in progress |
-| **[HGAurban: Heterogeneous Graph Autoencoding for Urban Spatial-Temporal Learning](http://arxiv.org/abs/2410.10915v2)** | 2025-08-14 | 10 pages |
 
