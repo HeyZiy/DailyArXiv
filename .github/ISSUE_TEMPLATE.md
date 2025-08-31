@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 29, 2025
+title: Latest 15 Papers - September 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compositionality in Time Series: A Proof of Concept using Symbolic Dynamics and Compositional Data Augmentation](http://arxiv.org/abs/2508.20656v1)** | 2025-08-28 |  |
+| **[On Identifying Why and When Foundation Models Perform Well on Time-Series Forecasting Using Automated Explanations and Rating](http://arxiv.org/abs/2508.20437v1)** | 2025-08-28 | <details><summary>8 pag...</summary><p>8 pages, 5 Tables, 5 Figures, AI Trustworthiness and Risk Assessment for Challenged Contexts (ATRACC), Appendix</p></details> |
+| **[Filter then Attend: Improving attention-based Time Series Forecasting with Spectral Filtering](http://arxiv.org/abs/2508.20206v1)** | 2025-08-27 |  |
 | **[BinConv: A Neural Architecture for Ordinal Encoding in Time-Series Forecasting](http://arxiv.org/abs/2505.24595v3)** | 2025-08-27 |  |
 | **[FinCast: A Foundation Model for Financial Time-Series Forecasting](http://arxiv.org/abs/2508.19609v1)** | 2025-08-27 |  |
 | **[Functional Time Series Forecasting of Distributions: A Koopman-Wasserstein Approach](http://arxiv.org/abs/2507.07570v2)** | 2025-08-27 | revised |
@@ -19,12 +22,13 @@ labels: documentation
 | **[FLAIRR-TS -- Forecasting LLM-Agents with Iterative Refinement and Retrieval for Time Series](http://arxiv.org/abs/2508.19279v1)** | 2025-08-24 | EMNLP |
 | **[Uncertainty Propagation Networks for Neural Ordinary Differential Equations](http://arxiv.org/abs/2508.16815v1)** | 2025-08-22 |  |
 | **[PENGUIN: Enhancing Transformer with Periodic-Nested Group Attention for Long-term Time Series Forecasting](http://arxiv.org/abs/2508.13773v2)** | 2025-08-22 |  |
-| **[Integrating Time Series into LLMs via Multi-layer Steerable Embedding Fusion for Enhanced Forecasting](http://arxiv.org/abs/2508.16059v1)** | 2025-08-22 | <details><summary>To be...</summary><p>To be published in CIKM 2025</p></details> |
-| **[Evaluation of Time Series Forecasting Models for Predicting Lung Cancer Mortality Rates in the United States: A Comparison with Altuhaifa (2023) Study](http://arxiv.org/abs/2508.16052v1)** | 2025-08-22 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InterAct-Video: Reasoning-Rich Video QA for Urban Traffic](http://arxiv.org/abs/2507.14743v3)** | 2025-08-28 |  |
+| **[NetGPT: Generative Pretrained Transformer for Network Traffic](http://arxiv.org/abs/2304.09513v3)** | 2025-08-28 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ict-net/NetGPT</p></details> |
+| **[UTA-Sign: Unsupervised Thermal Video Augmentation via Event-Assisted Traffic Signage Sketching](http://arxiv.org/abs/2508.20594v1)** | 2025-08-28 |  |
 | **[FlowletFormer: Network Behavioral Semantic Aware Pre-training Model for Traffic Classification](http://arxiv.org/abs/2508.19924v1)** | 2025-08-27 |  |
 | **[A Comprehensive Review on Traffic Datasets and Simulators for Autonomous Vehicles](http://arxiv.org/abs/2412.14207v3)** | 2025-08-27 | <details><summary>This ...</summary><p>This manuscript has been withdrawn due to the need for substantial updates and revisions</p></details> |
 | **[FlowDet: Overcoming Perspective and Scale Challenges in Real-Time End-to-End Traffic Detection](http://arxiv.org/abs/2508.19565v1)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025. Project page with code and dataset: https://github.com/AstronZh/Intersection-Flow-5K</p></details> |
@@ -37,15 +41,13 @@ labels: documentation
 | **[LLM-based Human-like Traffic Simulation for Self-driving Tests](http://arxiv.org/abs/2508.16962v1)** | 2025-08-23 |  |
 | **[Cyber Orbits of Large Scale Network Traffic](http://arxiv.org/abs/2508.16847v1)** | 2025-08-23 | <details><summary>2 pag...</summary><p>2 pages, 1 figure, 10 reference, to appear at IEEE HPEC 2025</p></details> |
 | **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v3)** | 2025-08-22 |  |
-| **[GPLight+: A Genetic Programming Method for Learning Symmetric Traffic Signal Control Policy](http://arxiv.org/abs/2508.16090v1)** | 2025-08-22 |  |
-| **[STGAtt: A Spatial-Temporal Unified Graph Attention Network for Traffic Flow Forecasting](http://arxiv.org/abs/2508.16685v1)** | 2025-08-21 |  |
-| **[A CASP-based Solution for Traffic Signal Optimisation](http://arxiv.org/abs/2507.19061v2)** | 2025-08-21 | <details><summary>To ap...</summary><p>To appear in Theory and Practice of Logic Programming (TPLP), Proceedings of ICLP 2025</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Quantifying the Improvement of Accessibility achieved via Shared Mobility on Demand](http://arxiv.org/abs/2507.13100v2)** | 2025-08-28 |  |
+| **[MTS-Net: Dual-Enhanced Positional Multi-Head Self-Attention for 3D CT Diagnosis of May-Thurner Syndrome](http://arxiv.org/abs/2406.04680v3)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by Biomedical Signal Processing and Control</p></details> |
 | **[Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling](http://arxiv.org/abs/2508.18463v2)** | 2025-08-27 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 4 tables</p></details> |
-| **[MTS-Net: Dual-Enhanced Positional Multi-Head Self-Attention for 3D CT Diagnosis of May-Thurner Syndrome](http://arxiv.org/abs/2406.04680v2)** | 2025-08-27 | <details><summary>Accep...</summary><p>Accepted by Biomedical Signal Processing and Control</p></details> |
 | **[Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes](http://arxiv.org/abs/2507.06938v2)** | 2025-08-27 |  |
 | **[High-Speed FHD Full-Color Video Computer-Generated Holography](http://arxiv.org/abs/2508.19579v1)** | 2025-08-27 |  |
 | **[An Iterative Approach for Heterogeneous Multi-Agent Route Planning with Resource Transportation Uncertainty and Temporal Logic Goals](http://arxiv.org/abs/2508.19429v1)** | 2025-08-26 |  |
@@ -58,5 +60,4 @@ labels: documentation
 | **[MuST2-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation](http://arxiv.org/abs/2508.16503v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted to SIGSPATIAL 2025</p></details> |
 | **[Machine Learning in Micromobility: A Systematic Review of Datasets, Techniques, and Applications](http://arxiv.org/abs/2508.16135v1)** | 2025-08-22 | <details><summary>14 pa...</summary><p>14 pages, 3 tables, and 4 figures, submitted to IEEE Transactions on Intelligent Vehicles</p></details> |
 | **[TiP4GEN: Text to Immersive Panorama 4D Scene Generation](http://arxiv.org/abs/2508.12415v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted In Proceedings of the 33rd ACM International Conference on Multimedia (MM' 25)</p></details> |
-| **[STGAtt: A Spatial-Temporal Unified Graph Attention Network for Traffic Flow Forecasting](http://arxiv.org/abs/2508.16685v1)** | 2025-08-21 |  |
 
