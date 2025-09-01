@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2025
+title: Latest 15 Papers - September 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalized Encrypted Traffic Classification Using Inter-Flow Signals](http://arxiv.org/abs/2508.21558v1)** | 2025-08-29 | <details><summary>Accep...</summary><p>Accepted manuscript at Availability, Reliability and Security (ARES 2025), published in Lecture Notes in Computer Science, vol. 15992, Springer, Cham. DOI: https://doi.org/10.1007/978-3-032-00624-0_11</p></details> |
+| **[CARJAN: Agent-Based Generation and Simulation of Traffic Scenarios with AJAN](http://arxiv.org/abs/2508.21411v1)** | 2025-08-29 |  |
+| **[Traffic State Estimation in Congestion to Extend Applicability of DFOS](http://arxiv.org/abs/2508.21138v1)** | 2025-08-28 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, presented in the 31st ITS World Congress</p></details> |
 | **[InterAct-Video: Reasoning-Rich Video QA for Urban Traffic](http://arxiv.org/abs/2507.14743v3)** | 2025-08-28 |  |
 | **[NetGPT: Generative Pretrained Transformer for Network Traffic](http://arxiv.org/abs/2304.09513v3)** | 2025-08-28 | <details><summary>Code ...</summary><p>Code is available at https://github.com/ict-net/NetGPT</p></details> |
 | **[UTA-Sign: Unsupervised Thermal Video Augmentation via Event-Assisted Traffic Signage Sketching](http://arxiv.org/abs/2508.20594v1)** | 2025-08-28 |  |
@@ -38,26 +41,9 @@ labels: documentation
 | **[SocialTrack: Multi-Object Tracking in Complex Urban Traffic Scenes Inspired by Social Behavior](http://arxiv.org/abs/2508.12777v2)** | 2025-08-26 |  |
 | **[DriveIndia: An Object Detection Dataset for Diverse Indian Traffic Scenes](http://arxiv.org/abs/2507.19912v4)** | 2025-08-26 | <details><summary>Accep...</summary><p>Accepted at ITSC 2025 Conference. Updated the Table 2 of Benchmark Results</p></details> |
 | **[Real-time Traffic Simulation and Management for Large-scale Urban Air Mobility: Integrating Route Guidance and Collision Avoidance](http://arxiv.org/abs/2412.01235v2)** | 2025-08-25 | 26 pages |
-| **[LLM-based Human-like Traffic Simulation for Self-driving Tests](http://arxiv.org/abs/2508.16962v1)** | 2025-08-23 |  |
-| **[Cyber Orbits of Large Scale Network Traffic](http://arxiv.org/abs/2508.16847v1)** | 2025-08-23 | <details><summary>2 pag...</summary><p>2 pages, 1 figure, 10 reference, to appear at IEEE HPEC 2025</p></details> |
-| **[Highly Accurate and Diverse Traffic Data: The DeepScenario Open 3D Dataset](http://arxiv.org/abs/2504.17371v3)** | 2025-08-22 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Quantifying the Improvement of Accessibility achieved via Shared Mobility on Demand](http://arxiv.org/abs/2507.13100v2)** | 2025-08-28 |  |
-| **[MTS-Net: Dual-Enhanced Positional Multi-Head Self-Attention for 3D CT Diagnosis of May-Thurner Syndrome](http://arxiv.org/abs/2406.04680v3)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by Biomedical Signal Processing and Control</p></details> |
-| **[Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling](http://arxiv.org/abs/2508.18463v2)** | 2025-08-27 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 4 tables</p></details> |
-| **[Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes](http://arxiv.org/abs/2507.06938v2)** | 2025-08-27 |  |
-| **[High-Speed FHD Full-Color Video Computer-Generated Holography](http://arxiv.org/abs/2508.19579v1)** | 2025-08-27 |  |
-| **[An Iterative Approach for Heterogeneous Multi-Agent Route Planning with Resource Transportation Uncertainty and Temporal Logic Goals](http://arxiv.org/abs/2508.19429v1)** | 2025-08-26 |  |
-| **[Online Micro-gesture Recognition Using Data Augmentation and Spatial-Temporal Attention](http://arxiv.org/abs/2507.09512v2)** | 2025-08-26 | 11 pages, 4 figures |
-| **[Trajectory Optimization for UAV-Based Medical Delivery with Temporal Logic Constraints and Convex Feasible Set Collision Avoidance](http://arxiv.org/abs/2506.06038v2)** | 2025-08-26 | 11 pages, 4 figures |
-| **[Why Relational Graphs Will Save the Next Generation of Vision Foundation Models?](http://arxiv.org/abs/2508.18421v1)** | 2025-08-25 |  |
-| **[Analysis and Detection of RIS-based Spoofing in Integrated Sensing and Communication (ISAC)](http://arxiv.org/abs/2508.18100v1)** | 2025-08-25 |  |
-| **[Spatial-Temporal Human-Object Interaction Detection](http://arxiv.org/abs/2508.17270v1)** | 2025-08-24 |  |
-| **[Physics-Inspired Spatial Temporal Graph Neural Networks for Predicting Industrial Chain Resilience](http://arxiv.org/abs/2508.16836v1)** | 2025-08-22 |  |
-| **[MuST2-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation](http://arxiv.org/abs/2508.16503v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted to SIGSPATIAL 2025</p></details> |
-| **[Machine Learning in Micromobility: A Systematic Review of Datasets, Techniques, and Applications](http://arxiv.org/abs/2508.16135v1)** | 2025-08-22 | <details><summary>14 pa...</summary><p>14 pages, 3 tables, and 4 figures, submitted to IEEE Transactions on Intelligent Vehicles</p></details> |
-| **[TiP4GEN: Text to Immersive Panorama 4D Scene Generation](http://arxiv.org/abs/2508.12415v2)** | 2025-08-21 | <details><summary>Accep...</summary><p>Accepted In Proceedings of the 33rd ACM International Conference on Multimedia (MM' 25)</p></details> |
+| **[MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents](http://arxiv.org/abs/2508.21475v1)** | 2025-08-29 | <details><summary>Proje...</summary><p>Project Page: https://mmsearch-plus.github.io</p></details> |
 
