@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 02, 2025
+title: Latest 15 Papers - September 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -46,4 +46,18 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[MMSearch-Plus: A Simple Yet Challenging Benchmark for Multimodal Browsing Agents](http://arxiv.org/abs/2508.21475v1)** | 2025-08-29 | <details><summary>Proje...</summary><p>Project Page: https://mmsearch-plus.github.io</p></details> |
+| **[Quantifying the Improvement of Accessibility achieved via Shared Mobility on Demand](http://arxiv.org/abs/2507.13100v2)** | 2025-08-28 |  |
+| **[MTS-Net: Dual-Enhanced Positional Multi-Head Self-Attention for 3D CT Diagnosis of May-Thurner Syndrome](http://arxiv.org/abs/2406.04680v3)** | 2025-08-28 | <details><summary>Accep...</summary><p>Accepted by Biomedical Signal Processing and Control</p></details> |
+| **[Context-Aware Zero-Shot Anomaly Detection in Surveillance Using Contrastive and Predictive Spatiotemporal Modeling](http://arxiv.org/abs/2508.18463v2)** | 2025-08-27 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 4 tables</p></details> |
+| **[Accelerated Spatio-Temporal Bayesian Modeling for Multivariate Gaussian Processes](http://arxiv.org/abs/2507.06938v2)** | 2025-08-27 |  |
+| **[High-Speed FHD Full-Color Video Computer-Generated Holography](http://arxiv.org/abs/2508.19579v1)** | 2025-08-27 |  |
+| **[An Iterative Approach for Heterogeneous Multi-Agent Route Planning with Resource Transportation Uncertainty and Temporal Logic Goals](http://arxiv.org/abs/2508.19429v1)** | 2025-08-26 |  |
+| **[Online Micro-gesture Recognition Using Data Augmentation and Spatial-Temporal Attention](http://arxiv.org/abs/2507.09512v2)** | 2025-08-26 | 11 pages, 4 figures |
+| **[Trajectory Optimization for UAV-Based Medical Delivery with Temporal Logic Constraints and Convex Feasible Set Collision Avoidance](http://arxiv.org/abs/2506.06038v2)** | 2025-08-26 | 11 pages, 4 figures |
+| **[Why Relational Graphs Will Save the Next Generation of Vision Foundation Models?](http://arxiv.org/abs/2508.18421v1)** | 2025-08-25 |  |
+| **[Analysis and Detection of RIS-based Spoofing in Integrated Sensing and Communication (ISAC)](http://arxiv.org/abs/2508.18100v1)** | 2025-08-25 |  |
+| **[Spatial-Temporal Human-Object Interaction Detection](http://arxiv.org/abs/2508.17270v1)** | 2025-08-24 |  |
+| **[Physics-Inspired Spatial Temporal Graph Neural Networks for Predicting Industrial Chain Resilience](http://arxiv.org/abs/2508.16836v1)** | 2025-08-22 |  |
+| **[MuST2-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation](http://arxiv.org/abs/2508.16503v1)** | 2025-08-22 | <details><summary>Accep...</summary><p>Accepted to SIGSPATIAL 2025</p></details> |
+| **[Machine Learning in Micromobility: A Systematic Review of Datasets, Techniques, and Applications](http://arxiv.org/abs/2508.16135v1)** | 2025-08-22 | <details><summary>14 pa...</summary><p>14 pages, 3 tables, and 4 figures, submitted to IEEE Transactions on Intelligent Vehicles</p></details> |
 
