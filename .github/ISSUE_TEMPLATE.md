@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Law for Large-Scale Pre-Training Using Chaotic Time Series and Predictability in Financial Time Series](http://arxiv.org/abs/2509.04921v1)** | 2025-09-05 | Patent pending |
+| **[VARMA-Enhanced Transformer for Time Series Forecasting](http://arxiv.org/abs/2509.04782v1)** | 2025-09-05 | <details><summary>The P...</summary><p>The Pacific Rim International Conference on Artificial Intelligence - PRICAI2025</p></details> |
 | **[ChronoGraph: A Real-World Graph-Based Multivariate Time Series Dataset](http://arxiv.org/abs/2509.04449v1)** | 2025-09-04 |  |
 | **[One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo](http://arxiv.org/abs/2509.04208v1)** | 2025-09-04 |  |
 | **[Privacy Risks in Time Series Forecasting: User- and Record-Level Membership Inference](http://arxiv.org/abs/2509.04169v1)** | 2025-09-04 |  |
@@ -20,12 +22,14 @@ labels: documentation
 | **[Predicting Antimicrobial Resistance (AMR) in Campylobacter, a Foodborne Pathogen, and Cost Burden Analysis Using Machine Learning](http://arxiv.org/abs/2509.03551v1)** | 2025-09-03 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 1 table. Submitted to a Briefings in Bioinformatics journal and waiting for the outcome</p></details> |
 | **[Conformal Prediction for Time-series Forecasting with Change Points](http://arxiv.org/abs/2509.02844v1)** | 2025-09-02 |  |
 | **[RDIT: Residual-based Diffusion Implicit Models for Probabilistic Time Series Forecasting](http://arxiv.org/abs/2509.02341v1)** | 2025-09-02 |  |
-| **[ST-Hyper: Learning High-Order Dependencies Across Multiple Spatial-Temporal Scales for Multivariate Time Series Forecasting](http://arxiv.org/abs/2509.02217v1)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted by CIKM 2025</p></details> |
-| **[Adversarial Attacks and Defenses in Multivariate Time-Series Forecasting for Smart and Connected Infrastructures](http://arxiv.org/abs/2408.14875v2)** | 2025-09-01 | 18 pages, 34 figures |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridge Modal Identification using Single Moving Sensor under Random Traffic Loading](http://arxiv.org/abs/2509.05277v1)** | 2025-09-05 | 56 pages, 18 figures |
+| **[Using Causality for Enhanced Prediction of Web Traffic Time Series](http://arxiv.org/abs/2502.00612v2)** | 2025-09-05 | <details><summary>time ...</summary><p>time series, web service, web traffic, causality, more experiments</p></details> |
+| **[A biologically inspired separable learning vision model for real-time traffic object perception in Dark](http://arxiv.org/abs/2509.05012v1)** | 2025-09-05 |  |
+| **[UAV-Based Intelligent Traffic Surveillance System: Real-Time Vehicle Detection, Classification, Tracking, and Behavioral Analysis](http://arxiv.org/abs/2509.04624v1)** | 2025-09-04 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 2 tables</p></details> |
 | **[Closed-Loop Neural Operator-Based Observer of Traffic Density](http://arxiv.org/abs/2504.04873v2)** | 2025-09-04 |  |
 | **[Safety-Critical Multi-Agent MCTS for Mixed Traffic Coordination at Unsignalized Roundabout](http://arxiv.org/abs/2509.01856v2)** | 2025-09-04 | 12 pages, 10 figures |
 | **[Deep Learning Advances in Vision-Based Traffic Accident Anticipation: A Comprehensive Review of Methods, Datasets, and Future Directions](http://arxiv.org/abs/2505.07611v2)** | 2025-09-04 |  |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Automatically Generating High-Precision Simulated Road Networking in Traffic Scenario](http://arxiv.org/abs/2509.02990v1)** | 2025-09-03 | 7 pages,11 figures |
 | **[Diffusion-RL Based Air Traffic Conflict Detection and Resolution Method](http://arxiv.org/abs/2509.03550v1)** | 2025-09-02 | <details><summary>59 pa...</summary><p>59 pages,13 figures, 3 tables</p></details> |
 | **[Automating Traffic Monitoring with SHM Sensor Networks via Vision-Supervised Deep Learning](http://arxiv.org/abs/2506.19023v2)** | 2025-09-02 |  |
-| **[Cruise Control: Dynamic Model Selection for ML-Based Network Traffic Analysis](http://arxiv.org/abs/2412.15146v2)** | 2025-09-02 |  |
-| **[Green Traffic Engineering for Satellite Networks Using Segment Routing Flexible Algorithm](http://arxiv.org/abs/2509.02149v1)** | 2025-09-02 | <details><summary>Accep...</summary><p>Accepted for at GlobeCom 2025 GCSN</p></details> |
-| **[FlexNGIA 2.0: Redesigning the Internet with Agentic AI -- Protocols, Services, and Traffic Engineering Designed, Deployed, and Managed by AI](http://arxiv.org/abs/2509.02124v1)** | 2025-09-02 |  |
-| **[Using iterated local alignment to aggregate trajectory data into a traffic flow map](http://arxiv.org/abs/2406.17500v6)** | 2025-09-01 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
