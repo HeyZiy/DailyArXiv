@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2025
+title: Latest 15 Papers - September 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ARMA Block: A CNN-Based Autoregressive and Moving Average Module for Long-Term Time Series Forecasting](http://arxiv.org/abs/2509.10324v1)** | 2025-09-12 |  |
+| **[Multivariate Long-term Time Series Forecasting with Fourier Neural Filter](http://arxiv.org/abs/2506.09174v2)** | 2025-09-12 |  |
 | **[Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction](http://arxiv.org/abs/2501.01087v4)** | 2025-09-11 | <details><summary>Submi...</summary><p>Submitted to Digital Signal Processing Journal</p></details> |
 | **[Temporal Query Network for Efficient Multivariate Time Series Forecasting](http://arxiv.org/abs/2505.12917v2)** | 2025-09-11 | ICML 2025 |
 | **[FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis](http://arxiv.org/abs/2506.05019v2)** | 2025-09-11 | Under review |
@@ -20,27 +22,19 @@ labels: documentation
 | **[Text-Trained LLMs Can Zero-Shot Extrapolate PDE Dynamics](http://arxiv.org/abs/2509.06322v1)** | 2025-09-08 |  |
 | **[ARIES: Relation Assessment and Model Recommendation for Deep Time Series Forecasting](http://arxiv.org/abs/2509.06060v1)** | 2025-09-07 |  |
 | **[Towards a General Time Series Forecasting Model with Unified Representation and Adaptive Transfer](http://arxiv.org/abs/2405.17478v3)** | 2025-09-07 | <details><summary>Accep...</summary><p>Accepted by the Forty-second International Conference on Machine Learning (ICML2025)</p></details> |
-| **[Real-E: A Foundation Benchmark for Advancing Robust and Generalizable Electricity Forecasting](http://arxiv.org/abs/2509.05768v1)** | 2025-09-06 | 4 pages, CIKM 2025 |
-| **[Scaling Law for Large-Scale Pre-Training Using Chaotic Time Series and Predictability in Financial Time Series](http://arxiv.org/abs/2509.04921v1)** | 2025-09-05 | Patent pending |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiLight: A Hierarchical Reinforcement Learning Framework with Global Adversarial Guidance for Large-Scale Traffic Signal Control](http://arxiv.org/abs/2506.14391v2)** | 2025-09-11 |  |
 | **[What Does Normal Even Mean? Evaluating Benign Traffic in Intrusion Detection Datasets](http://arxiv.org/abs/2509.09564v1)** | 2025-09-11 | <details><summary>10 pa...</summary><p>10 pages; accepted to SBP-BRiMS 2025 Poster Session</p></details> |
 | **[PARROT: Portable Android Reproducible traffic Observation Tool](http://arxiv.org/abs/2509.09537v1)** | 2025-09-11 |  |
 | **[Taming Spontaneous Stop-and-Go Traffic Waves: A Bifurcation Perspective of A Dynamical Map](http://arxiv.org/abs/2509.09466v1)** | 2025-09-11 |  |
 | **[Taming Spontaneous Stop-and-Go Traffic Waves: A Computational Mechanism Design Perspective](http://arxiv.org/abs/2509.09441v1)** | 2025-09-11 |  |
+| **[MITS: A Large-Scale Multimodal Benchmark Dataset for Intelligent Traffic Surveillance](http://arxiv.org/abs/2509.09730v1)** | 2025-09-10 | <details><summary>accep...</summary><p>accepted by Image and Vision Computing</p></details> |
 | **[Traffic-Rule-Compliant Trajectory Repair via Satisfiability Modulo Theories and Reachability Analysis](http://arxiv.org/abs/2412.15837v2)** | 2025-09-10 | <details><summary>2025 ...</summary><p>2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
 | **[Admission Control for Inelastic Traffic on a Link Shared by Deadline-Driven Elastic Traffic](http://arxiv.org/abs/2509.08135v1)** | 2025-09-09 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, unpublished/rejected manuscript circa 2018</p></details> |
 | **[Enhancing Traffic Incident Response through Sub-Second Temporal Localization with HybridMamba](http://arxiv.org/abs/2504.03235v2)** | 2025-09-09 |  |
-| **[Evaluating the Impact of Adversarial Attacks on Traffic Sign Classification using the LISA Dataset](http://arxiv.org/abs/2509.06835v1)** | 2025-09-08 |  |
-| **[Five Blind Men and the Internet: Towards an Understanding of Internet Traffic](http://arxiv.org/abs/2509.06515v1)** | 2025-09-08 | 15 pages, 16 figures |
-| **[Numerical optimization of aviation decarbonization scenarios: balancing traffic and emissions with maturing energy carriers and aircraft technology](http://arxiv.org/abs/2503.22435v2)** | 2025-09-08 |  |
-| **[A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications](http://arxiv.org/abs/2509.06119v1)** | 2025-09-07 |  |
-| **[Bridge Modal Identification using Single Moving Sensor under Random Traffic Loading](http://arxiv.org/abs/2509.05277v1)** | 2025-09-05 | 56 pages, 18 figures |
-| **[Using Causality for Enhanced Prediction of Web Traffic Time Series](http://arxiv.org/abs/2502.00612v2)** | 2025-09-05 | <details><summary>time ...</summary><p>time series, web service, web traffic, causality, more experiments</p></details> |
-| **[A biologically inspired separable learning vision model for real-time traffic object perception in Dark](http://arxiv.org/abs/2509.05012v1)** | 2025-09-05 |  |
-| **[UAV-Based Intelligent Traffic Surveillance System: Real-Time Vehicle Detection, Classification, Tracking, and Behavioral Analysis](http://arxiv.org/abs/2509.04624v1)** | 2025-09-04 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, 2 tables</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
