@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 18, 2025
+title: Latest 15 Papers - September 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Prediction and Causality of functional MRI and synthetic signal using a Zero-Shot Time-Series Foundation Model](http://arxiv.org/abs/2509.12497v1)** | 2025-09-15 |  |
+| **[Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting](http://arxiv.org/abs/2509.14181v1)** | 2025-09-17 |  |
+| **[Ensembled Direct Multi Step forecasting methodology with comparison on macroeconomic and financial data](http://arxiv.org/abs/2509.13945v1)** | 2025-09-17 | 40 pages, 7 figures |
+| **[Prediction and Causality of functional MRI and synthetic signal using a Zero-Shot Time-Series Foundation Model](http://arxiv.org/abs/2509.12497v2)** | 2025-09-17 |  |
 | **[A Time-Series Foundation Model by Universal Delay Embedding](http://arxiv.org/abs/2509.12080v1)** | 2025-09-15 |  |
 | **[ARMA Block: A CNN-Based Autoregressive and Moving Average Module for Long-Term Time Series Forecasting](http://arxiv.org/abs/2509.10324v1)** | 2025-09-12 |  |
 | **[Multivariate Long-term Time Series Forecasting with Fourier Neural Filter](http://arxiv.org/abs/2506.09174v2)** | 2025-09-12 |  |
@@ -20,12 +22,11 @@ labels: documentation
 | **[Task-based Loss Functions in Computer Vision: A Comprehensive Review](http://arxiv.org/abs/2504.04242v2)** | 2025-09-09 |  |
 | **[Customizing the Inductive Biases of Softmax Attention using Structured Matrices](http://arxiv.org/abs/2509.07963v1)** | 2025-09-09 | <details><summary>ICML ...</summary><p>ICML 2025. Code available at https://github.com/YilunKuang/structured-attention</p></details> |
 | **[IBN: An Interpretable Bidirectional-Modeling Network for Multivariate Time Series Forecasting with Variable Missing](http://arxiv.org/abs/2509.07725v1)** | 2025-09-09 |  |
-| **[Of Graphs and Tables: Zero-Shot Node Classification with Tabular Foundation Models](http://arxiv.org/abs/2509.07143v1)** | 2025-09-08 |  |
-| **[An AI system to help scientists write expert-level empirical software](http://arxiv.org/abs/2509.06503v1)** | 2025-09-08 | 71 pages, 26 figures |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Confidence Driven Classification of Application Types in the Presence of Background Network Traffic](http://arxiv.org/abs/2508.03891v4)** | 2025-09-16 | Added Grant Info |
 | **[Traffic-Oblivious Multi-Commodity Flow Network Design](http://arxiv.org/abs/2504.16744v2)** | 2025-09-16 | <details><summary>Appea...</summary><p>Appears in the Proceedings of the 36th International Symposium on Algorithms and Computation (ISAAC 2025)</p></details> |
 | **[State Aware Traffic Generation for Real-Time Network Digital Twins](http://arxiv.org/abs/2509.12860v1)** | 2025-09-16 |  |
 | **[Travel Time and Weather-Aware Traffic Forecasting in a Conformal Graph Neural Network Framework](http://arxiv.org/abs/2509.12043v1)** | 2025-09-15 | <details><summary>This ...</summary><p>This manuscript has been accepted as a REGULAR PAPER in the Transactions on Intelligent Transportation Systems 2025</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[PARROT: Portable Android Reproducible traffic Observation Tool](http://arxiv.org/abs/2509.09537v1)** | 2025-09-11 |  |
 | **[MITS: A Large-Scale Multimodal Benchmark Dataset for Intelligent Traffic Surveillance](http://arxiv.org/abs/2509.09730v1)** | 2025-09-10 | <details><summary>accep...</summary><p>accepted by Image and Vision Computing</p></details> |
 | **[Traffic-Rule-Compliant Trajectory Repair via Satisfiability Modulo Theories and Reachability Analysis](http://arxiv.org/abs/2412.15837v2)** | 2025-09-10 | <details><summary>2025 ...</summary><p>2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works</p></details> |
-| **[Admission Control for Inelastic Traffic on a Link Shared by Deadline-Driven Elastic Traffic](http://arxiv.org/abs/2509.08135v1)** | 2025-09-09 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, unpublished/rejected manuscript circa 2018</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations](http://arxiv.org/abs/2507.04705v2)** | 2025-09-17 |  |
 | **[Vi-SAFE: A Spatial-Temporal Framework for Efficient Violence Detection in Public Surveillance](http://arxiv.org/abs/2509.13210v1)** | 2025-09-16 |  |
 | **[B-TGAT: A Bi-directional Temporal Graph Attention Transformer for Clustering Multivariate Spatiotemporal Data](http://arxiv.org/abs/2509.13202v1)** | 2025-09-16 | 10 pages, In review |
 | **[An Uncertainty-Weighted Decision Transformer for Navigation in Dense, Complex Driving Scenarios](http://arxiv.org/abs/2509.13132v1)** | 2025-09-16 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Crack Path Prediction with Operator Learning using Discrete Particle System data Generation](http://arxiv.org/abs/2506.01976v2)** | 2025-09-10 | 22 pages, 14 figures |
 | **[SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation](http://arxiv.org/abs/2509.08757v1)** | 2025-09-10 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2025 Project site: https://larg.github.io/socialnav-sub</p></details> |
 | **[GTS_Forecaster: a novel deep learning based geodetic time series forecasting toolbox with python](http://arxiv.org/abs/2509.10560v1)** | 2025-09-10 |  |
-| **[IBN: An Interpretable Bidirectional-Modeling Network for Multivariate Time Series Forecasting with Variable Missing](http://arxiv.org/abs/2509.07725v1)** | 2025-09-09 |  |
 
