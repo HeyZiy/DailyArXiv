@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,28 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tsururu: A Python-based Time Series Forecasting Strategies Library](http://arxiv.org/abs/2509.15843v1)** | 2025-09-19 | <details><summary>Accep...</summary><p>Accepted at IJCAI'25 Demo Track</p></details> |
+| **[Modeling Temporal Dependencies within the Target for Long-Term Time Series Forecasting](http://arxiv.org/abs/2406.04777v3)** | 2025-09-19 |  |
+| **[Optimization techniques for SQL+ML queries: A performance analysis of real-time feature computation in OpenMLDB](http://arxiv.org/abs/2509.15529v1)** | 2025-09-19 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 1 Table</p></details> |
+| **[DPANet: Dual Pyramid Attention Network for Multivariate Time Series Forecasting](http://arxiv.org/abs/2509.14868v2)** | 2025-09-19 |  |
+| **[Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning](http://arxiv.org/abs/2505.11349v2)** | 2025-09-18 | <details><summary>New e...</summary><p>New experiments on SciML tasks and other improvements</p></details> |
+| **[SPH-Net: A Co-Attention Hybrid Model for Accurate Stock Price Prediction](http://arxiv.org/abs/2509.15414v1)** | 2025-09-18 |  |
+| **[VMDNet: Time Series Forecasting with Leakage-Free Samplewise Variational Mode Decomposition and Multibranch Decoding](http://arxiv.org/abs/2509.15394v1)** | 2025-09-18 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
 | **[Super-Linear: A Lightweight Pretrained Mixture of Linear Experts for Time Series Forecasting](http://arxiv.org/abs/2509.15105v1)** | 2025-09-18 |  |
 | **[DAG: A Dual Causal Network for Time Series Forecasting with Exogenous Variables](http://arxiv.org/abs/2509.14933v1)** | 2025-09-18 |  |
-| **[DPANet: Dual Pyramid Attention Network for Multivariate Time Series Forecasting](http://arxiv.org/abs/2509.14868v1)** | 2025-09-18 |  |
 | **[DualSG: A Dual-Stream Explicit Semantic-Guided Multivariate Time Series Forecasting Framework](http://arxiv.org/abs/2507.21830v4)** | 2025-09-18 | <details><summary>This ...</summary><p>This paper has been accepted by ACM Multimedia 2025 (ACM MM 2025)</p></details> |
 | **[AR-KAN: Autoregressive-Weight-Enhanced Kolmogorov-Arnold Network for Time Series Forecasting](http://arxiv.org/abs/2509.02967v2)** | 2025-09-18 |  |
 | **[Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting](http://arxiv.org/abs/2509.14181v1)** | 2025-09-17 |  |
 | **[Ensembled Direct Multi Step forecasting methodology with comparison on macroeconomic and financial data](http://arxiv.org/abs/2509.13945v1)** | 2025-09-17 | 40 pages, 7 figures |
 | **[Prediction and Causality of functional MRI and synthetic signal using a Zero-Shot Time-Series Foundation Model](http://arxiv.org/abs/2509.12497v2)** | 2025-09-17 |  |
 | **[A Time-Series Foundation Model by Universal Delay Embedding](http://arxiv.org/abs/2509.12080v1)** | 2025-09-15 |  |
-| **[ARMA Block: A CNN-Based Autoregressive and Moving Average Module for Long-Term Time Series Forecasting](http://arxiv.org/abs/2509.10324v1)** | 2025-09-12 |  |
-| **[Multivariate Long-term Time Series Forecasting with Fourier Neural Filter](http://arxiv.org/abs/2506.09174v2)** | 2025-09-12 |  |
-| **[Bridging Simplicity and Sophistication using GLinear: A Novel Architecture for Enhanced Time Series Prediction](http://arxiv.org/abs/2501.01087v4)** | 2025-09-11 | <details><summary>Submi...</summary><p>Submitted to Digital Signal Processing Journal</p></details> |
-| **[Temporal Query Network for Efficient Multivariate Time Series Forecasting](http://arxiv.org/abs/2505.12917v2)** | 2025-09-11 | ICML 2025 |
-| **[FinMultiTime: A Four-Modal Bilingual Dataset for Financial Time-Series Analysis](http://arxiv.org/abs/2506.05019v2)** | 2025-09-11 | Under review |
-| **[FinZero: Launching Multi-modal Financial Time Series Forecast with Large Reasoning Model](http://arxiv.org/abs/2509.08742v1)** | 2025-09-10 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal Traffic Prediction](http://arxiv.org/abs/2507.11550v2)** | 2025-09-19 | 8 pages, 5 figures |
+| **[A Robust Scheduling of Cyclic Traffic for Integrated Wired and Wireless Time-Sensitive Networks](http://arxiv.org/abs/2509.15930v1)** | 2025-09-19 | <details><summary>This ...</summary><p>This paper has been accepted for publication in the proceedings of the 21st International Conference on Network and Service Management (CNSM 2025)</p></details> |
+| **[Inference Attacks on Encrypted Online Voting via Traffic Analysis](http://arxiv.org/abs/2509.15694v1)** | 2025-09-19 | Accepted at ISC 2025 |
 | **[Improving Internet Traffic Matrix Prediction via Time Series Clustering](http://arxiv.org/abs/2509.15072v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to ICMLA 2025</p></details> |
 | **[Traffic Co-Simulation Framework Empowered by Infrastructure Camera Sensing and Reinforcement Learning](http://arxiv.org/abs/2412.03925v2)** | 2025-09-18 |  |
 | **[Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle](http://arxiv.org/abs/2505.09929v3)** | 2025-09-18 | <details><summary>This ...</summary><p>This paper was accepted by "Science China Information Science" on September 18, 2025</p></details> |
@@ -38,13 +41,11 @@ labels: documentation
 | **[Taming Spontaneous Stop-and-Go Traffic Waves: A Bifurcation Perspective of A Dynamical Map](http://arxiv.org/abs/2509.09466v2)** | 2025-09-14 |  |
 | **[Taming Spontaneous Stop-and-Go Traffic Waves: A Computational Mechanism Design Perspective](http://arxiv.org/abs/2509.09441v2)** | 2025-09-14 |  |
 | **[Traffic-MLLM: A Spatio-Temporal MLLM with Retrieval-Augmented Generation for Causal Inference in Traffic](http://arxiv.org/abs/2509.11165v1)** | 2025-09-14 |  |
-| **[UDFS: Lightweight Representation-Driven Robust Network Traffic Classification](http://arxiv.org/abs/2509.11157v1)** | 2025-09-14 | <details><summary>Code ...</summary><p>Code and Dataset are available at https://github.com/kid1999/UDFS</p></details> |
-| **[Potential failures of physics-informed machine learning in traffic flow modeling: theoretical and experimental analysis](http://arxiv.org/abs/2505.11491v2)** | 2025-09-13 |  |
-| **[HiLight: A Hierarchical Reinforcement Learning Framework with Global Adversarial Guidance for Large-Scale Traffic Signal Control](http://arxiv.org/abs/2506.14391v2)** | 2025-09-11 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Emulating Human-like Adaptive Vision for Efficient and Flexible Machine Visual Perception](http://arxiv.org/abs/2509.15333v1)** | 2025-09-18 |  |
 | **[Identity-Preserving Text-to-Video Generation Guided by Simple yet Effective Spatial-Temporal Decoupled Representations](http://arxiv.org/abs/2507.04705v2)** | 2025-09-17 |  |
 | **[Vi-SAFE: A Spatial-Temporal Framework for Efficient Violence Detection in Public Surveillance](http://arxiv.org/abs/2509.13210v1)** | 2025-09-16 |  |
 | **[B-TGAT: A Bi-directional Temporal Graph Attention Transformer for Clustering Multivariate Spatiotemporal Data](http://arxiv.org/abs/2509.13202v1)** | 2025-09-16 | 10 pages, In review |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Organoid Tracker: A SAM2-Powered Platform for Zero-shot Cyst Analysis in Human Kidney Organoid Videos](http://arxiv.org/abs/2509.11063v1)** | 2025-09-14 |  |
 | **[Visual Grounding from Event Cameras](http://arxiv.org/abs/2509.09584v1)** | 2025-09-11 | <details><summary>Abstr...</summary><p>Abstract Paper (Non-Archival) @ ICCV 2025 NeVi Workshop</p></details> |
 | **[Crack Path Prediction with Operator Learning using Discrete Particle System data Generation](http://arxiv.org/abs/2506.01976v2)** | 2025-09-10 | 22 pages, 14 figures |
-| **[SocialNav-SUB: Benchmarking VLMs for Scene Understanding in Social Robot Navigation](http://arxiv.org/abs/2509.08757v1)** | 2025-09-10 | <details><summary>Confe...</summary><p>Conference on Robot Learning (CoRL) 2025 Project site: https://larg.github.io/socialnav-sub</p></details> |
 
