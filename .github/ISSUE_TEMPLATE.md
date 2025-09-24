@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 24, 2025
+title: Latest 15 Papers - September 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Q-DPTS: Quantum Differentially Private Time Series Forecasting via Variational Quantum Circuits](http://arxiv.org/abs/2508.05036v2)** | 2025-09-23 |  |
 | **[Full-History Graphs with Edge-Type Decoupled Networks for Temporal Reasoning](http://arxiv.org/abs/2508.03251v2)** | 2025-09-22 | <details><summary>Europ...</summary><p>European Conference of Artificial Intelligence 2025</p></details> |
 | **[STRATA-TS: Selective Knowledge Transfer for Urban Time Series Forecasting with Retrieval-Guided Reasoning](http://arxiv.org/abs/2508.18635v2)** | 2025-09-22 |  |
 | **[Bridging Past and Future: Distribution-Aware Alignment for Time Series Forecasting](http://arxiv.org/abs/2509.14181v2)** | 2025-09-21 |  |
@@ -21,11 +22,14 @@ labels: documentation
 | **[DPANet: Dual Pyramid Attention Network for Multivariate Time Series Forecasting](http://arxiv.org/abs/2509.14868v2)** | 2025-09-19 |  |
 | **[Context parroting: A simple but tough-to-beat baseline for foundation models in scientific machine learning](http://arxiv.org/abs/2505.11349v2)** | 2025-09-18 | <details><summary>New e...</summary><p>New experiments on SciML tasks and other improvements</p></details> |
 | **[SPH-Net: A Co-Attention Hybrid Model for Accurate Stock Price Prediction](http://arxiv.org/abs/2509.15414v1)** | 2025-09-18 |  |
-| **[VMDNet: Time Series Forecasting with Leakage-Free Samplewise Variational Mode Decomposition and Multibranch Decoding](http://arxiv.org/abs/2509.15394v1)** | 2025-09-18 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 2 tables</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MsFIN: Multi-scale Feature Interaction Network for Traffic Accident Anticipation](http://arxiv.org/abs/2509.19227v1)** | 2025-09-23 |  |
+| **[Investigating Traffic Accident Detection Using Multimodal Large Language Models](http://arxiv.org/abs/2509.19096v1)** | 2025-09-23 | <details><summary>Accep...</summary><p>Accepted for presentation at the 2025 IEEE International Automated Vehicle Validation Conference (IAVVC 2025). Final version to appear in IEEE Xplore</p></details> |
+| **[Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle](http://arxiv.org/abs/2505.09929v4)** | 2025-09-23 | <details><summary>This ...</summary><p>This paper was accepted by "Science China Information Sciences" on September 18, 2025</p></details> |
+| **[Interaction-aware Lane-Changing Early Warning System in Congested Traffic](http://arxiv.org/abs/2509.18624v1)** | 2025-09-23 |  |
 | **[Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework](http://arxiv.org/abs/2509.18007v1)** | 2025-09-22 |  |
 | **[BiLCNet : BiLSTM-Conformer Network for Encrypted Traffic Classification with 5G SA Physical Channel Records](http://arxiv.org/abs/2509.17495v1)** | 2025-09-22 | 6 pages, 5 figures |
 | **[Hodge Decomposition for Urban Traffic Flow: Limits on Dense OD Graphs and Advantages on Road Networks - Los Angeles Case](http://arxiv.org/abs/2509.17203v1)** | 2025-09-21 |  |
@@ -36,15 +40,13 @@ labels: documentation
 | **[Inference Attacks on Encrypted Online Voting via Traffic Analysis](http://arxiv.org/abs/2509.15694v1)** | 2025-09-19 | Accepted at ISC 2025 |
 | **[Improving Internet Traffic Matrix Prediction via Time Series Clustering](http://arxiv.org/abs/2509.15072v1)** | 2025-09-18 | <details><summary>Accep...</summary><p>Accepted to ICMLA 2025</p></details> |
 | **[Traffic Co-Simulation Framework Empowered by Infrastructure Camera Sensing and Reinforcement Learning](http://arxiv.org/abs/2412.03925v2)** | 2025-09-18 |  |
-| **[Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle](http://arxiv.org/abs/2505.09929v3)** | 2025-09-18 | <details><summary>This ...</summary><p>This paper was accepted by "Science China Information Science" on September 18, 2025</p></details> |
 | **[Reconstructing Physics-Informed Machine Learning for Traffic Flow Modeling: a Multi-Gradient Descent and Pareto Learning Approach](http://arxiv.org/abs/2505.13241v3)** | 2025-09-17 |  |
-| **[Confidence Driven Classification of Application Types in the Presence of Background Network Traffic](http://arxiv.org/abs/2508.03891v4)** | 2025-09-16 | Added Grant Info |
-| **[Traffic-Oblivious Multi-Commodity Flow Network Design](http://arxiv.org/abs/2504.16744v2)** | 2025-09-16 | <details><summary>Appea...</summary><p>Appears in the Proceedings of the 36th International Symposium on Algorithms and Computation (ISAAC 2025)</p></details> |
-| **[State Aware Traffic Generation for Real-Time Network Digital Twins](http://arxiv.org/abs/2509.12860v1)** | 2025-09-16 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CPT-4DMR: Continuous sPatial-Temporal Representation for 4D-MRI Reconstruction](http://arxiv.org/abs/2509.18427v1)** | 2025-09-22 |  |
+| **[Foresight: Adaptive Layer Reuse for Accelerated and High-Quality Text-to-Video Generation](http://arxiv.org/abs/2506.00329v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS), 2025</p></details> |
 | **[MSGAT-GRU: A Multi-Scale Graph Attention and Recurrent Model for Spatiotemporal Road Accident Prediction](http://arxiv.org/abs/2509.17811v1)** | 2025-09-22 | <details><summary>16 pa...</summary><p>16 pages, 4 figures, 4 tables</p></details> |
 | **[Stable Video-Driven Portraits](http://arxiv.org/abs/2509.17476v1)** | 2025-09-22 | <details><summary>https...</summary><p>https://stable-video-driven-portraits.github.io/</p></details> |
 | **[VQToken: Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language Models](http://arxiv.org/abs/2503.16980v5)** | 2025-09-21 | <details><summary>Proce...</summary><p>Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[B-TGAT: A Bi-directional Temporal Graph Attention Transformer for Clustering Multivariate Spatiotemporal Data](http://arxiv.org/abs/2509.13202v1)** | 2025-09-16 | 10 pages, In review |
 | **[An Uncertainty-Weighted Decision Transformer for Navigation in Dense, Complex Driving Scenarios](http://arxiv.org/abs/2509.13132v1)** | 2025-09-16 |  |
 | **[Unleashing the Power of Discrete-Time State Representation: Ultrafast Target-based IMU-Camera Spatial-Temporal Calibration](http://arxiv.org/abs/2509.12846v1)** | 2025-09-16 |  |
-| **[CECT-Mamba: a Hierarchical Contrast-enhanced-aware Model for Pancreatic Tumor Subtyping from Multi-phase CECT](http://arxiv.org/abs/2509.12777v1)** | 2025-09-16 |  |
-| **[OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](http://arxiv.org/abs/2509.12201v1)** | 2025-09-15 | <details><summary>https...</summary><p>https://yangzhou24.github.io/OmniWorld/</p></details> |
 
