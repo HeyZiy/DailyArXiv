@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - September 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](http://arxiv.org/abs/2509.22295v1)** | 2025-09-26 |  |
+| **[TimeMosaic: Temporal Heterogeneity Guided Time Series Forecasting via Adaptive Granularity Patch and Segment-wise Decoding](http://arxiv.org/abs/2509.19406v2)** | 2025-09-26 |  |
+| **[Informed Forecasting: Leveraging Auxiliary Knowledge to Boost LLM Performance on Time Series Forecasting](http://arxiv.org/abs/2505.10213v3)** | 2025-09-25 |  |
 | **[One-Embedding-Fits-All: Efficient Zero-Shot Time Series Forecasting by a Model Zoo](http://arxiv.org/abs/2509.04208v2)** | 2025-09-25 |  |
 | **[Why Attention Fails: The Degeneration of Transformers into MLPs in Time Series Forecasting](http://arxiv.org/abs/2509.20942v1)** | 2025-09-25 |  |
 | **[Conditionally Whitened Generative Models for Probabilistic Time Series Forecasting](http://arxiv.org/abs/2509.20928v1)** | 2025-09-25 |  |
@@ -19,13 +22,14 @@ labels: documentation
 | **[Dynamic Lagging for Time-Series Forecasting in E-Commerce Finance: Mitigating Information Loss with A Hybrid ML Architecture](http://arxiv.org/abs/2509.20244v1)** | 2025-09-24 |  |
 | **[From Samples to Scenarios: A New Paradigm for Probabilistic Forecasting](http://arxiv.org/abs/2509.19975v1)** | 2025-09-24 |  |
 | **[On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting](http://arxiv.org/abs/2408.09695v2)** | 2025-09-24 |  |
-| **[Macroeconomic Forecasting with Large Language Models](http://arxiv.org/abs/2407.00890v4)** | 2025-09-23 |  |
-| **[TimeMosaic: Temporal Heterogeneity Guided Time Series Forecasting via Adaptive Granularity Patch and Segment-wise Decoding](http://arxiv.org/abs/2509.19406v1)** | 2025-09-23 |  |
-| **[Q-DPTS: Quantum Differentially Private Time Series Forecasting via Variational Quantum Circuits](http://arxiv.org/abs/2508.05036v2)** | 2025-09-23 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment](http://arxiv.org/abs/2509.22550v1)** | 2025-09-26 |  |
+| **[Impact of Collective Behaviors of Autonomous Vehicles on Urban Traffic Dynamics: A Multi-Agent Reinforcement Learning Approach](http://arxiv.org/abs/2509.22216v1)** | 2025-09-26 | <details><summary>Work ...</summary><p>Work presented at the European Workshop on Reinforcement Learning (EWRL 2024)</p></details> |
+| **[Reinforcement Learning Based Traffic Signal Design to Minimize Queue Lengths](http://arxiv.org/abs/2509.21745v1)** | 2025-09-26 |  |
+| **[MNT-TNN: Spatiotemporal Traffic Data Imputation via Compact Multimode Nonlinear Transform-based Tensor Nuclear Norm](http://arxiv.org/abs/2503.22955v2)** | 2025-09-26 |  |
 | **[Semantic Edge-Cloud Communication for Real-Time Urban Traffic Surveillance with ViT and LLMs over Mobile Networks](http://arxiv.org/abs/2509.21259v1)** | 2025-09-25 | 17 pages, 12 figures |
 | **[FlowXpert: Context-Aware Flow Embedding for Enhanced Traffic Detection in IoT Network](http://arxiv.org/abs/2509.20861v1)** | 2025-09-25 |  |
 | **[Approximately Optimal Toll Design for Efficiency and Equity in Arc-Based Traffic Assignment Models](http://arxiv.org/abs/2509.20355v1)** | 2025-09-24 |  |
@@ -37,19 +41,17 @@ labels: documentation
 | **[Security and Privacy Measurement on Chinese Consumer IoT Traffic based on Device Lifecycle](http://arxiv.org/abs/2505.09929v4)** | 2025-09-23 | <details><summary>This ...</summary><p>This paper was accepted by "Science China Information Sciences" on September 18, 2025</p></details> |
 | **[Interaction-aware Lane-Changing Early Warning System in Congested Traffic](http://arxiv.org/abs/2509.18624v1)** | 2025-09-23 |  |
 | **[Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework](http://arxiv.org/abs/2509.18007v1)** | 2025-09-22 |  |
-| **[BiLCNet : BiLSTM-Conformer Network for Encrypted Traffic Classification with 5G SA Physical Channel Records](http://arxiv.org/abs/2509.17495v1)** | 2025-09-22 | 6 pages, 5 figures |
-| **[Hodge Decomposition for Urban Traffic Flow: Limits on Dense OD Graphs and Advantages on Road Networks - Los Angeles Case](http://arxiv.org/abs/2509.17203v1)** | 2025-09-21 |  |
-| **[FP-Inconsistent: Measurement and Analysis of Fingerprint Inconsistencies in Evasive Bot Traffic](http://arxiv.org/abs/2406.07647v3)** | 2025-09-21 |  |
-| **[RIFT: Group-Relative RL Fine-Tuning for Realistic and Controllable Traffic Simulation](http://arxiv.org/abs/2505.03344v3)** | 2025-09-21 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Boosting LLM Serving through Spatial-Temporal GPU Resource Sharing](http://arxiv.org/abs/2504.19516v4)** | 2025-09-26 |  |
+| **[DiTraj: training-free trajectory control for video diffusion transformer](http://arxiv.org/abs/2509.21839v1)** | 2025-09-26 |  |
+| **[STQE: Spatial-Temporal Attribute Quality Enhancement for G-PCC Compressed Dynamic Point Clouds](http://arxiv.org/abs/2507.17522v2)** | 2025-09-26 |  |
 | **[VideoPASTA: 7K Preference Pairs That Matter for Video-LLM Alignment](http://arxiv.org/abs/2504.14096v3)** | 2025-09-25 | EMNLP 2025 (Main) |
 | **[FlyTrap: Physical Distance-Pulling Attack Towards Camera-based Autonomous Target Tracking Systems](http://arxiv.org/abs/2509.20362v1)** | 2025-09-24 | <details><summary>An ex...</summary><p>An extended version of the paper accepted by NDSS 2026</p></details> |
 | **[OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling](http://arxiv.org/abs/2509.12201v2)** | 2025-09-24 | <details><summary>https...</summary><p>https://yangzhou24.github.io/OmniWorld/</p></details> |
 | **[GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](http://arxiv.org/abs/2509.19937v1)** | 2025-09-24 |  |
-| **[Bullet: Boosting GPU Utilization for LLM Serving via Dynamic Spatial-Temporal Orchestration](http://arxiv.org/abs/2504.19516v3)** | 2025-09-24 |  |
 | **[On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting](http://arxiv.org/abs/2408.09695v2)** | 2025-09-24 |  |
 | **[CPT-4DMR: Continuous sPatial-Temporal Representation for 4D-MRI Reconstruction](http://arxiv.org/abs/2509.18427v1)** | 2025-09-22 |  |
 | **[Foresight: Adaptive Layer Reuse for Accelerated and High-Quality Text-to-Video Generation](http://arxiv.org/abs/2506.00329v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS), 2025</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[VQToken: Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language Models](http://arxiv.org/abs/2503.16980v5)** | 2025-09-21 | <details><summary>Proce...</summary><p>Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[ScenGAN: Attention-Intensive Generative Model for Uncertainty-Aware Renewable Scenario Forecasting](http://arxiv.org/abs/2509.17119v1)** | 2025-09-21 |  |
 | **[A Cross-Hierarchical Multi-Feature Fusion Network Based on Multiscale Encoder-Decoder for Hyperspectral Change Detection](http://arxiv.org/abs/2509.16988v1)** | 2025-09-21 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[ST-GS: Vision-Based 3D Semantic Occupancy Prediction with Spatial-Temporal Gaussian Splatting](http://arxiv.org/abs/2509.16552v1)** | 2025-09-20 |  |
-| **[Thermal Imaging-based Real-time Fall Detection using Motion Flow and Attention-enhanced Convolutional Recurrent Architecture](http://arxiv.org/abs/2509.16479v1)** | 2025-09-20 |  |
 
