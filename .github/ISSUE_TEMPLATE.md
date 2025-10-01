@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 01, 2025
+title: Latest 15 Papers - October 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[fev-bench: A Realistic Benchmark for Time Series Forecasting](http://arxiv.org/abs/2509.26468v1)** | 2025-09-30 |  |
+| **[EntroPE: Entropy-Guided Dynamic Patch Encoder for Time Series Forecasting](http://arxiv.org/abs/2509.26157v1)** | 2025-09-30 | <details><summary>Prepr...</summary><p>Preprint. Under Review</p></details> |
+| **[ReNF: Rethinking the Design Space of Neural Long-Term Time Series Forecasters](http://arxiv.org/abs/2509.25914v1)** | 2025-09-30 |  |
+| **[When Does Multimodality Lead to Better Time Series Forecasting?](http://arxiv.org/abs/2506.21611v2)** | 2025-09-29 |  |
 | **[DSAT-HD: Dual-Stream Adaptive Transformer with Hybrid Decomposition for Multivariate Time Series Forecasting](http://arxiv.org/abs/2509.24800v1)** | 2025-09-29 | 10 pages, 5 figures |
 | **[Fidel-TS: A High-Fidelity Benchmark for Multimodal Time Series Forecasting](http://arxiv.org/abs/2509.24789v1)** | 2025-09-29 |  |
 | **[Semantic-Enhanced Time-Series Forecasting via Large Language Models](http://arxiv.org/abs/2508.07697v3)** | 2025-09-29 | 14 pages,9 figures |
@@ -18,14 +22,14 @@ labels: documentation
 | **[IndexNet: Timestamp and Variable-Aware Modeling for Time Series Forecasting](http://arxiv.org/abs/2509.23813v1)** | 2025-09-28 |  |
 | **[Graph Neural Networks with Diversity-aware Neighbor Selection and Dynamic Multi-scale Fusion for Multivariate Time Series Forecasting](http://arxiv.org/abs/2509.23671v1)** | 2025-09-28 |  |
 | **[Multi-Scale Spatial-Temporal Hypergraph Network with Lead-Lag Structures for Stock Time Series Forecasting](http://arxiv.org/abs/2509.23668v1)** | 2025-09-28 |  |
-| **[CC-Time: Cross-Model and Cross-Modality Time Series Forecasting](http://arxiv.org/abs/2508.12235v3)** | 2025-09-28 |  |
-| **[Characteristic Root Analysis and Regularization for Linear Time Series Forecasting](http://arxiv.org/abs/2509.23597v1)** | 2025-09-28 |  |
-| **[Channel, Trend and Periodic-Wise Representation Learning for Multivariate Long-term Time Series Forecasting](http://arxiv.org/abs/2509.23583v1)** | 2025-09-28 |  |
-| **[Revisiting Multivariate Time Series Forecasting with Missing Values](http://arxiv.org/abs/2509.23494v1)** | 2025-09-27 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enabling Time-Aware Priority Traffic Management over Distributed FPGA Nodes](http://arxiv.org/abs/2509.26043v1)** | 2025-09-30 |  |
+| **[Cooperative Autonomous Driving in Diverse Behavioral Traffic: A Heterogeneous Graph Reinforcement Learning Approach](http://arxiv.org/abs/2509.25751v1)** | 2025-09-30 | <details><summary>7 pag...</summary><p>7 pages, 5 figures and 4 tables</p></details> |
+| **[Optimized dynamic scheduling of an exclusive bus lane or high occupancy vehicle lane in a bimodal traffic corridor](http://arxiv.org/abs/2502.08729v2)** | 2025-09-30 | <details><summary>This ...</summary><p>This version is identical to the manuscript submitted to International Journal of Sustainable Transportation. It corrects inconsistencies present in the previous arXiv version and is the version under journal review. No scientific content has been altered</p></details> |
+| **[Spatiotemporal Forecasting of Incidents and Congestion with Implications for Sustainable Traffic Control](http://arxiv.org/abs/2509.25515v1)** | 2025-09-29 |  |
 | **[Path Diffuser: Diffusion Model for Data-Driven Traffic Simulator](http://arxiv.org/abs/2509.24995v1)** | 2025-09-29 |  |
 | **[Can Human Drivers and Connected Autonomous Vehicles Co-exist in Lane-Free Traffic? A Microscopic Simulation Perspective](http://arxiv.org/abs/2501.01189v2)** | 2025-09-29 | <details><summary>This ...</summary><p>This version corresponds to the final published article in Transportation Research Part C: Emerging Technologies. It incorporates revisions made during peer review, including an improved literature review, clearer methodological descriptions, and explicit consideration of safety and comfort</p></details> |
 | **[Assessing Roundabout Safety Perceptions under Heterogeneous Traffic: Socio-Demographic and Geometric Influences in Indian Urban Contexts](http://arxiv.org/abs/2509.24397v1)** | 2025-09-29 |  |
@@ -37,14 +41,11 @@ labels: documentation
 | **[Network Traffic Classification Using Self-Supervised Learning and Confident Learning](http://arxiv.org/abs/2509.23522v1)** | 2025-09-27 |  |
 | **[A Hybrid TDMA/CSMA Protocol for Time-Sensitive Traffic in Robot Applications](http://arxiv.org/abs/2509.06119v2)** | 2025-09-27 |  |
 | **[An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment](http://arxiv.org/abs/2509.22550v1)** | 2025-09-26 |  |
-| **[Impact of Collective Behaviors of Autonomous Vehicles on Urban Traffic Dynamics: A Multi-Agent Reinforcement Learning Approach](http://arxiv.org/abs/2509.22216v1)** | 2025-09-26 | <details><summary>Work ...</summary><p>Work presented at the European Workshop on Reinforcement Learning (EWRL 2024)</p></details> |
-| **[Persistent Autoregressive Mapping with Traffic Rules for Autonomous Driving](http://arxiv.org/abs/2509.22756v1)** | 2025-09-26 |  |
-| **[Reinforcement Learning Based Traffic Signal Design to Minimize Queue Lengths](http://arxiv.org/abs/2509.21745v1)** | 2025-09-26 |  |
-| **[MNT-TNN: Spatiotemporal Traffic Data Imputation via Compact Multimode Nonlinear Transform-based Tensor Nuclear Norm](http://arxiv.org/abs/2503.22955v2)** | 2025-09-26 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Translation from Wearable PPG to 12-Lead ECG](http://arxiv.org/abs/2509.25480v1)** | 2025-09-29 | 14 pages,10 figures |
 | **[DiTraj: training-free trajectory control for video diffusion transformer](http://arxiv.org/abs/2509.21839v2)** | 2025-09-29 |  |
 | **[VQToken: Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language Models](http://arxiv.org/abs/2503.16980v6)** | 2025-09-29 | <details><summary>Proce...</summary><p>Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[Attentive Dilated Convolution for Automatic Sleep Staging using Force-directed Layout](http://arxiv.org/abs/2409.01962v2)** | 2025-09-28 | <details><summary>19-pa...</summary><p>19-pages main paper and 3-pages supplementary material</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[GS-RoadPatching: Inpainting Gaussians via 3D Searching and Placing for Driving Scenes](http://arxiv.org/abs/2509.19937v1)** | 2025-09-24 |  |
 | **[On the Integration of Spatial-Temporal Knowledge: A Lightweight Approach to Atmospheric Time Series Forecasting](http://arxiv.org/abs/2408.09695v2)** | 2025-09-24 |  |
 | **[CPT-4DMR: Continuous sPatial-Temporal Representation for 4D-MRI Reconstruction](http://arxiv.org/abs/2509.18427v1)** | 2025-09-22 |  |
-| **[Foresight: Adaptive Layer Reuse for Accelerated and High-Quality Text-to-Video Generation](http://arxiv.org/abs/2506.00329v2)** | 2025-09-22 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS), 2025</p></details> |
 
