@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 08, 2025
+title: Latest 15 Papers - October 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[How Foundational are Foundation Models for Time Series Forecasting?](http://arxiv.org/abs/2510.00742v3)** | 2025-10-07 | <details><summary>Typo ...</summary><p>Typo rectified in this v3 version. Accepted at NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
+| **[Deciphering Invariant Feature Decoupling in Source-free Time Series Forecasting with Proxy Denoising](http://arxiv.org/abs/2510.05589v1)** | 2025-10-07 |  |
+| **[TimeSeriesScientist: A General-Purpose AI Agent for Time Series Analysis](http://arxiv.org/abs/2510.01538v2)** | 2025-10-06 |  |
+| **[Rivaling Transformers: Multi-Scale Structured State-Space Mixtures for Agentic 6G O-RAN](http://arxiv.org/abs/2510.05255v1)** | 2025-10-06 | <details><summary>12 pa...</summary><p>12 pages, 2 Figures, 5 Tables</p></details> |
 | **[ResCP: Reservoir Conformal Prediction for Time Series Forecasting](http://arxiv.org/abs/2510.05060v1)** | 2025-10-06 |  |
 | **[How Different from the Past? Spatio-Temporal Time Series Forecasting with Self-Supervised Deviation Learning](http://arxiv.org/abs/2510.04908v1)** | 2025-10-06 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[Benchmarking M-LTSF: Frequency and Noise-Based Evaluation of Multivariate Long Time Series Forecasting Models](http://arxiv.org/abs/2510.04900v1)** | 2025-10-06 | <details><summary>Numbe...</summary><p>Number of pages: 13 Number of figures: 16 Number of Tables: 1 Submitted to: IEEE Transactions on Signal Processing</p></details> |
@@ -18,14 +22,11 @@ labels: documentation
 | **[Synaptic Pruning: A Biological Inspiration for Deep Learning Regularization](http://arxiv.org/abs/2508.09330v2)** | 2025-10-05 | 24 pages, 7 figures |
 | **[Lightweight and Data-Efficient MultivariateTime Series Forecasting using Residual-Stacked Gaussian (RS-GLinear) Architecture](http://arxiv.org/abs/2510.03788v1)** | 2025-10-04 |  |
 | **[Accuracy Law for the Future of Deep Time Series Forecasting](http://arxiv.org/abs/2510.02729v1)** | 2025-10-03 |  |
-| **[KAIROS: Unified Training for Universal Non-Autoregressive Time Series Forecasting](http://arxiv.org/abs/2510.02084v2)** | 2025-10-03 |  |
-| **[Time-o1: Time-Series Forecasting Needs Transformed Label Alignment](http://arxiv.org/abs/2505.17847v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted as poster in NeurIPS 2025</p></details> |
-| **[How Foundational are Foundation Models for Time Series Forecasting?](http://arxiv.org/abs/2510.00742v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
-| **[IndexNet: Timestamp and Variable-Aware Modeling for Time Series Forecasting](http://arxiv.org/abs/2509.23813v2)** | 2025-10-02 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Impact of Packet Loss and Timing Errors on Scheduled Periodic Traffic with Time-Aware Shaping (TAS) in Time-Sensitive Networking (TSN)](http://arxiv.org/abs/2510.05290v1)** | 2025-10-06 |  |
 | **[Evaluating UORA-Based Polling Mechanism for Latency-Sensitive Uplink Traffic in Wi-Fi Networks](http://arxiv.org/abs/2510.04731v1)** | 2025-10-06 |  |
 | **[Investigating mixed traffic dynamics of pedestrians and non-motorized vehicles at urban intersections: Observation experiments and modelling](http://arxiv.org/abs/2510.04423v1)** | 2025-10-06 |  |
 | **[Distributed MPC-based Coordination of Traffic Perimeter and Signal Control: A Lexicographic Optimization Approach](http://arxiv.org/abs/2510.04038v1)** | 2025-10-05 |  |
@@ -40,11 +41,13 @@ labels: documentation
 | **[Cooperative Autonomous Driving in Diverse Behavioral Traffic: A Heterogeneous Graph Reinforcement Learning Approach](http://arxiv.org/abs/2509.25751v1)** | 2025-09-30 | <details><summary>7 pag...</summary><p>7 pages, 5 figures and 4 tables</p></details> |
 | **[Optimized dynamic scheduling of an exclusive bus lane or high occupancy vehicle lane in a bimodal traffic corridor](http://arxiv.org/abs/2502.08729v2)** | 2025-09-30 | <details><summary>This ...</summary><p>This version is identical to the manuscript submitted to International Journal of Sustainable Transportation. It corrects inconsistencies present in the previous arXiv version and is the version under journal review. No scientific content has been altered</p></details> |
 | **[Spatiotemporal Forecasting of Incidents and Congestion with Implications for Sustainable Traffic Control](http://arxiv.org/abs/2509.25515v1)** | 2025-09-29 |  |
-| **[Path Diffuser: Diffusion Model for Data-Driven Traffic Simulator](http://arxiv.org/abs/2509.24995v1)** | 2025-09-29 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multimodal Trajectory Representation Learning for Travel Time Estimation](http://arxiv.org/abs/2510.05840v1)** | 2025-10-07 |  |
+| **[RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](http://arxiv.org/abs/2508.01415v4)** | 2025-10-07 |  |
+| **[Leveraging Foundation Models for Multimodal Graph-Based Action Recognition](http://arxiv.org/abs/2505.15192v2)** | 2025-10-06 |  |
 | **[From Actions to Kinesics: Extracting Human Psychological States through Bodily Movements](http://arxiv.org/abs/2510.04844v1)** | 2025-10-06 | <details><summary>The 1...</summary><p>The 15th International Workshop on Structural Health Monitoring (IWSHM)</p></details> |
 | **[Interactive Test-Time Adaptation with Reliable Spatial-Temporal Voxels for Multi-Modal Segmentation](http://arxiv.org/abs/2403.06461v5)** | 2025-10-05 |  |
 | **[Graph Generation Powered with LLMs for Boosting Multivariate Time-Series Representation Learning](http://arxiv.org/abs/2403.03645v2)** | 2025-10-04 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Translation from Wearable PPG to 12-Lead ECG](http://arxiv.org/abs/2509.25480v1)** | 2025-09-29 | 14 pages,10 figures |
 | **[DiTraj: training-free trajectory control for video diffusion transformer](http://arxiv.org/abs/2509.21839v2)** | 2025-09-29 |  |
 | **[VQToken: Neural Discrete Token Representation Learning for Extreme Token Reduction in Video Large Language Models](http://arxiv.org/abs/2503.16980v6)** | 2025-09-29 | <details><summary>Proce...</summary><p>Proceedings of the 38th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
-| **[Attentive Dilated Convolution for Automatic Sleep Staging using Force-directed Layout](http://arxiv.org/abs/2409.01962v2)** | 2025-09-28 | <details><summary>19-pa...</summary><p>19-pages main paper and 3-pages supplementary material</p></details> |
-| **[Multi-Scale Spatial-Temporal Hypergraph Network with Lead-Lag Structures for Stock Time Series Forecasting](http://arxiv.org/abs/2509.23668v1)** | 2025-09-28 |  |
-| **[UniPose: Unified Cross-modality Pose Prior Propagation towards RGB-D data for Weakly Supervised 3D Human Pose Estimation](http://arxiv.org/abs/2509.23376v1)** | 2025-09-27 | Accept at PRCV 2025 |
 
