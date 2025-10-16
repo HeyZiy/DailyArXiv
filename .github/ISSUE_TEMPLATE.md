@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 16, 2025
+title: Latest 15 Papers - October 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Time Series Foundation Models: Benchmarking Challenges and Requirements](http://arxiv.org/abs/2510.13654v1)** | 2025-10-15 |  |
+| **[Multivariate Time Series Forecasting with Gate-Based Quantum Reservoir Computing on NISQ Hardware](http://arxiv.org/abs/2510.13634v1)** | 2025-10-15 |  |
+| **[Fidel-TS: A High-Fidelity Benchmark for Multimodal Time Series Forecasting](http://arxiv.org/abs/2509.24789v2)** | 2025-10-15 | <details><summary>provi...</summary><p>provide the url of our dataset and code</p></details> |
+| **[Probabilistic QoS Metric Forecasting in Delay-Tolerant Networks Using Conditional Diffusion Models on Latent Dynamics](http://arxiv.org/abs/2504.08821v3)** | 2025-10-15 |  |
 | **[Sliding-Window Signatures for Time Series: Application to Electricity Demand Forecasting](http://arxiv.org/abs/2510.12337v1)** | 2025-10-14 |  |
 | **[DMSC: Dynamic Multi-Scale Coordination Framework for Time Series Forecasting](http://arxiv.org/abs/2508.02753v3)** | 2025-10-14 |  |
 | **[Actor-Enriched Time Series Forecasting of Process Performance](http://arxiv.org/abs/2510.11856v1)** | 2025-10-13 | <details><summary>Accep...</summary><p>Accepted at ICPM 2025</p></details> |
@@ -18,14 +22,11 @@ labels: documentation
 | **[Density-valued time series: Nonparametric density-on-density regression](http://arxiv.org/abs/2503.22904v2)** | 2025-10-12 | <details><summary>47 pa...</summary><p>47 pages, 10 figures, 2 tables</p></details> |
 | **[CauchyNet: Compact and Data-Efficient Learning using Holomorphic Activation Functions](http://arxiv.org/abs/2510.10195v1)** | 2025-10-11 |  |
 | **[A Unified Frequency Domain Decomposition Framework for Interpretable and Robust Time Series Forecasting](http://arxiv.org/abs/2510.10145v1)** | 2025-10-11 |  |
-| **[Toward Relative Positional Encoding in Spiking Transformers](http://arxiv.org/abs/2501.16745v3)** | 2025-10-11 |  |
-| **[HTMformer: Hybrid Time and Multivariate Transformer for Time Series Forecasting](http://arxiv.org/abs/2510.07084v2)** | 2025-10-11 |  |
-| **[SVTime: Small Time Series Forecasting Models Informed by "Physics" of Large Vision Model Forecasters](http://arxiv.org/abs/2510.09780v1)** | 2025-10-10 |  |
-| **[Why Do Transformers Fail to Forecast Time Series In-Context?](http://arxiv.org/abs/2510.09776v1)** | 2025-10-10 | <details><summary>Code:...</summary><p>Code: https://github.com/MasterZhou1/ICL-Time-Series</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trajectory-based real-time pedestrian crash prediction at intersections: A novel non-linear link function for block maxima led Bayesian GEV framework addressing heterogeneous traffic condition](http://arxiv.org/abs/2510.12963v1)** | 2025-10-14 | <details><summary>This ...</summary><p>This manuscript is a preprint and has not yet been peer-reviewed. It is currently being considered for submission to a peer-reviewed journal</p></details> |
 | **[Metronome: Efficient Scheduling for Periodic Traffic Jobs with Network and Priority Awareness](http://arxiv.org/abs/2510.12274v1)** | 2025-10-14 | <details><summary>16 pa...</summary><p>16 pages, 16 figures. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Stable and Fault-Tolerant Decentralized Traffic Engineering](http://arxiv.org/abs/2510.11937v1)** | 2025-10-13 | 19 pages, 23 figures |
 | **[Task-Specific Dual-Model Framework for Comprehensive Traffic Safety Video Description and Analysis](http://arxiv.org/abs/2510.11907v1)** | 2025-10-13 | <details><summary>This ...</summary><p>This paper was accepted at ICCV 2025</p></details> |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Traffic-Aware Eco-Driving Control in CAVs via Learning-based Terminal Cost Model](http://arxiv.org/abs/2510.08980v1)** | 2025-10-10 |  |
 | **[Evaluating Small Vision-Language Models on Distance-Dependent Traffic Perception](http://arxiv.org/abs/2510.08352v1)** | 2025-10-09 |  |
 | **[Less is More: Strategic Expert Selection Outperforms Ensemble Complexity in Traffic Forecasting](http://arxiv.org/abs/2510.07426v1)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to IEEE ICTAI 2025. Version 0.9. 10 pages, 5 figures. Preprint differs from the published version in formatting and minor wording</p></details> |
-| **[Exposing LLM User Privacy via Traffic Fingerprint Analysis: A Study of Privacy Risks in LLM Agent Interactions](http://arxiv.org/abs/2510.07176v1)** | 2025-10-08 | <details><summary>26 pa...</summary><p>26 pages with 11 figures</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hierarchical Bayesian Modeling of Dengue in Recife, Brazil (2015-2024): The Role of Spatial Granularity and Data Quality for Epidemiological Risk Mapping](http://arxiv.org/abs/2510.13672v1)** | 2025-10-15 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, 8 tables</p></details> |
 | **[E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization](http://arxiv.org/abs/2510.12753v1)** | 2025-10-14 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems(NeurIPS 2025)</p></details> |
 | **[Few Shot Semi-Supervised Learning for Abnormal Stop Detection from Sparse GPS Trajectories](http://arxiv.org/abs/2510.12686v1)** | 2025-10-14 |  |
 | **[In the Eye of MLLM: Benchmarking Egocentric Video Intent Understanding with Gaze-Guided Prompting](http://arxiv.org/abs/2509.07447v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Complementary and Contrastive Learning for Audio-Visual Segmentation](http://arxiv.org/abs/2510.10051v1)** | 2025-10-11 | <details><summary>Accep...</summary><p>Accepted to IEEE Transactions on Multimedia</p></details> |
 | **[P-4DGS: Predictive 4D Gaussian Splatting with 90$\times$ Compression](http://arxiv.org/abs/2510.10030v1)** | 2025-10-11 |  |
 | **[HoliTom: Holistic Token Merging for Fast Video Large Language Models](http://arxiv.org/abs/2505.21334v3)** | 2025-10-10 | <details><summary>code ...</summary><p>code link: https://github.com/cokeshao/HoliTom</p></details> |
-| **[GTR-Bench: Evaluating Geo-Temporal Reasoning in Vision-Language Models](http://arxiv.org/abs/2510.07791v2)** | 2025-10-10 | 20 pages, 13 figures |
 
