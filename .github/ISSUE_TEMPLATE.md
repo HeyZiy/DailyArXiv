@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2025
+title: Latest 15 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Online Time Series Forecasting with Theoretical Guarantees](http://arxiv.org/abs/2510.18281v1)** | 2025-10-21 |  |
+| **[ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting](http://arxiv.org/abs/2509.23159v2)** | 2025-10-21 | Under submission |
+| **[Benchmarking Probabilistic Time Series Forecasting Models on Neural Activity](http://arxiv.org/abs/2510.18037v1)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Data on the Brain & Mind</p></details> |
 | **[TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](http://arxiv.org/abs/2510.00461v2)** | 2025-10-20 |  |
 | **[A Conditional Diffusion Model for Probabilistic Prediction of Battery Capacity Degradation](http://arxiv.org/abs/2510.17414v1)** | 2025-10-20 |  |
 | **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](http://arxiv.org/abs/2509.22295v2)** | 2025-10-20 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Photovoltaic power forecasting using quantum machine learning](http://arxiv.org/abs/2312.16379v3)** | 2025-10-16 | <details><summary>18 pa...</summary><p>18 pages, 7 figures, 4 tables</p></details> |
 | **[Tackling Time-Series Forecasting Generalization via Mitigating Concept Drift](http://arxiv.org/abs/2510.14814v1)** | 2025-10-16 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, 4 tables</p></details> |
 | **[TimeRecipe: A Time-Series Forecasting Recipe via Benchmarking Module Level Effectiveness](http://arxiv.org/abs/2506.06482v2)** | 2025-10-15 | <details><summary>47 pa...</summary><p>47 pages, 1 figure, 30 tables</p></details> |
-| **[Time Series Foundation Models: Benchmarking Challenges and Requirements](http://arxiv.org/abs/2510.13654v1)** | 2025-10-15 |  |
-| **[Multivariate Time Series Forecasting with Gate-Based Quantum Reservoir Computing on NISQ Hardware](http://arxiv.org/abs/2510.13634v1)** | 2025-10-15 |  |
-| **[Fidel-TS: A High-Fidelity Benchmark for Multimodal Time Series Forecasting](http://arxiv.org/abs/2509.24789v2)** | 2025-10-15 | <details><summary>provi...</summary><p>provide the url of our dataset and code</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interval Prediction of Annual Average Daily Traffic on Local Roads via Quantile Random Forest with High-Dimensional Spatial Data](http://arxiv.org/abs/2510.18548v1)** | 2025-10-21 |  |
 | **[Enhancing 5G V2X Mode 2 for Sporadic Traffic](http://arxiv.org/abs/2510.17395v1)** | 2025-10-20 |  |
 | **[FlowDet: Overcoming Perspective and Scale Challenges in Real-Time End-to-End Traffic Detection](http://arxiv.org/abs/2508.19565v2)** | 2025-10-20 | <details><summary>Accep...</summary><p>Accepted by PRCV 2025. Project page with code and dataset: https://github.com/AstronZh/Intersection-Flow-5K</p></details> |
 | **[Traffic Prioritization Mechanisms for Mission and Time Critical Applications in Industrial Internet of Things](http://arxiv.org/abs/2510.17009v1)** | 2025-10-19 |  |
@@ -40,12 +41,13 @@ labels: documentation
 | **[HOB: A Holistically Optimized Bidding Strategy under Heterogeneous Auction Mechanisms with Organic Traffic](http://arxiv.org/abs/2510.15238v1)** | 2025-10-17 |  |
 | **[Spatiotemporal Traffic Prediction in Distributed Backend Systems via Graph Neural Networks](http://arxiv.org/abs/2510.15215v1)** | 2025-10-17 |  |
 | **[FUSE-Traffic: Fusion of Unstructured and Structured Data for Event-aware Traffic Forecasting](http://arxiv.org/abs/2510.16053v1)** | 2025-10-16 |  |
-| **[A Hard-Label Black-Box Evasion Attack against ML-based Malicious Traffic Detection Systems](http://arxiv.org/abs/2510.14906v1)** | 2025-10-16 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generalizing subdiffusive Black-Scholes model by variable exponent: Model transformation and numerical approximation](http://arxiv.org/abs/2411.13913v2)** | 2025-10-21 |  |
 | **[Distributed Spatial-Temporal Trajectory Optimization for Unmanned-Aerial-Vehicle Swarm](http://arxiv.org/abs/2510.17541v1)** | 2025-10-20 |  |
+| **[JT-Safe: Intrinsically Enhancing the Safety and Trustworthiness of LLMs](http://arxiv.org/abs/2510.17918v1)** | 2025-10-20 |  |
 | **[T3 Planner: A Self-Correcting LLM Framework for Robotic Motion Planning with Temporal Logic](http://arxiv.org/abs/2510.16767v1)** | 2025-10-19 |  |
 | **[Real-time Spatial-temporal Traversability Assessment via Feature-based Sparse Gaussian Process](http://arxiv.org/abs/2503.04134v2)** | 2025-10-18 | accepted by IROS2025 |
 | **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](http://arxiv.org/abs/2508.05635v2)** | 2025-10-17 | <details><summary>https...</summary><p>https://genie-envisioner.github.io/</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management](http://arxiv.org/abs/2510.14112v1)** | 2025-10-15 |  |
 | **[Hierarchical Bayesian Modeling of Dengue in Recife, Brazil (2015-2024): The Role of Spatial Granularity and Data Quality for Epidemiological Risk Mapping](http://arxiv.org/abs/2510.13672v1)** | 2025-10-15 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, 8 tables</p></details> |
 | **[E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization](http://arxiv.org/abs/2510.12753v1)** | 2025-10-14 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems(NeurIPS 2025)</p></details> |
-| **[Few Shot Semi-Supervised Learning for Abnormal Stop Detection from Sparse GPS Trajectories](http://arxiv.org/abs/2510.12686v1)** | 2025-10-14 |  |
-| **[In the Eye of MLLM: Benchmarking Egocentric Video Intent Understanding with Gaze-Guided Prompting](http://arxiv.org/abs/2509.07447v2)** | 2025-10-14 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2025</p></details> |
 
