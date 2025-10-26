@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 24, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,29 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Unsupervised Anomaly Prediction with N-BEATS and Graph Neural Network in Multi-variate Semiconductor Process Time Series](http://arxiv.org/abs/2510.20718v1)** | 2025-10-23 | 17 pages, 27 figures |
+| **[xTime: Extreme Event Prediction with Hierarchical Knowledge Distillation and Expert Fusion](http://arxiv.org/abs/2510.20651v1)** | 2025-10-23 |  |
+| **[Optimizing Time Series Forecasting Architectures: A Hierarchical Neural Architecture Search Approach](http://arxiv.org/abs/2406.05088v2)** | 2025-10-23 |  |
+| **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](http://arxiv.org/abs/2506.07584v5)** | 2025-10-23 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Main Conference</p></details> |
+| **[Hierarchical Time Series Forecasting with Robust Reconciliation](http://arxiv.org/abs/2510.20383v1)** | 2025-10-23 |  |
+| **[InvDec: Inverted Decoder for Multivariate Time Series Forecasting with Separated Temporal and Variate Modeling](http://arxiv.org/abs/2510.20302v1)** | 2025-10-23 | 23pages, 3 figures |
+| **[Conformal Prediction for Time-series Forecasting with Change Points](http://arxiv.org/abs/2509.02844v3)** | 2025-10-23 |  |
+| **[SynTSBench: Rethinking Temporal Pattern Learning in Deep Learning Models for Time Series](http://arxiv.org/abs/2510.20273v1)** | 2025-10-23 | NeurIPS 2025 |
+| **[Pre-training Epidemic Time Series Forecasters with Compartmental Prototypes](http://arxiv.org/abs/2502.03393v5)** | 2025-10-23 | version 2.0_fixed |
+| **[DMSC: Dynamic Multi-Scale Coordination Framework for Time Series Forecasting](http://arxiv.org/abs/2508.02753v4)** | 2025-10-23 |  |
+| **[Abstain Mask Retain Core: Time Series Prediction by Adaptive Masking Loss with Representation Consistency](http://arxiv.org/abs/2510.19980v1)** | 2025-10-22 | <details><summary>20 pa...</summary><p>20 pages, 4 figures. Accepted as Spotlight poster in NeurIPS 2025</p></details> |
 | **[SEMPO: Lightweight Foundation Models for Time Series Forecasting](http://arxiv.org/abs/2510.19710v1)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[A Climate-Aware Deep Learning Framework for Generalizable Epidemic Forecasting](http://arxiv.org/abs/2510.19611v1)** | 2025-10-22 |  |
 | **[Understanding the Implicit Biases of Design Choices for Time Series Foundation Models](http://arxiv.org/abs/2510.19236v1)** | 2025-10-22 |  |
 | **[Benchmarking Probabilistic Time Series Forecasting Models on Neural Activity](http://arxiv.org/abs/2510.18037v2)** | 2025-10-22 | <details><summary>Accep...</summary><p>Accepted at the 39th Conference on Neural Information Processing Systems (NeurIPS 2025) Workshop: Data on the Brain & Mind</p></details> |
-| **[Conformal Prediction for Time-series Forecasting with Change Points](http://arxiv.org/abs/2509.02844v2)** | 2025-10-21 |  |
-| **[Online Time Series Forecasting with Theoretical Guarantees](http://arxiv.org/abs/2510.18281v1)** | 2025-10-21 |  |
-| **[ProtoTS: Learning Hierarchical Prototypes for Explainable Time Series Forecasting](http://arxiv.org/abs/2509.23159v2)** | 2025-10-21 | Under submission |
-| **[TimeEmb: A Lightweight Static-Dynamic Disentanglement Framework for Time Series Forecasting](http://arxiv.org/abs/2510.00461v2)** | 2025-10-20 |  |
-| **[A Conditional Diffusion Model for Probabilistic Prediction of Battery Capacity Degradation](http://arxiv.org/abs/2510.17414v1)** | 2025-10-20 |  |
-| **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](http://arxiv.org/abs/2509.22295v2)** | 2025-10-20 |  |
-| **[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](http://arxiv.org/abs/2510.14510v2)** | 2025-10-20 |  |
-| **[A Data-Driven Framework for Online Mitigation of False Data Injection Signals in Networked Control Systems](http://arxiv.org/abs/2510.17155v1)** | 2025-10-20 | 17 pages, 9 figures |
-| **[A Primer on Kolmogorov-Arnold Networks (KANs) for Probabilistic Time Series Forecasting](http://arxiv.org/abs/2510.16940v1)** | 2025-10-19 |  |
-| **[MMformer with Adaptive Transferable Attention: Advancing Multivariate Time Series Forecasting for Environmental Applications](http://arxiv.org/abs/2504.14050v2)** | 2025-10-19 |  |
-| **[MGTS-Net: Exploring Graph-Enhanced Multimodal Fusion for Augmented Time Series Forecasting](http://arxiv.org/abs/2510.16350v1)** | 2025-10-18 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI-Enabled Digital Twins for Next-Generation Networks: Forecasting Traffic and Resource Management in 5G/6G](http://arxiv.org/abs/2510.20796v1)** | 2025-10-23 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 2 Tables, Accepted and to be presented at IEEE Global Communications Conference (GLOBECOM) 2025</p></details> |
+| **[VLSP 2025 MLQA-TSR Challenge: Vietnamese Multimodal Legal Question Answering on Traffic Sign Regulation](http://arxiv.org/abs/2510.20381v1)** | 2025-10-23 | <details><summary>VLSP ...</summary><p>VLSP 2025 MLQA-TSR Share Task</p></details> |
+| **[A Unified Detection Pipeline for Robust Object Detection in Fisheye-Based Traffic Surveillance](http://arxiv.org/abs/2510.20016v1)** | 2025-10-22 | <details><summary>The p...</summary><p>The paper was accepted at ICCV 2025 and published in CVF database</p></details> |
+| **[From Optimization to Prediction: Transformer-Based Path-Flow Estimation to the Traffic Assignment Problem](http://arxiv.org/abs/2510.19889v1)** | 2025-10-22 |  |
 | **[Traffic-R1: Reinforced LLMs Bring Human-Like Reasoning to Traffic Signal Control Systems](http://arxiv.org/abs/2508.02344v2)** | 2025-10-22 |  |
 | **[Securing IoT Communications via Anomaly Traffic Detection: Synergy of Genetic Algorithm and Ensemble Method](http://arxiv.org/abs/2510.19121v1)** | 2025-10-21 | 24 pages |
 | **[Hunting in the Dark: Metrics for Early Stage Traffic Discovery](http://arxiv.org/abs/2507.05213v2)** | 2025-10-21 | 12 pages, 8 figures |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Numerical computation of generalized Wasserstein distances with applications to traffic model analysis](http://arxiv.org/abs/2410.11441v3)** | 2025-10-19 |  |
 | **[Towards Intelligent Traffic Signaling in Dhaka City Based on Vehicle Detection and Congestion Optimization](http://arxiv.org/abs/2510.16622v1)** | 2025-10-18 | <details><summary>10 pa...</summary><p>10 pages, Submitted to IEEE Transactions on Intelligent Transportation Systems (T-ITS)</p></details> |
 | **[Heimdallr: Fingerprinting SD-WAN Control-Plane Architecture via Encrypted Control Traffic](http://arxiv.org/abs/2510.16461v1)** | 2025-10-18 | 14 pages, 14 figures |
-| **[Hypergame-based Cognition Modeling and Intention Interpretation for Human-Driven Vehicles in Connected Mixed Traffic](http://arxiv.org/abs/2510.15573v1)** | 2025-10-17 |  |
-| **[VLMLight: Safety-Critical Traffic Signal Control via Vision-Language Meta-Control and Dual-Branch Reasoning Architecture](http://arxiv.org/abs/2505.19486v2)** | 2025-10-17 | 25 pages, 15 figures |
-| **[A Survey and Benchmarking of Spatial-Temporal Traffic Data Imputation Models](http://arxiv.org/abs/2412.04733v2)** | 2025-10-17 |  |
-| **[An Intention-driven Lane Change Framework Considering Heterogeneous Dynamic Cooperation in Mixed-traffic Environment](http://arxiv.org/abs/2509.22550v3)** | 2025-10-17 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
