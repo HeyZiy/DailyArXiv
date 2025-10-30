@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 30, 2025
+title: Latest 15 Papers - October 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](http://arxiv.org/abs/2510.25502v1)** | 2025-10-29 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, 13 tables</p></details> |
+| **[Selective Learning for Deep Time Series Forecasting](http://arxiv.org/abs/2510.25207v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](http://arxiv.org/abs/2510.24574v1)** | 2025-10-28 |  |
 | **[ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery](http://arxiv.org/abs/2510.24452v1)** | 2025-10-28 |  |
 | **[OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting](http://arxiv.org/abs/2510.24028v1)** | 2025-10-28 |  |
@@ -20,12 +22,13 @@ labels: documentation
 | **[Monitoring State Transitions in Markovian Systems with Sampling Cost](http://arxiv.org/abs/2510.22327v1)** | 2025-10-25 | 6 pages, 4 figures |
 | **[A Lightweight Gradient-based Causal Discovery Framework with Applications to Complex Industrial Processes](http://arxiv.org/abs/2507.11178v2)** | 2025-10-25 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
 | **[Dopamine-driven synaptic credit assignment in neural networks](http://arxiv.org/abs/2510.22178v1)** | 2025-10-25 |  |
-| **[Quantum Temporal Fusion Transformer](http://arxiv.org/abs/2508.04048v2)** | 2025-10-24 |  |
-| **[Benchmarking Catastrophic Forgetting Mitigation Methods in Federated Time Series Forecasting](http://arxiv.org/abs/2510.21491v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Accepted for presentation at the FLTA 2025 Conference on Federated Learning. This version corresponds to the camera-ready author manuscript</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Performance Evaluation of Multimedia Traffic in Cloud Storage Services over Wi-Fi and LTE Networks](http://arxiv.org/abs/2510.25079v1)** | 2025-10-29 | <details><summary>2025 ...</summary><p>2025 20th Iberian Conference on Information Systems and Technologies (CISTI), Lecture Notes in Networks and Systems</p></details> |
+| **[Merit Network Telescope: Processing and Initial Insights from Nearly 20 Years of Darknet Traffic for Cybersecurity Research](http://arxiv.org/abs/2510.25050v1)** | 2025-10-29 |  |
+| **[Pixels to Signals: A Real-Time Framework for Traffic Demand Estimation](http://arxiv.org/abs/2510.24902v1)** | 2025-10-28 |  |
 | **[Assessing the Completeness of Traffic Scenario Categories for Automated Highway Driving Functions via Cluster-based Analysis](http://arxiv.org/abs/2506.02599v2)** | 2025-10-27 |  |
 | **[DQ3D: Depth-guided Query for Transformer-Based 3D Object Detection in Traffic Scenarios](http://arxiv.org/abs/2510.23144v1)** | 2025-10-27 |  |
 | **[Traffic flow forecasting, STL decomposition, Hybrid model, LSTM, ARIMA, XGBoost, Intelligent transportation systems](http://arxiv.org/abs/2510.23668v1)** | 2025-10-26 |  |
@@ -38,13 +41,12 @@ labels: documentation
 | **[From Optimization to Prediction: Transformer-Based Path-Flow Estimation to the Traffic Assignment Problem](http://arxiv.org/abs/2510.19889v1)** | 2025-10-22 |  |
 | **[Traffic-R1: Reinforced LLMs Bring Human-Like Reasoning to Traffic Signal Control Systems](http://arxiv.org/abs/2508.02344v2)** | 2025-10-22 |  |
 | **[Securing IoT Communications via Anomaly Traffic Detection: Synergy of Genetic Algorithm and Ensemble Method](http://arxiv.org/abs/2510.19121v1)** | 2025-10-21 | 24 pages |
-| **[Hunting in the Dark: Metrics for Early Stage Traffic Discovery](http://arxiv.org/abs/2507.05213v2)** | 2025-10-21 | 12 pages, 8 figures |
-| **[Interval Prediction of Annual Average Daily Traffic on Local Roads via Quantile Random Forest with High-Dimensional Spatial Data](http://arxiv.org/abs/2510.18548v1)** | 2025-10-21 |  |
-| **[Enhancing 5G V2X Mode 2 for Sporadic Traffic](http://arxiv.org/abs/2510.17395v1)** | 2025-10-20 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PureKV: Plug-and-Play KV Cache Optimization with Spatial-Temporal Sparse Attention for Vision-Language Large Models](http://arxiv.org/abs/2510.25600v1)** | 2025-10-29 |  |
+| **[From Narrative to Action: A Hierarchical LLM-Agent Framework for Human Mobility Generation](http://arxiv.org/abs/2510.24802v1)** | 2025-10-28 | 47 pages, 3 figures |
 | **[LASER: A Neuro-Symbolic Framework for Learning Spatial-Temporal Scene Graphs with Weak Supervision](http://arxiv.org/abs/2304.07647v7)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at International Conference on Learning Representations (ICLR) 2025</p></details> |
 | **[ESCA: Contextualizing Embodied Agents via Scene-Graph Generation](http://arxiv.org/abs/2510.15963v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted as a Spotlight Paper at NeurIPS 2025</p></details> |
 | **[Deductive Chain-of-Thought Augmented Socially-aware Robot Navigation World Model](http://arxiv.org/abs/2510.23509v1)** | 2025-10-27 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Save It for the "Hot" Day: An LLM-Empowered Visual Analytics System for Heat Risk Management](http://arxiv.org/abs/2406.03317v3)** | 2025-10-24 |  |
 | **[OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation](http://arxiv.org/abs/2510.19789v1)** | 2025-10-22 |  |
 | **[[De|Re]constructing VLMs' Reasoning in Counting](http://arxiv.org/abs/2510.19555v1)** | 2025-10-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[RoboMemory: A Brain-inspired Multi-memory Agentic Framework for Interactive Environmental Learning in Physical Embodied Systems](http://arxiv.org/abs/2508.01415v5)** | 2025-10-22 |  |
-| **[Generalizing subdiffusive Black-Scholes model by variable exponent: Model transformation and numerical approximation](http://arxiv.org/abs/2411.13913v2)** | 2025-10-21 |  |
 
