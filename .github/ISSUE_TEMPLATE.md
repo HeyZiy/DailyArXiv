@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 31, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Explainable and Reliable AI in Finance](http://arxiv.org/abs/2510.26353v1)** | 2025-10-30 |  |
 | **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](http://arxiv.org/abs/2510.25502v1)** | 2025-10-29 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, 13 tables</p></details> |
 | **[Selective Learning for Deep Time Series Forecasting](http://arxiv.org/abs/2510.25207v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](http://arxiv.org/abs/2510.24574v1)** | 2025-10-28 |  |
@@ -21,11 +22,13 @@ labels: documentation
 | **[A Theory of the Mechanics of Information: Generalization Through Measurement of Uncertainty (Learning is Measuring)](http://arxiv.org/abs/2510.22809v1)** | 2025-10-26 | 117 pages |
 | **[Monitoring State Transitions in Markovian Systems with Sampling Cost](http://arxiv.org/abs/2510.22327v1)** | 2025-10-25 | 6 pages, 4 figures |
 | **[A Lightweight Gradient-based Causal Discovery Framework with Applications to Complex Industrial Processes](http://arxiv.org/abs/2507.11178v2)** | 2025-10-25 | <details><summary>9 pag...</summary><p>9 pages,3 figures, conference</p></details> |
-| **[Dopamine-driven synaptic credit assignment in neural networks](http://arxiv.org/abs/2510.22178v1)** | 2025-10-25 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Retrieval Augmented Generation-Enhanced Distributed LLM Agents for Generalizable Traffic Signal Control with Emergency Vehicles](http://arxiv.org/abs/2510.26242v1)** | 2025-10-30 |  |
+| **[DARTS: A Drone-Based AI-Powered Real-Time Traffic Incident Detection System](http://arxiv.org/abs/2510.26004v1)** | 2025-10-29 | <details><summary>Prepr...</summary><p>Preprint version. This manuscript is currently under review at Transportation Research Part C: Emerging Technologies. The PDF corresponds to the version submitted in June 2025. The main findings of this work were recognized with the Best Intelligent Transportation Systems Paper Award at the 2025 TRB Annual Meeting</p></details> |
+| **[Adversarial Pre-Padding: Generating Evasive Network Traffic Against Transformer-Based Classifiers](http://arxiv.org/abs/2510.25810v1)** | 2025-10-29 |  |
 | **[Performance Evaluation of Multimedia Traffic in Cloud Storage Services over Wi-Fi and LTE Networks](http://arxiv.org/abs/2510.25079v1)** | 2025-10-29 | <details><summary>2025 ...</summary><p>2025 20th Iberian Conference on Information Systems and Technologies (CISTI), Lecture Notes in Networks and Systems</p></details> |
 | **[Merit Network Telescope: Processing and Initial Insights from Nearly 20 Years of Darknet Traffic for Cybersecurity Research](http://arxiv.org/abs/2510.25050v1)** | 2025-10-29 |  |
 | **[Pixels to Signals: A Real-Time Framework for Traffic Demand Estimation](http://arxiv.org/abs/2510.24902v1)** | 2025-10-28 |  |
@@ -38,14 +41,14 @@ labels: documentation
 | **[A Traffic Prediction-Based Individualized Driver Warning System to Reduce Red Light Violations](http://arxiv.org/abs/2411.03271v2)** | 2025-10-24 | <details><summary>accep...</summary><p>accepted by ASCE's Journal of Transportation Engineering, Part A: Systems</p></details> |
 | **[VLSP 2025 MLQA-TSR Challenge: Vietnamese Multimodal Legal Question Answering on Traffic Sign Regulation](http://arxiv.org/abs/2510.20381v1)** | 2025-10-23 | <details><summary>VLSP ...</summary><p>VLSP 2025 MLQA-TSR Share Task</p></details> |
 | **[A Unified Detection Pipeline for Robust Object Detection in Fisheye-Based Traffic Surveillance](http://arxiv.org/abs/2510.20016v1)** | 2025-10-22 | <details><summary>The p...</summary><p>The paper was accepted at ICCV 2025 and published in CVF database</p></details> |
-| **[From Optimization to Prediction: Transformer-Based Path-Flow Estimation to the Traffic Assignment Problem](http://arxiv.org/abs/2510.19889v1)** | 2025-10-22 |  |
-| **[Traffic-R1: Reinforced LLMs Bring Human-Like Reasoning to Traffic Signal Control Systems](http://arxiv.org/abs/2508.02344v2)** | 2025-10-22 |  |
-| **[Securing IoT Communications via Anomaly Traffic Detection: Synergy of Genetic Algorithm and Ensemble Method](http://arxiv.org/abs/2510.19121v1)** | 2025-10-21 | 24 pages |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[PureKV: Plug-and-Play KV Cache Optimization with Spatial-Temporal Sparse Attention for Vision-Language Large Models](http://arxiv.org/abs/2510.25600v1)** | 2025-10-29 |  |
+| **[STAR: A Privacy-Preserving, Energy-Efficient Edge AI Framework for Human Activity Recognition via Wi-Fi CSI in Mobile and Pervasive Computing Environments](http://arxiv.org/abs/2510.26148v1)** | 2025-10-30 |  |
+| **[PureKV: Plug-and-Play KV Cache Optimization with Spatial-Temporal Sparse Attention for Vision-Language Large Models](http://arxiv.org/abs/2510.25600v2)** | 2025-10-30 |  |
+| **[From Queries to Insights: Agentic LLM Pipelines for Spatio-Temporal Text-to-SQL](http://arxiv.org/abs/2510.25997v1)** | 2025-10-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, GeoGenAgent'25 - ACM SIGSPATIAL</p></details> |
+| **[Application and Validation of Geospatial Foundation Model Data for the Prediction of Health Facility Programmatic Outputs -- A Case Study in Malawi](http://arxiv.org/abs/2510.25954v1)** | 2025-10-29 | <details><summary>13 pa...</summary><p>13 pages, 3010 words, 2 tables, 2 figures</p></details> |
 | **[From Narrative to Action: A Hierarchical LLM-Agent Framework for Human Mobility Generation](http://arxiv.org/abs/2510.24802v1)** | 2025-10-28 | 47 pages, 3 figures |
 | **[LASER: A Neuro-Symbolic Framework for Learning Spatial-Temporal Scene Graphs with Weak Supervision](http://arxiv.org/abs/2304.07647v7)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted at International Conference on Learning Representations (ICLR) 2025</p></details> |
 | **[ESCA: Contextualizing Embodied Agents via Scene-Graph Generation](http://arxiv.org/abs/2510.15963v2)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted as a Spotlight Paper at NeurIPS 2025</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[E-MoFlow: Learning Egomotion and Optical Flow from Event Data via Implicit Regularization](http://arxiv.org/abs/2510.12753v2)** | 2025-10-24 | <details><summary>The T...</summary><p>The Thirty-Ninth Annual Conference on Neural Information Processing Systems(NeurIPS 2025)</p></details> |
 | **[Unveiling the Spatial-temporal Effective Receptive Fields of Spiking Neural Networks](http://arxiv.org/abs/2510.21403v1)** | 2025-10-24 | <details><summary>Accep...</summary><p>Acceped by 39th Conference on Neural Information Processing Systems (NeurIPS 2025)</p></details> |
 | **[LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression](http://arxiv.org/abs/2510.23632v1)** | 2025-10-24 |  |
-| **[Save It for the "Hot" Day: An LLM-Empowered Visual Analytics System for Heat Risk Management](http://arxiv.org/abs/2406.03317v3)** | 2025-10-24 |  |
-| **[OmniMotion-X: Versatile Multimodal Whole-Body Motion Generation](http://arxiv.org/abs/2510.19789v1)** | 2025-10-22 |  |
-| **[[De|Re]constructing VLMs' Reasoning in Counting](http://arxiv.org/abs/2510.19555v1)** | 2025-10-22 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 
