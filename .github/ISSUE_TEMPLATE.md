@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 04, 2025
+title: Latest 15 Papers - November 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting](http://arxiv.org/abs/2510.24028v2)** | 2025-11-03 |  |
+| **[TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](http://arxiv.org/abs/2505.23719v2)** | 2025-11-02 | <details><summary>prese...</summary><p>presented at NeurIPS 2025</p></details> |
+| **[SST: Multi-Scale Hybrid Mamba-Transformer Experts for Time Series Forecasting](http://arxiv.org/abs/2404.14757v3)** | 2025-11-02 | CIKM 2025 |
+| **[Integer-only Quantized Transformers for Embedded FPGA-based Time-series Forecasting in AIoT](http://arxiv.org/abs/2407.11041v5)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted by 2024 IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) and got best paper award. 7 pages, 3 figures, 4 tables</p></details> |
 | **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](http://arxiv.org/abs/2510.25502v2)** | 2025-10-31 | <details><summary>30 pa...</summary><p>30 pages, 18 figures, 13 tables</p></details> |
 | **[Deciphering Invariant Feature Decoupling in Source-free Time Series Forecasting with Proxy Denoising](http://arxiv.org/abs/2510.05589v2)** | 2025-10-31 |  |
 | **[SVTime: Small Time Series Forecasting Models Informed by "Physics" of Large Vision Model Forecasters](http://arxiv.org/abs/2510.09780v2)** | 2025-10-31 |  |
@@ -16,12 +20,8 @@ labels: documentation
 | **[Selective Learning for Deep Time Series Forecasting](http://arxiv.org/abs/2510.25207v1)** | 2025-10-29 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[DistDF: Time-Series Forecasting Needs Joint-Distribution Wasserstein Alignment](http://arxiv.org/abs/2510.24574v1)** | 2025-10-28 |  |
 | **[ARIMA_PLUS: Large-scale, Accurate, Automatic and Interpretable In-Database Time Series Forecasting and Anomaly Detection in Google BigQuery](http://arxiv.org/abs/2510.24452v1)** | 2025-10-28 |  |
-| **[OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting](http://arxiv.org/abs/2510.24028v1)** | 2025-10-28 |  |
 | **[Spatio-temporal Multivariate Time Series Forecast with Chosen Variables](http://arxiv.org/abs/2510.24027v1)** | 2025-10-28 | In submission |
 | **[EMTSF:Extraordinary Mixture of SOTA Models for Time Series Forecasting](http://arxiv.org/abs/2510.23396v1)** | 2025-10-27 |  |
-| **[Mixing It Up: Exploring Mixer Networks for Irregular Multivariate Time Series Forecasting](http://arxiv.org/abs/2502.11816v2)** | 2025-10-27 |  |
-| **[MAP4TS: A Multi-Aspect Prompting Framework for Time-Series Forecasting with Large Language Models](http://arxiv.org/abs/2510.23090v1)** | 2025-10-27 |  |
-| **[Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting](http://arxiv.org/abs/2502.14704v3)** | 2025-10-27 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25 (spotlight)</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
