@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 07, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ForecastGAN: A Decomposition-Based Adversarial Framework for Multi-Horizon Time Series Forecasting](http://arxiv.org/abs/2511.04445v1)** | 2025-11-06 | <details><summary>Porti...</summary><p>Portions of this work were previously published in the author's Master's thesis at University of Windsor (2024)</p></details> |
+| **[Low-rank Tensor Autoregressive Predictor for Third-Order Time-Series Forecasting](http://arxiv.org/abs/2403.02835v2)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted for publication in Expert Systems with Applications</p></details> |
+| **[Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting](http://arxiv.org/abs/2406.02827v3)** | 2025-11-06 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. SIGKDD 2025</p></details> |
 | **[ReNF: Rethinking the Design Space of Neural Long-Term Time Series Forecasters](http://arxiv.org/abs/2509.25914v4)** | 2025-11-05 |  |
 | **[This Time is Different: An Observability Perspective on Time Series Foundation Models](http://arxiv.org/abs/2505.14766v2)** | 2025-11-04 |  |
 | **[Data-Efficient Realized Volatility Forecasting with Vision Transformers](http://arxiv.org/abs/2511.03046v1)** | 2025-11-04 | <details><summary>NeurI...</summary><p>NeurIPS Generative AI in Finance</p></details> |
@@ -19,9 +22,6 @@ labels: documentation
 | **[OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting](http://arxiv.org/abs/2510.24028v2)** | 2025-11-03 |  |
 | **[TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](http://arxiv.org/abs/2505.23719v2)** | 2025-11-02 | <details><summary>prese...</summary><p>presented at NeurIPS 2025</p></details> |
 | **[Hydra: Dual Exponentiated Memory for Multivariate Time Series Analysis](http://arxiv.org/abs/2511.00989v1)** | 2025-11-02 |  |
-| **[SST: Multi-Scale Hybrid Mamba-Transformer Experts for Time Series Forecasting](http://arxiv.org/abs/2404.14757v3)** | 2025-11-02 | CIKM 2025 |
-| **[DeltaLag: Learning Dynamic Lead-Lag Patterns in Financial Markets](http://arxiv.org/abs/2511.00390v1)** | 2025-11-01 |  |
-| **[Integer-only Quantized Transformers for Embedded FPGA-based Time-series Forecasting in AIoT](http://arxiv.org/abs/2407.11041v5)** | 2025-10-31 | <details><summary>Accep...</summary><p>Accepted by 2024 IEEE Annual Congress on Artificial Intelligence of Things (IEEE AIoT) and got best paper award. 7 pages, 3 figures, 4 tables</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,8 @@ labels: documentation
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing Sensor Placement in Urban Storm Sewers: A Data-Driven Sparse Sensing Approach](http://arxiv.org/abs/2511.04556v1)** | 2025-11-06 | <details><summary>32 pa...</summary><p>32 pages (including supplementary information), 11 figures (and 7 figures in supplementary). Submitted to Nature Water. Partially presented at HydroML 2025 Symposium, Minnesota Water Resources Conference 2025, and will be presented at AGU Fall Meeting 2025</p></details> |
+| **[A space-time adaptive boundary element method for the wave equation](http://arxiv.org/abs/2511.04265v1)** | 2025-11-06 | <details><summary>22 pa...</summary><p>22 pages, 23 figures, to appear in SIAM Journal on Scientific Computing</p></details> |
 | **[LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression (Technical Report)](http://arxiv.org/abs/2510.23632v2)** | 2025-11-04 |  |
 | **[NF-SecRIS: RIS-Assisted Near-Field Physical Layer Security via Secure Location Modulation](http://arxiv.org/abs/2511.02949v1)** | 2025-11-04 |  |
 | **[Genie Envisioner: A Unified World Foundation Platform for Robotic Manipulation](http://arxiv.org/abs/2508.05635v3)** | 2025-11-04 | <details><summary>https...</summary><p>https://genie-envisioner.github.io/</p></details> |
@@ -58,6 +60,4 @@ labels: documentation
 | **[PureKV: Plug-and-Play KV Cache Optimization with Spatial-Temporal Sparse Attention for Vision-Language Large Models](http://arxiv.org/abs/2510.25600v2)** | 2025-10-30 |  |
 | **[From Queries to Insights: Agentic LLM Pipelines for Spatio-Temporal Text-to-SQL](http://arxiv.org/abs/2510.25997v1)** | 2025-10-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, GeoGenAgent'25 - ACM SIGSPATIAL</p></details> |
 | **[Application and Validation of Geospatial Foundation Model Data for the Prediction of Health Facility Programmatic Outputs -- A Case Study in Malawi](http://arxiv.org/abs/2510.25954v1)** | 2025-10-29 | <details><summary>13 pa...</summary><p>13 pages, 3010 words, 2 tables, 2 figures</p></details> |
-| **[Systematic Absence of Low-Confidence Nighttime Fire Detections in VIIRS Active Fire Product: Evidence of Undocumented Algorithmic Filtering](http://arxiv.org/abs/2510.26816v1)** | 2025-10-28 | <details><summary>11 pa...</summary><p>11 pages, 8 tables, 2 algorithms. Submitted to ArXiv for open access dissemination prior to journal submission</p></details> |
-| **[From Narrative to Action: A Hierarchical LLM-Agent Framework for Human Mobility Generation](http://arxiv.org/abs/2510.24802v1)** | 2025-10-28 | 47 pages, 3 figures |
 
