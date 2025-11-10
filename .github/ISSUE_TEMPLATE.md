@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 10, 2025
+title: Latest 15 Papers - November 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synapse: Adaptive Arbitration of Complementary Expertise in Time Series Foundational Models](http://arxiv.org/abs/2511.05460v1)** | 2025-11-07 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 4 tables</p></details> |
+| **[Embedding-Space Data Augmentation to Prevent Membership Inference Attacks in Clinical Time Series Forecasting](http://arxiv.org/abs/2511.05289v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted as a proceedings paper at Machine Learning for Health (ML4H) symposium 2025, December 1-2, 2025, San Diego, United States, 15 pages</p></details> |
+| **[Two-stage hybrid models for enhancing forecasting accuracy on heterogeneous time series](http://arxiv.org/abs/2502.08600v2)** | 2025-11-07 | 8 pages, 5 figures |
 | **[ForecastGAN: A Decomposition-Based Adversarial Framework for Multi-Horizon Time Series Forecasting](http://arxiv.org/abs/2511.04445v1)** | 2025-11-06 | <details><summary>Porti...</summary><p>Portions of this work were previously published in the author's Master's thesis at University of Windsor (2024)</p></details> |
+| **[AWEMixer: Adaptive Wavelet-Enhanced Mixer Network for Long-Term Time Series Forecasting](http://arxiv.org/abs/2511.04722v1)** | 2025-11-06 |  |
 | **[Low-rank Tensor Autoregressive Predictor for Third-Order Time-Series Forecasting](http://arxiv.org/abs/2403.02835v2)** | 2025-11-06 | <details><summary>Accep...</summary><p>Accepted for publication in Expert Systems with Applications</p></details> |
 | **[Stochastic Diffusion: A Diffusion Probabilistic Model for Stochastic Time Series Forecasting](http://arxiv.org/abs/2406.02827v3)** | 2025-11-06 | <details><summary>15 pa...</summary><p>15 pages, 4 figures. SIGKDD 2025</p></details> |
 | **[ReNF: Rethinking the Design Space of Neural Long-Term Time Series Forecasters](http://arxiv.org/abs/2509.25914v4)** | 2025-11-05 |  |
@@ -18,14 +22,13 @@ labels: documentation
 | **[End-to-End Probabilistic Framework for Learning with Hard Constraints](http://arxiv.org/abs/2506.07003v2)** | 2025-11-04 | <details><summary>45 pa...</summary><p>45 pages, 5 figures, 10 tables</p></details> |
 | **[DoFlow: Causal Generative Flows for Interventional and Counterfactual Time-Series Prediction](http://arxiv.org/abs/2511.02137v1)** | 2025-11-04 |  |
 | **[Revisiting Multivariate Time Series Forecasting with Missing Values](http://arxiv.org/abs/2509.23494v2)** | 2025-11-03 |  |
-| **[A Systematic Literature Review of Spatio-Temporal Graph Neural Network Models for Time Series Forecasting and Classification](http://arxiv.org/abs/2410.22377v4)** | 2025-11-03 |  |
-| **[OneCast: Structured Decomposition and Modular Generation for Cross-Domain Time Series Forecasting](http://arxiv.org/abs/2510.24028v2)** | 2025-11-03 |  |
-| **[TiRex: Zero-Shot Forecasting Across Long and Short Horizons with Enhanced In-Context Learning](http://arxiv.org/abs/2505.23719v2)** | 2025-11-02 | <details><summary>prese...</summary><p>presented at NeurIPS 2025</p></details> |
-| **[Hydra: Dual Exponentiated Memory for Multivariate Time Series Analysis](http://arxiv.org/abs/2511.00989v1)** | 2025-11-02 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Coordinated Control of Autonomous Vehicles for Traffic Density Reduction at a Signalized Junction: An MPC Approach](http://arxiv.org/abs/2506.21302v2)** | 2025-11-07 |  |
+| **[BLADE: Behavior-Level Anomaly Detection Using Network Traffic in Web Services](http://arxiv.org/abs/2511.05193v1)** | 2025-11-07 | <details><summary>Accep...</summary><p>Accepted by IEEE MSN 2025</p></details> |
+| **[Self-Interest and Systemic Benefits: Emergence of Collective Rationality in Mixed Autonomy Traffic Through Deep Reinforcement Learning](http://arxiv.org/abs/2511.04883v1)** | 2025-11-07 |  |
 | **[Smartphone User Fingerprinting on Wireless Traffic](http://arxiv.org/abs/2511.03229v1)** | 2025-11-05 | <details><summary>To ap...</summary><p>To appear in IEEE Transactions on Mobile Computing. arXiv admin note: text overlap with arXiv:2408.07263</p></details> |
 | **[Modeling Headway in Heterogeneous and Mixed Traffic Flow: A Statistical Distribution Based on a General Exponential Function](http://arxiv.org/abs/2511.03154v1)** | 2025-11-05 |  |
 | **[The Urban Vision Hackathon Dataset and Models: Towards Image Annotations and Accurate Vision Models for Indian Traffic](http://arxiv.org/abs/2511.02563v1)** | 2025-11-04 |  |
@@ -38,13 +41,11 @@ labels: documentation
 | **[Robust Single-Agent Reinforcement Learning for Regional Traffic Signal Control Under Demand Fluctuations](http://arxiv.org/abs/2511.00549v1)** | 2025-11-01 |  |
 | **[Optimization of continuous-flow over traffic networks with fundamental diagram constraints](http://arxiv.org/abs/2511.00500v1)** | 2025-11-01 | 13 pages, 5 figures |
 | **[Information-Theoretic Greedy Layer-wise Training for Traffic Sign Recognition](http://arxiv.org/abs/2510.27651v1)** | 2025-10-31 |  |
-| **[A Dual Large Language Models Architecture with Herald Guided Prompts for Parallel Fine Grained Traffic Signal Control](http://arxiv.org/abs/2511.00136v1)** | 2025-10-31 |  |
-| **[Binary Anomaly Detection in Streaming IoT Traffic under Concept Drift](http://arxiv.org/abs/2510.27304v1)** | 2025-10-31 | <details><summary>6 pag...</summary><p>6 pages, 11 figures, 3 tables</p></details> |
-| **[MDAS-GNN: Multi-Dimensional Spatiotemporal GNN with Spatial Diffusion for Urban Traffic Risk Forecasting](http://arxiv.org/abs/2510.27197v1)** | 2025-10-31 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Analytical Models of Frequency and Voltage in Large-Scale All-Inverter Power Systems](http://arxiv.org/abs/2501.10592v2)** | 2025-11-07 |  |
 | **[Optimizing Sensor Placement in Urban Storm Sewers: A Data-Driven Sparse Sensing Approach](http://arxiv.org/abs/2511.04556v1)** | 2025-11-06 | <details><summary>32 pa...</summary><p>32 pages (including supplementary information), 11 figures (and 7 figures in supplementary). Submitted to Nature Water. Partially presented at HydroML 2025 Symposium, Minnesota Water Resources Conference 2025, and will be presented at AGU Fall Meeting 2025</p></details> |
 | **[A space-time adaptive boundary element method for the wave equation](http://arxiv.org/abs/2511.04265v1)** | 2025-11-06 | <details><summary>22 pa...</summary><p>22 pages, 23 figures, to appear in SIAM Journal on Scientific Computing</p></details> |
 | **[LLMComp: A Language Modeling Paradigm for Error-Bounded Scientific Data Compression (Technical Report)](http://arxiv.org/abs/2510.23632v2)** | 2025-11-04 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[STAR: A Privacy-Preserving, Energy-Efficient Edge AI Framework for Human Activity Recognition via Wi-Fi CSI in Mobile and Pervasive Computing Environments](http://arxiv.org/abs/2510.26148v1)** | 2025-10-30 |  |
 | **[PureKV: Plug-and-Play KV Cache Optimization with Spatial-Temporal Sparse Attention for Vision-Language Large Models](http://arxiv.org/abs/2510.25600v2)** | 2025-10-30 |  |
 | **[From Queries to Insights: Agentic LLM Pipelines for Spatio-Temporal Text-to-SQL](http://arxiv.org/abs/2510.25997v1)** | 2025-10-29 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, GeoGenAgent'25 - ACM SIGSPATIAL</p></details> |
-| **[Application and Validation of Geospatial Foundation Model Data for the Prediction of Health Facility Programmatic Outputs -- A Case Study in Malawi](http://arxiv.org/abs/2510.25954v1)** | 2025-10-29 | <details><summary>13 pa...</summary><p>13 pages, 3010 words, 2 tables, 2 figures</p></details> |
 
