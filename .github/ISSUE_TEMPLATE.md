@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 21, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,21 +7,21 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generative Modeling of Clinical Time Series via Latent Stochastic Differential Equations](https://arxiv.org/abs/2511.16427v1)** | 2025-11-20 |  |
+| **[FreqFlow: Long-term forecasting using lightweight flow matching](https://arxiv.org/abs/2511.16426v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at EurIPS, 2025</p></details> |
+| **[xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928v4)** | 2025-11-20 | <details><summary>Poste...</summary><p>Poster at NeurIPS 2025</p></details> |
+| **[A Hybrid Deep Learning based Carbon Price Forecasting Framework with Structural Breakpoints Detection and Signal Denoising](https://arxiv.org/abs/2511.04988v2)** | 2025-11-20 |  |
+| **[A Hybrid Proactive And Predictive Framework For Edge Cloud Resource Management](https://arxiv.org/abs/2511.16075v1)** | 2025-11-20 |  |
 | **[Ridge Regression on Riemannian Manifolds for Time-Series Prediction](https://arxiv.org/abs/2411.18339v3)** | 2025-11-19 | Extended version |
 | **[TSFM in-context learning for time-series classification of bearing-health status](https://arxiv.org/abs/2511.15447v1)** | 2025-11-19 | <details><summary>Prepr...</summary><p>Preprint submitted to ESANN 2026</p></details> |
 | **[Multi-layer Stack Ensembles for Time Series Forecasting](https://arxiv.org/abs/2511.15350v1)** | 2025-11-19 | <details><summary>Publi...</summary><p>Published at AutoML Conference 2025 Methods Track</p></details> |
 | **[STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection](https://arxiv.org/abs/2511.15339v1)** | 2025-11-19 | <details><summary>8 Pag...</summary><p>8 Pages, 4 Figures, 4 Tables</p></details> |
 | **[FireCastNet: Earth-as-a-Graph for Seasonal Fire Prediction](https://arxiv.org/abs/2502.01550v2)** | 2025-11-19 |  |
 | **[Semiconductor Industry Trend Prediction with Event Intervention Based on LSTM Model in Sentiment-Enhanced Time Series Data](https://arxiv.org/abs/2511.15112v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted in Taiwan Academic Network Conference (TANET 2025)</p></details> |
-| **[xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928v3)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025</p></details> |
 | **[Adapformer: Adaptive Channel Management for Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.14632v1)** | 2025-11-18 |  |
 | **[A More Realistic Evaluation of Cross-Frequency Transfer Learning and Foundation Forecasting Models](https://arxiv.org/abs/2509.19465v3)** | 2025-11-18 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
 | **[BadTime: An Effective Backdoor Attack on Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2508.04189v2)** | 2025-11-18 |  |
 | **[A causal interactions indicator between two time series using extreme variations in the first eigenvalue of lagged correlation matrices](https://arxiv.org/abs/2307.04953v3)** | 2025-11-18 | <details><summary>24 pa...</summary><p>24 pages, 19 Figures, 3 Tables</p></details> |
-| **[Forecasting Malaria in Indian States: A Time Series Approach with R Shiny Integration](https://arxiv.org/abs/2412.20121v2)** | 2025-11-18 | 18 pages |
-| **[Enhancing Regional Airbnb Trend Forecasting Using LLM-Based Embeddings of Accessibility and Human Mobility](https://arxiv.org/abs/2511.14248v1)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted at ASONAM 2025</p></details> |
-| **[Optimal Look-back Horizon for Time Series Forecasting in Federated Learning](https://arxiv.org/abs/2511.12791v2)** | 2025-11-18 | <details><summary>Accep...</summary><p>Accepted by AAAI-26 as Oral Presentation</p></details> |
-| **[Higher-Order Transformers With Kronecker-Structured Attention](https://arxiv.org/abs/2412.02919v2)** | 2025-11-18 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
@@ -45,19 +45,19 @@ labels: documentation
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Solving Spatial Supersensing Without Spatial Supersensing](https://arxiv.org/abs/2511.16655v1)** | 2025-11-20 | Tech Report |
+| **[TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming](https://arxiv.org/abs/2511.16642v1)** | 2025-11-20 | NeurIPS 2025 |
+| **[Context-Aware Multimodal Representation Learning for Spatio-Temporally Explicit Environmental Modelling](https://arxiv.org/abs/2511.11706v3)** | 2025-11-20 | <details><summary>10 pa...</summary><p>10 pages (incliding 2 pages of references), 7 figures</p></details> |
+| **[STAMP: Spatial-Temporal Adapter with Multi-Head Pooling](https://arxiv.org/abs/2511.10848v2)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted as a Proceedings paper at Machine Learning for Health (ML4H) 2025, invited presentation at the Time Series for Health (TS4H) Workshop, NeurIPS 2025. v2: Updated author affiliation and corrected a duplicated word in the text. No other changes</p></details> |
+| **[ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery](https://arxiv.org/abs/2511.16322v1)** | 2025-11-20 |  |
+| **[GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations](https://arxiv.org/abs/2511.16245v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. 9 pages, 4 figures</p></details> |
+| **[TRADES: Generating Realistic Market Simulations with Diffusion Models](https://arxiv.org/abs/2502.07071v3)** | 2025-11-20 | 8 pages |
+| **[Achieving Skilled and Reliable Daily Probabilistic Forecasts of Wind Power at Subseasonal-to-Seasonal Timescales over France](https://arxiv.org/abs/2511.16164v1)** | 2025-11-20 |  |
+| **[A Spatial Semantics and Continuity Perception Attention for Remote Sensing Water Body Change Detection](https://arxiv.org/abs/2511.16143v1)** | 2025-11-20 |  |
+| **[Pathlet Variational Auto-Encoder for Robust Trajectory Generation](https://arxiv.org/abs/2511.16105v1)** | 2025-11-20 |  |
+| **[TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding](https://arxiv.org/abs/2511.10241v2)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Graph-Aware Temporal Encoder Based Service Migration and Resource Allocation in Satellite Networks](https://arxiv.org/abs/2511.16011v1)** | 2025-11-20 |  |
+| **[Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click](https://arxiv.org/abs/2511.15948v1)** | 2025-11-20 |  |
+| **[VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models](https://arxiv.org/abs/2505.01406v2)** | 2025-11-19 |  |
 | **[First Frame Is the Place to Go for Video Content Customization](https://arxiv.org/abs/2511.15700v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project Website: https://firstframego.github.io/</p></details> |
-| **[B+ANN: A Fast Billion-Scale Disk-based Nearest-Neighbor Index](https://arxiv.org/abs/2511.15557v1)** | 2025-11-19 |  |
-| **[FireCastNet: Earth-as-a-Graph for Seasonal Fire Prediction](https://arxiv.org/abs/2502.01550v2)** | 2025-11-19 |  |
-| **[Weather Maps as Tokens: Transformers for Renewable Energy Forecasting](https://arxiv.org/abs/2511.13935v2)** | 2025-11-19 |  |
-| **[Systematic Evaluation and Guidelines for Segment Anything Model in Surgical Video Analysis](https://arxiv.org/abs/2501.00525v2)** | 2025-11-19 |  |
-| **[Fluid Control with Localized Spacetime Windows](https://arxiv.org/abs/2511.15189v1)** | 2025-11-19 |  |
-| **[MambaTrack3D: A State Space Model Framework for LiDAR-Based Object Tracking under High Temporal Variation](https://arxiv.org/abs/2511.15077v1)** | 2025-11-19 | <details><summary>This ...</summary><p>This work has been submitted to a journal for possible publication</p></details> |
-| **[Other Vehicle Trajectories Are Also Needed: A Driving World Model Unifies Ego-Other Vehicle Trajectories in Video Latent Space](https://arxiv.org/abs/2503.09215v4)** | 2025-11-19 | 8 pages, 7 figures |
-| **[Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks](https://arxiv.org/abs/2511.15065v1)** | 2025-11-19 |  |
-| **[Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval](https://arxiv.org/abs/2511.14004v2)** | 2025-11-19 | <details><summary>This ...</summary><p>This paper is under review at ICRA</p></details> |
-| **[MK-SGN: A Spiking Graph Convolutional Network with Multimodal Fusion and Knowledge Distillation for Skeleton-based Action Recognition](https://arxiv.org/abs/2404.10210v5)** | 2025-11-19 |  |
-| **[Zero-shot Synthetic Video Realism Enhancement via Structure-aware Denoising](https://arxiv.org/abs/2511.14719v1)** | 2025-11-18 | <details><summary>Proje...</summary><p>Project Page: https://wyf0824.github.io/Video_Realism_Enhancement/</p></details> |
-| **[Estimation of Spatial and Temporal Autoregressive Effects using LASSO - An Example of Hourly Particulate Matter Concentrations](https://arxiv.org/abs/2511.14666v1)** | 2025-11-18 | <details><summary>27 pa...</summary><p>27 pages, 11 figures, 4 tables. Under revision at Environmetrics</p></details> |
-| **[Improving segmentation of retinal arteries and veins using cardiac signal in doppler holograms](https://arxiv.org/abs/2511.14654v1)** | 2025-11-18 | <details><summary>5 pag...</summary><p>5 pages, 3 figures, 1 table. Submitted to ISBI2026</p></details> |
-| **[ForensicFlow: A Tri-Modal Adaptive Network for Robust Deepfake Detection](https://arxiv.org/abs/2511.14554v1)** | 2025-11-18 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 2 tables. Preprint. Submitted on November 18, 2025</p></details> |
 
