@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 24, 2025
+title: Latest 15 Papers - November 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TRACE: Time SeRies PArameter EffiCient FinE-tuning](https://arxiv.org/abs/2503.16991v3)** | 2025-11-21 |  |
+| **[Predicting Talent Breakout Rate using Twitter and TV data](https://arxiv.org/abs/2511.16905v1)** | 2025-11-21 | <details><summary>4 pag...</summary><p>4 pages. Presented at the 34th Annual Conference of the Japanese Society for Artificial Intelligence (JSAI 2020), paper ID 1K3-ES-2-02</p></details> |
+| **[A Weak Penalty Neural ODE for Learning Chaotic Dynamics from Noisy Time Series](https://arxiv.org/abs/2511.06609v2)** | 2025-11-21 |  |
+| **[ResCP: Reservoir Conformal Prediction for Time Series Forecasting](https://arxiv.org/abs/2510.05060v2)** | 2025-11-20 |  |
+| **[DDTime: Dataset Distillation with Spectral Alignment and Information Bottleneck for Time-Series Forecasting](https://arxiv.org/abs/2511.16715v1)** | 2025-11-20 | 36 pages |
 | **[Generative Modeling of Clinical Time Series via Latent Stochastic Differential Equations](https://arxiv.org/abs/2511.16427v1)** | 2025-11-20 |  |
 | **[FreqFlow: Long-term forecasting using lightweight flow matching](https://arxiv.org/abs/2511.16426v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted at EurIPS, 2025</p></details> |
 | **[xLSTM-Mixer: Multivariate Time Series Forecasting by Mixing via Scalar Memories](https://arxiv.org/abs/2410.16928v4)** | 2025-11-20 | <details><summary>Poste...</summary><p>Poster at NeurIPS 2025</p></details> |
@@ -17,15 +22,14 @@ labels: documentation
 | **[Multi-layer Stack Ensembles for Time Series Forecasting](https://arxiv.org/abs/2511.15350v1)** | 2025-11-19 | <details><summary>Publi...</summary><p>Published at AutoML Conference 2025 Methods Track</p></details> |
 | **[STREAM-VAE: Dual-Path Routing for Slow and Fast Dynamics in Vehicle Telemetry Anomaly Detection](https://arxiv.org/abs/2511.15339v1)** | 2025-11-19 | <details><summary>8 Pag...</summary><p>8 Pages, 4 Figures, 4 Tables</p></details> |
 | **[FireCastNet: Earth-as-a-Graph for Seasonal Fire Prediction](https://arxiv.org/abs/2502.01550v2)** | 2025-11-19 |  |
-| **[Semiconductor Industry Trend Prediction with Event Intervention Based on LSTM Model in Sentiment-Enhanced Time Series Data](https://arxiv.org/abs/2511.15112v1)** | 2025-11-19 | <details><summary>Accep...</summary><p>Accepted in Taiwan Academic Network Conference (TANET 2025)</p></details> |
-| **[Adapformer: Adaptive Channel Management for Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.14632v1)** | 2025-11-18 |  |
-| **[A More Realistic Evaluation of Cross-Frequency Transfer Learning and Foundation Forecasting Models](https://arxiv.org/abs/2509.19465v3)** | 2025-11-18 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop on Recent Advances in Time Series Foundation Models (BERT2S)</p></details> |
-| **[BadTime: An Effective Backdoor Attack on Multivariate Long-Term Time Series Forecasting](https://arxiv.org/abs/2508.04189v2)** | 2025-11-18 |  |
-| **[A causal interactions indicator between two time series using extreme variations in the first eigenvalue of lagged correlation matrices](https://arxiv.org/abs/2307.04953v3)** | 2025-11-18 | <details><summary>24 pa...</summary><p>24 pages, 19 Figures, 3 Tables</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments](https://arxiv.org/abs/2511.17496v1)** | 2025-11-21 |  |
+| **[Navigating in the Dark: A Multimodal Framework and Dataset for Nighttime Traffic Sign Recognition](https://arxiv.org/abs/2511.17183v1)** | 2025-11-21 |  |
+| **[Text2Traffic: A Text-to-Image Generation and Editing Method for Traffic Scenes](https://arxiv.org/abs/2511.12932v2)** | 2025-11-21 |  |
+| **[A streaming algorithm and hardware accelerator for top-K flow detection in network traffic](https://arxiv.org/abs/2511.16797v1)** | 2025-11-20 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, to be published in 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
 | **[Z-Merge: Multi-Agent Reinforcement Learning for On-Ramp Merging with Zone-Specific V2X Traffic Information](https://arxiv.org/abs/2511.14910v1)** | 2025-11-18 |  |
 | **[Enhancing LLM-based Autonomous Driving with Modular Traffic Light and Sign Recognition](https://arxiv.org/abs/2511.14391v1)** | 2025-11-18 |  |
 | **[HFL-FlowLLM: Large Language Models for Network Traffic Flow Classification in Heterogeneous Federated Learning](https://arxiv.org/abs/2511.14199v1)** | 2025-11-18 |  |
@@ -33,31 +37,27 @@ labels: documentation
 | **[PAST: A Primary-Auxiliary Spatio-Temporal Network for Traffic Time Series Imputation](https://arxiv.org/abs/2511.13414v1)** | 2025-11-17 |  |
 | **[Descriptor: Distance-Annotated Traffic Perception Question Answering (DTPQA)](https://arxiv.org/abs/2511.13397v1)** | 2025-11-17 |  |
 | **[T2I-Based Physical-World Appearance Attack against Traffic Sign Recognition Systems in Autonomous Driving](https://arxiv.org/abs/2511.12956v1)** | 2025-11-17 | 16 pages, 12 figures |
-| **[Text2Traffic: A Text-to-Image Generation and Editing Method for Traffic Scenes](https://arxiv.org/abs/2511.12932v1)** | 2025-11-17 |  |
 | **[MTP: Exploring Multimodal Urban Traffic Profiling with Modality Augmentation and Spectrum Fusion](https://arxiv.org/abs/2511.10218v2)** | 2025-11-17 |  |
 | **[Machine Unlearning of Traffic State Estimation and Prediction](https://arxiv.org/abs/2507.17984v2)** | 2025-11-16 |  |
 | **[CareNet: Linking Home-router Network Traffic to DSM-5 Depressive Behavior Indicators](https://arxiv.org/abs/2511.12772v1)** | 2025-11-16 |  |
 | **[Quantifying Distribution Shift in Traffic Signal Control with Histogram-Based GEH Distance](https://arxiv.org/abs/2511.13785v1)** | 2025-11-16 |  |
-| **[HyperD: Hybrid Periodicity Decoupling Framework for Traffic Forecasting](https://arxiv.org/abs/2511.09275v2)** | 2025-11-16 |  |
-| **[Ground Plane Projection for Improved Traffic Analytics at Intersections](https://arxiv.org/abs/2511.12342v1)** | 2025-11-15 |  |
-| **[CATS-V2V: A Real-World Vehicle-to-Vehicle Cooperative Perception Dataset with Complex Adverse Traffic Scenarios](https://arxiv.org/abs/2511.11168v1)** | 2025-11-14 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SuperQuadricOcc: Multi-Layer Gaussian Approximation of Superquadrics for Real-Time Self-Supervised Occupancy Estimation](https://arxiv.org/abs/2511.17361v1)** | 2025-11-21 |  |
+| **[QueryOcc: Query-based Self-Supervision for 3D Semantic Occupancy](https://arxiv.org/abs/2511.17221v1)** | 2025-11-21 |  |
+| **[VLA-4D: Embedding 4D Awareness into Vision-Language-Action Models for SpatioTemporally Coherent Robotic Manipulation](https://arxiv.org/abs/2511.17199v1)** | 2025-11-21 |  |
+| **[TDSNNs: Competitive Topographic Deep Spiking Neural Networks for Visual Cortex Modeling](https://arxiv.org/abs/2508.04270v2)** | 2025-11-21 | AAAI 2026 (Oral) |
+| **[A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers](https://arxiv.org/abs/2511.17148v1)** | 2025-11-21 |  |
+| **[AV-Lip-Sync+: Leveraging AV-HuBERT to Exploit Multimodal Inconsistency for Deepfake Detection of Frontal Face Videos](https://arxiv.org/abs/2311.02733v2)** | 2025-11-21 |  |
+| **[OmniGround: A Comprehensive Spatio-Temporal Grounding Benchmark for Real-World Complex Scenarios](https://arxiv.org/abs/2511.16937v1)** | 2025-11-21 | 20 pages |
+| **[Rethinking Diffusion Model-Based Video Super-Resolution: Leveraging Dense Guidance from Aligned Features](https://arxiv.org/abs/2511.16928v1)** | 2025-11-21 | 19pages |
+| **[R-AVST: Empowering Video-LLMs with Fine-Grained Spatio-Temporal Reasoning in Complex Audio-Visual Scenarios](https://arxiv.org/abs/2511.16901v1)** | 2025-11-21 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026. Project page: https://github.com/zhlllau/R-AVST</p></details> |
+| **[A Spatio-temporal CP decomposition analysis of New England region in the US](https://arxiv.org/abs/2510.10322v3)** | 2025-11-21 | 14 pages, 3 figures |
+| **[Token Adaptation via Side Graph Convolution for Efficient Fine-tuning of 3D Point Cloud Transformers](https://arxiv.org/abs/2502.14142v3)** | 2025-11-20 |  |
+| **[Searching in Space and Time: Unified Memory-Action Loops for Open-World Object Retrieval](https://arxiv.org/abs/2511.14004v3)** | 2025-11-20 | <details><summary>https...</summary><p>https://amrl.cs.utexas.edu/STAR/</p></details> |
+| **[SVG360: Multi-View SVG Generation with Geometric and Color Consistency from a Single SVG](https://arxiv.org/abs/2511.16766v1)** | 2025-11-20 | <details><summary>10 pa...</summary><p>10 pages, 4 figures. Preprint</p></details> |
 | **[Solving Spatial Supersensing Without Spatial Supersensing](https://arxiv.org/abs/2511.16655v1)** | 2025-11-20 | Tech Report |
 | **[TRIM: Scalable 3D Gaussian Diffusion Inference with Temporal and Spatial Trimming](https://arxiv.org/abs/2511.16642v1)** | 2025-11-20 | NeurIPS 2025 |
-| **[Context-Aware Multimodal Representation Learning for Spatio-Temporally Explicit Environmental Modelling](https://arxiv.org/abs/2511.11706v3)** | 2025-11-20 | <details><summary>10 pa...</summary><p>10 pages (incliding 2 pages of references), 7 figures</p></details> |
-| **[STAMP: Spatial-Temporal Adapter with Multi-Head Pooling](https://arxiv.org/abs/2511.10848v2)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted as a Proceedings paper at Machine Learning for Health (ML4H) 2025, invited presentation at the Time Series for Health (TS4H) Workshop, NeurIPS 2025. v2: Updated author affiliation and corrected a duplicated word in the text. No other changes</p></details> |
-| **[ChangeDINO: DINOv3-Driven Building Change Detection in Optical Remote Sensing Imagery](https://arxiv.org/abs/2511.16322v1)** | 2025-11-20 |  |
-| **[GazeInterpreter: Parsing Eye Gaze to Generate Eye-Body-Coordinated Narrations](https://arxiv.org/abs/2511.16245v1)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026. 9 pages, 4 figures</p></details> |
-| **[TRADES: Generating Realistic Market Simulations with Diffusion Models](https://arxiv.org/abs/2502.07071v3)** | 2025-11-20 | 8 pages |
-| **[Achieving Skilled and Reliable Daily Probabilistic Forecasts of Wind Power at Subseasonal-to-Seasonal Timescales over France](https://arxiv.org/abs/2511.16164v1)** | 2025-11-20 |  |
-| **[A Spatial Semantics and Continuity Perception Attention for Remote Sensing Water Body Change Detection](https://arxiv.org/abs/2511.16143v1)** | 2025-11-20 |  |
-| **[Pathlet Variational Auto-Encoder for Robust Trajectory Generation](https://arxiv.org/abs/2511.16105v1)** | 2025-11-20 |  |
-| **[TubeRMC: Tube-conditioned Reconstruction with Mutual Constraints for Weakly-supervised Spatio-Temporal Video Grounding](https://arxiv.org/abs/2511.10241v2)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
-| **[Graph-Aware Temporal Encoder Based Service Migration and Resource Allocation in Satellite Networks](https://arxiv.org/abs/2511.16011v1)** | 2025-11-20 |  |
-| **[Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click](https://arxiv.org/abs/2511.15948v1)** | 2025-11-20 |  |
-| **[VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models](https://arxiv.org/abs/2505.01406v2)** | 2025-11-19 |  |
-| **[First Frame Is the Place to Go for Video Content Customization](https://arxiv.org/abs/2511.15700v1)** | 2025-11-19 | <details><summary>Proje...</summary><p>Project Website: https://firstframego.github.io/</p></details> |
 
