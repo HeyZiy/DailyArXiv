@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 08, 2025
+title: Latest 15 Papers - December 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[IdealTSF: Can Non-Ideal Data Contribute to Enhancing the Performance of Time Series Forecasting Models?](https://arxiv.org/abs/2512.05442v1)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
+| **[Interpretable additive model for analyzing high-dimensional functional time series](https://arxiv.org/abs/2504.19904v2)** | 2025-12-05 |  |
 | **[STELLA: Guiding Large Language Models for Time Series Forecasting with Semantic Abstractions](https://arxiv.org/abs/2512.04871v1)** | 2025-12-04 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Random Feature Spiking Neural Networks](https://arxiv.org/abs/2510.01012v2)** | 2025-12-04 | <details><summary>37 pa...</summary><p>37 pages incl. references & appendix, 6 figures, 6 tables</p></details> |
 | **[UniTS: Unified Time Series Generative Model for Remote Sensing](https://arxiv.org/abs/2512.04461v1)** | 2025-12-04 |  |
@@ -20,12 +22,12 @@ labels: documentation
 | **[Signals, Concepts, and Laws: Toward Universal, Explainable Time-Series Forecasting](https://arxiv.org/abs/2508.01407v3)** | 2025-12-01 |  |
 | **[From Noise to Laws: Regularized Time-Series Forecasting via Denoised Dynamic Graphs](https://arxiv.org/abs/2510.17817v2)** | 2025-12-01 |  |
 | **[Conformal Prediction for Time-series Forecasting with Change Points](https://arxiv.org/abs/2509.02844v4)** | 2025-12-01 |  |
-| **[A Self-explainable Model of Long Time Series by Extracting Informative Structured Causal Patterns](https://arxiv.org/abs/2512.01412v1)** | 2025-12-01 | <details><summary>Appro...</summary><p>Approximately 30 pages, 8 figures, and 5 tables. Preprint version. Includes theoretical analysis, model architecture, interpretability evaluation, and extensive benchmark experiments</p></details> |
-| **[Adaptive Nonlinear Vector Autoregression: Robust Forecasting for Noisy Chaotic Time Series](https://arxiv.org/abs/2507.08738v2)** | 2025-12-01 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 5 tables. New comparisons added: ESN and HESN. New datasets added to experiments: Mackey-Glass and Lorenz 96 with 100 variables</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Synset Signset Germany: a Synthetic Dataset for German Traffic Sign Recognition](https://arxiv.org/abs/2512.05936v1)** | 2025-12-05 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 3 tables</p></details> |
+| **[Invariant Price of Anarchy: a Metric for Welfarist Traffic Control](https://arxiv.org/abs/2512.05843v1)** | 2025-12-05 |  |
 | **[Semi Centralized Training Decentralized Execution Architecture for Multi Agent Deep Reinforcement Learning in Traffic Signal Control](https://arxiv.org/abs/2512.04653v1)** | 2025-12-04 | <details><summary>Co-fi...</summary><p>Co-first authors: Pouria Yazdani and Arash Rezaali</p></details> |
 | **[Energy-Aware Lane Planning for Connected Electric Vehicles in Urban Traffic: Design and Vehicle-in-the-Loop Validation](https://arxiv.org/abs/2503.23228v3)** | 2025-12-04 | <details><summary>Accep...</summary><p>Accepted at 2025 IEEE Conference on Decision and Control (CDC25')</p></details> |
 | **[Physics-Embedded Gaussian Process for Traffic State Estimation](https://arxiv.org/abs/2512.04004v1)** | 2025-12-03 |  |
@@ -39,25 +41,23 @@ labels: documentation
 | **[Public Sentiment Analysis of Traffic Management Policies in Knoxville: A Social Media Driven Study](https://arxiv.org/abs/2512.03103v1)** | 2025-12-01 |  |
 | **[SocialDriveGen: Generating Diverse Traffic Scenarios with Controllable Social Interactions](https://arxiv.org/abs/2512.01363v1)** | 2025-12-01 |  |
 | **[City-Conditioned Memory for Multi-City Traffic and Mobility Forecasting](https://arxiv.org/abs/2512.00851v1)** | 2025-11-30 |  |
-| **[Incorporating Ephemeral Traffic Waves in A Data-Driven Framework for Microsimulation in CARLA](https://arxiv.org/abs/2511.23236v1)** | 2025-11-28 | <details><summary>Submi...</summary><p>Submitted to IEEE IV 2026</p></details> |
-| **[Text2Traffic: A Text-to-Image Generation and Editing Method for Traffic Scenes](https://arxiv.org/abs/2511.12932v3)** | 2025-11-28 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Correspondence-Oriented Imitation Learning: Flexible Visuomotor Control with 3D Conditioning](https://arxiv.org/abs/2512.05953v1)** | 2025-12-05 |  |
+| **[Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding](https://arxiv.org/abs/2512.05774v1)** | 2025-12-05 | <details><summary>Websi...</summary><p>Website: https://activevideoperception.github.io/</p></details> |
+| **[CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation](https://arxiv.org/abs/2512.03540v2)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted by ACM Multimedia 2025</p></details> |
+| **[VOST-SGG: VLM-Aided One-Stage Spatio-Temporal Scene Graph Generation](https://arxiv.org/abs/2512.05524v1)** | 2025-12-05 |  |
+| **[Know-Show: Benchmarking Video-Language Models on Spatio-Temporal Grounded Reasoning](https://arxiv.org/abs/2512.05513v1)** | 2025-12-05 |  |
+| **[Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting](https://arxiv.org/abs/2510.05497v3)** | 2025-12-05 |  |
+| **[Unleashing Temporal Capacity of Spiking Neural Networks through Spatiotemporal Separation](https://arxiv.org/abs/2512.05472v1)** | 2025-12-05 |  |
+| **[SOAP: Enhancing Spatio-Temporal Relation and Motion Information Capturing for Few-Shot Action Recognition](https://arxiv.org/abs/2407.16344v5)** | 2025-12-05 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2024</p></details> |
+| **[MIGHTY: Hermite Spline-based Efficient Trajectory Planning](https://arxiv.org/abs/2511.10822v2)** | 2025-12-04 | 9 pages, 10 figures |
+| **[Inferring Compositional 4D Scenes without Ever Seeing One](https://arxiv.org/abs/2512.05272v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project page: https://github.com/insait-institute/COM4D</p></details> |
+| **[Bridging quantum and classical computing for partial differential equations through multifidelity machine learning](https://arxiv.org/abs/2512.05241v1)** | 2025-12-04 | 19 pages, 12 figures |
 | **[BulletTime: Decoupled Control of Time and Camera Pose for Video Generation](https://arxiv.org/abs/2512.05076v1)** | 2025-12-04 | <details><summary>Proje...</summary><p>Project Page: https://19reborn.github.io/Bullet4D/</p></details> |
 | **[MORPH: PDE Foundation Models with Arbitrary Data Modality](https://arxiv.org/abs/2509.21670v3)** | 2025-12-04 |  |
 | **[Dual-Path Region-Guided Attention Network for Ground Reaction Force and Moment Regression](https://arxiv.org/abs/2512.05030v1)** | 2025-12-04 |  |
 | **[RAMEN: Resolution-Adjustable Multimodal Encoder for Earth Observation](https://arxiv.org/abs/2512.05025v1)** | 2025-12-04 |  |
-| **[EVE: Towards End-to-End Video Subtitle Extraction with Vision-Language Models](https://arxiv.org/abs/2503.04058v2)** | 2025-12-04 |  |
-| **[SEASON: Mitigating Temporal Hallucination in Video Large Language Models via Self-Diagnostic Contrastive Decoding](https://arxiv.org/abs/2512.04643v1)** | 2025-12-04 |  |
-| **[Orders in Chaos: Enhancing Large-Scale MoE LLM Serving with Data Movement Forecasting](https://arxiv.org/abs/2510.05497v2)** | 2025-12-04 |  |
-| **[ViDiC: Video Difference Captioning](https://arxiv.org/abs/2512.03405v2)** | 2025-12-04 |  |
-| **[Sharp Eyes and Memory for VideoLLMs: Information-Aware Visual Token Pruning for Efficient and Reliable VideoLLM Reasoning](https://arxiv.org/abs/2511.08003v2)** | 2025-12-04 | <details><summary>The 4...</summary><p>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) Poster</p></details> |
-| **[DeRA: Decoupled Representation Alignment for Video Tokenization](https://arxiv.org/abs/2512.04483v1)** | 2025-12-04 |  |
-| **[Zero4D: Training-Free 4D Video Generation From Single Video Using Off-the-Shelf Video Diffusion](https://arxiv.org/abs/2503.22622v4)** | 2025-12-04 | <details><summary>proje...</summary><p>project page: https://zero4dvid.github.io/</p></details> |
-| **[Explainable Parkinsons Disease Gait Recognition Using Multimodal RGB-D Fusion and Large Language Models](https://arxiv.org/abs/2512.04425v1)** | 2025-12-04 |  |
-| **[VRWKV-Editor: Reducing quadratic complexity in transformer-based video editing](https://arxiv.org/abs/2509.25998v3)** | 2025-12-04 |  |
-| **[Multi-Focus Temporal Shifting for Precise Event Spotting in Sports Videos](https://arxiv.org/abs/2507.07381v3)** | 2025-12-04 | 7 pages |
-| **[What is Beyond Presence? Dimensionality, Control, and Information Spaces](https://arxiv.org/abs/2512.04398v1)** | 2025-12-04 | <details><summary>38 pa...</summary><p>38 pages, accepted for Presence: Virtual and Augmented Reality 2026(37)</p></details> |
 
