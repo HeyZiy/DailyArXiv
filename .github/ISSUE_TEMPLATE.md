@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 10, 2025
+title: Latest 15 Papers - December 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sonnet: Spectral Operator Neural Network for Multivariable Time Series Forecasting](https://arxiv.org/abs/2505.15312v2)** | 2025-12-09 | <details><summary>Paper...</summary><p>Paper accepted for oral presentation at AAAI 2026. The code is available at https://github.com/ClaudiaShu/Sonnet</p></details> |
+| **[Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511v3)** | 2025-12-09 |  |
+| **[FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting](https://arxiv.org/abs/2512.07539v2)** | 2025-12-09 |  |
+| **[Bridging the Clinical Expertise Gap: Development of a Web-Based Platform for Accessible Time Series Forecasting and Analysis](https://arxiv.org/abs/2512.07992v1)** | 2025-12-08 |  |
 | **[Weighted Contrastive Learning for Anomaly-Aware Time-Series Forecasting](https://arxiv.org/abs/2512.07569v1)** | 2025-12-08 |  |
-| **[FRWKV:Frequency-Domain Linear Attention for Long-Term Time Series Forecasting](https://arxiv.org/abs/2512.07539v1)** | 2025-12-08 |  |
 | **[HN-MVTS: HyperNetwork-based Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.08340v2)** | 2025-12-08 | AAAI 2026 |
 | **[UniDiff: A Unified Diffusion Framework for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.07184v1)** | 2025-12-08 |  |
 | **[Hidden Leaks in Time Series Forecasting: How Data Leakage Affects LSTM Evaluation Across Configurations and Validation Strategies](https://arxiv.org/abs/2512.06932v1)** | 2025-12-07 |  |
@@ -19,13 +22,11 @@ labels: documentation
 | **[Random Feature Spiking Neural Networks](https://arxiv.org/abs/2510.01012v2)** | 2025-12-04 | <details><summary>37 pa...</summary><p>37 pages incl. references & appendix, 6 figures, 6 tables</p></details> |
 | **[UniTS: Unified Time Series Generative Model for Remote Sensing](https://arxiv.org/abs/2512.04461v1)** | 2025-12-04 |  |
 | **[Inference-time Stochastic Refinement of GRU-Normalizing Flow for Real-time Video Motion Transfer](https://arxiv.org/abs/2512.04282v1)** | 2025-12-03 |  |
-| **[Training and Evaluation of Guideline-Based Medical Reasoning in LLMs](https://arxiv.org/abs/2512.03838v1)** | 2025-12-03 |  |
-| **[XXLTraffic: Expanding and Extremely Long Traffic forecasting beyond test adaptation](https://arxiv.org/abs/2406.12693v3)** | 2025-12-02 | <details><summary>Updat...</summary><p>Updated version. SIGSPATIAL 2025 Best Paper</p></details> |
-| **[Signals, Concepts, and Laws: Toward Universal, Explainable Time-Series Forecasting](https://arxiv.org/abs/2508.01407v3)** | 2025-12-01 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Distribution of Gaps in Multi-lane Orderly and Disorderly Traffic Streams](https://arxiv.org/abs/2512.08585v1)** | 2025-12-09 |  |
 | **[From Real-World Traffic Data to Relevant Critical Scenarios](https://arxiv.org/abs/2512.07482v1)** | 2025-12-08 | 8 pages, 8 figures |
 | **[Adaptive Tuning of Parameterized Traffic Controllers via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.07417v1)** | 2025-12-08 |  |
 | **[Characterizing Lane-Changing Behavior in Mixed Traffic](https://arxiv.org/abs/2512.07219v1)** | 2025-12-08 |  |
@@ -40,11 +41,12 @@ labels: documentation
 | **[Semi Centralized Training Decentralized Execution Architecture for Multi Agent Deep Reinforcement Learning in Traffic Signal Control](https://arxiv.org/abs/2512.04653v1)** | 2025-12-04 | <details><summary>Co-fi...</summary><p>Co-first authors: Pouria Yazdani and Arash Rezaali</p></details> |
 | **[Physics-Embedded Gaussian Process for Traffic State Estimation](https://arxiv.org/abs/2512.04004v1)** | 2025-12-03 |  |
 | **[Traffic Image Restoration under Adverse Weather via Frequency-Aware Mamba](https://arxiv.org/abs/2512.03852v1)** | 2025-12-03 | <details><summary>12pag...</summary><p>12pages, 13 figures, 5tables</p></details> |
-| **[Unlocking the Invisible Urban Traffic Dynamics under Extreme Weather: A New Physics-Constrained Hamiltonian Learning Algorithm](https://arxiv.org/abs/2512.03744v1)** | 2025-12-03 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Aerial Vision-Language Navigation with a Unified Framework for Spatial, Temporal and Embodied Reasoning](https://arxiv.org/abs/2512.08639v1)** | 2025-12-09 | <details><summary>Under...</summary><p>Under Review, 12 pages, 9 figures</p></details> |
+| **[Transformers for Multimodal Brain State Decoding: Integrating Functional Magnetic Resonance Imaging Data and Medical Metadata](https://arxiv.org/abs/2512.08462v1)** | 2025-12-09 |  |
 | **[How Far are Modern Trackers from UAV-Anti-UAV? A Million-Scale Benchmark and New Baseline](https://arxiv.org/abs/2512.07385v1)** | 2025-12-08 | <details><summary>https...</summary><p>https://github.com/983632847/Awesome-Multimodal-Object-Tracking</p></details> |
 | **[EVCtrl: Efficient Control Adapter for Visual Generation](https://arxiv.org/abs/2508.10963v2)** | 2025-12-07 |  |
 | **[OSM+: Billion-Level Open Street Map Data Processing System for City-wide Experiments](https://arxiv.org/abs/2512.06743v1)** | 2025-12-07 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[CrossVid: A Comprehensive Benchmark for Evaluating Cross-Video Reasoning in Multimodal Large Language Models](https://arxiv.org/abs/2511.12263v2)** | 2025-11-30 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026 (main track). For code and data, see https://github.com/chuntianli666/CrossVid</p></details> |
 | **[SMamDiff: Spatial Mamba for Stochastic Human Motion Prediction](https://arxiv.org/abs/2512.00355v1)** | 2025-11-29 |  |
 | **[Toward Equitable Access: Leveraging Crowdsourced Reviews to Investigate Public Perceptions of Health Resource Accessibility](https://arxiv.org/abs/2502.10641v2)** | 2025-11-28 |  |
-| **[Qwen3-VL Technical Report](https://arxiv.org/abs/2511.21631v2)** | 2025-11-27 | 42 pages |
-| **[From Compound Figures to Composite Understanding: Developing a Multi-Modal LLM from Biomedical Literature with Medical Multiple-Image Benchmarking and Validation](https://arxiv.org/abs/2511.22232v1)** | 2025-11-27 |  |
 
