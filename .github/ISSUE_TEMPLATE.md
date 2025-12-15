@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 15, 2025
+title: Latest 15 Papers - December 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing the Training Diet: Data Mixture Search for Robust Time Series Forecasting](https://arxiv.org/abs/2512.11546v1)** | 2025-12-12 | <details><summary>Accep...</summary><p>Accepted ACM SAC 2026</p></details> |
+| **[Contrastive Time Series Forecasting with Anomalies](https://arxiv.org/abs/2512.11526v1)** | 2025-12-12 |  |
 | **[UrbanAI 2025 Challenge: Linear vs Transformer Models for Long-Horizon Exogenous Temperature Forecasting](https://arxiv.org/abs/2512.10866v1)** | 2025-12-11 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Workshop UrbanAI</p></details> |
 | **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v1)** | 2025-12-11 |  |
 | **[Mitigating Exposure Bias in Risk-Aware Time Series Forecasting with Soft Tokens](https://arxiv.org/abs/2512.10056v1)** | 2025-12-10 |  |
@@ -20,12 +22,13 @@ labels: documentation
 | **[Weighted Contrastive Learning for Anomaly-Aware Time-Series Forecasting](https://arxiv.org/abs/2512.07569v1)** | 2025-12-08 |  |
 | **[HN-MVTS: HyperNetwork-based Multivariate Time Series Forecasting](https://arxiv.org/abs/2511.08340v2)** | 2025-12-08 | AAAI 2026 |
 | **[UniDiff: A Unified Diffusion Framework for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.07184v1)** | 2025-12-08 |  |
-| **[Hidden Leaks in Time Series Forecasting: How Data Leakage Affects LSTM Evaluation Across Configurations and Validation Strategies](https://arxiv.org/abs/2512.06932v1)** | 2025-12-07 |  |
-| **[Adaptive Normalization Mamba with Multi Scale Trend Decomposition and Patch MoE Encoding](https://arxiv.org/abs/2512.06929v1)** | 2025-12-07 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture](https://arxiv.org/abs/2512.11350v1)** | 2025-12-12 |  |
+| **[Elevation Aware 2D/3D Co-simulation Framework for Large-scale Traffic Flow and High-fidelity Vehicle Dynamics](https://arxiv.org/abs/2512.11249v1)** | 2025-12-12 |  |
+| **[Multi-Objective Reinforcement Learning for Large-Scale Mixed Traffic Control](https://arxiv.org/abs/2512.11247v1)** | 2025-12-12 |  |
 | **[Evaluating Small Vision-Language Models on Distance-Dependent Traffic Perception](https://arxiv.org/abs/2510.08352v2)** | 2025-12-10 | <details><summary>Publi...</summary><p>Published in IEEE Open Journal of Vehicular Technology. Final version available at: https://ieeexplore.ieee.org/document/11230063</p></details> |
 | **[Towards Resilient Transportation: A Conditional Transformer for Accident-Informed Traffic Forecasting](https://arxiv.org/abs/2512.09398v1)** | 2025-12-10 |  |
 | **[CFLight: Enhancing Safety with Traffic Signal Control through Counterfactual Learning](https://arxiv.org/abs/2512.09368v1)** | 2025-12-10 |  |
@@ -38,13 +41,13 @@ labels: documentation
 | **[Estimating Black Carbon Concentration from Urban Traffic Using Vision-Based Machine Learning](https://arxiv.org/abs/2512.06649v1)** | 2025-12-07 | <details><summary>12 pa...</summary><p>12 pages, 16 figures, 4 tables, 4 pages Appendix, in submission and under review for ACM MobiSys 2026 as of December 6th, 2025</p></details> |
 | **[Analyzing Collision Rates in Large-Scale Mixed Traffic Control via Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2512.06645v1)** | 2025-12-07 |  |
 | **[WiFinger: Fingerprinting Noisy IoT Event Traffic Using Packet-level Sequence Matching](https://arxiv.org/abs/2508.03151v2)** | 2025-12-06 |  |
-| **[A Physics-Informed Fixed Skyroad Model for Continuous UAS Traffic Management (C-UTM)](https://arxiv.org/abs/2512.06268v1)** | 2025-12-06 |  |
-| **[A Prescriptive Framework for Determining Optimal Days for Short-Term Traffic Counts](https://arxiv.org/abs/2512.06111v1)** | 2025-12-05 |  |
-| **[Synset Signset Germany: a Synthetic Dataset for German Traffic Sign Recognition](https://arxiv.org/abs/2512.05936v1)** | 2025-12-05 | <details><summary>8 pag...</summary><p>8 pages, 8 figures, 3 tables</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture](https://arxiv.org/abs/2512.11350v1)** | 2025-12-12 |  |
+| **[TriFlow: A Progressive Multi-Agent Framework for Intelligent Trip Planning](https://arxiv.org/abs/2512.11271v1)** | 2025-12-12 | 4 pages, 3 figures |
+| **[Harnessing Rich Multi-Modal Data for Spatial-Temporal Homophily-Embedded Graph Learning Across Domains and Localities](https://arxiv.org/abs/2512.11178v1)** | 2025-12-11 | <details><summary>18 pa...</summary><p>18 pages, 8 figures, Presented in part at the 2025 INFORMS Annual Meeting</p></details> |
 | **[SWiT-4D: Sliding-Window Transformer for Lossless and Parameter-Free Temporal 4D Generation](https://arxiv.org/abs/2512.10860v1)** | 2025-12-11 | <details><summary>Proje...</summary><p>Project page: https://animotionlab.github.io/SWIT4D/</p></details> |
 | **[Neural Hamiltonian Deformation Fields for Dynamic Scene Rendering](https://arxiv.org/abs/2512.10424v1)** | 2025-12-11 | <details><summary>Accep...</summary><p>Accepted by ACM SIGGRAPH Asia 2025, project page: https://qin-jingyun.github.io/NeHaD</p></details> |
 | **[CS3D: An Efficient Facial Expression Recognition via Event Vision](https://arxiv.org/abs/2512.09592v1)** | 2025-12-10 |  |
@@ -57,7 +60,4 @@ labels: documentation
 | **[Sharp Eyes and Memory for VideoLLMs: Information-Aware Visual Token Pruning for Efficient and Reliable VideoLLM Reasoning](https://arxiv.org/abs/2511.08003v2)** | 2025-12-04 | <details><summary>The 4...</summary><p>The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26) Poster</p></details> |
 | **[DeRA: Decoupled Representation Alignment for Video Tokenization](https://arxiv.org/abs/2512.04483v1)** | 2025-12-04 |  |
 | **[Explainable Parkinsons Disease Gait Recognition Using Multimodal RGB-D Fusion and Large Language Models](https://arxiv.org/abs/2512.04425v1)** | 2025-12-04 |  |
-| **[Zero-Shot Video Translation and Editing with Frame Spatial-Temporal Correspondence](https://arxiv.org/abs/2512.03905v1)** | 2025-12-03 | <details><summary>Code:...</summary><p>Code: https://github.com/Sunnycookies/FRESCO-v2, Project: https://williamyang1991.github.io/projects/FRESCOv2/</p></details> |
-| **[SeeU: Seeing the Unseen World via 4D Dynamics-aware Generation](https://arxiv.org/abs/2512.03350v1)** | 2025-12-03 | <details><summary>Proje...</summary><p>Project Page: https://yuyuanspace.com/SeeU/</p></details> |
-| **[AskNearby: An LLM-Based Application for Neighborhood Information Retrieval and Personalized Cognitive-Map Recommendations](https://arxiv.org/abs/2512.02502v1)** | 2025-12-02 |  |
 
