@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 23, 2025
+title: Latest 15 Papers - December 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Time-series Forecast for Indoor Zone Air Temperature with Long Horizons: A Case Study with Sensor-based Data from a Smart Building](https://arxiv.org/abs/2512.19038v1)** | 2025-12-22 |  |
+| **[Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511v4)** | 2025-12-21 |  |
+| **[ASTIF: Adaptive Semantic-Temporal Integration for Cryptocurrency Price Forecasting](https://arxiv.org/abs/2512.18661v1)** | 2025-12-21 | 33 Pages, 8 Figures |
+| **[HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting](https://arxiv.org/abs/2307.14596v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted for publication in the Communications in Transportation Research on December 2025. 38 paqes with 9 fiqures and 6 tables</p></details> |
 | **[A lightweight Spatial-Temporal Graph Neural Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2512.17453v1)** | 2025-12-19 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 2 tables. Accepted for presentation at the 18th International Conference on Agents and Artificial Intelligence (ICAART 2026), Marbella, Spain</p></details> |
 | **[Electric Vehicle Charging Load Forecasting: An Experimental Comparison of Machine Learning Methods](https://arxiv.org/abs/2512.17257v1)** | 2025-12-19 | <details><summary>18 pa...</summary><p>18 pages, 2 figures, 5 tables</p></details> |
 | **[Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](https://arxiv.org/abs/2412.08435v5)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted by KDD 2025. This version fixed typos in Eq. (3)</p></details> |
@@ -18,15 +22,16 @@ labels: documentation
 | **[Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting](https://arxiv.org/abs/2502.14704v4)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25 (spotlight)</p></details> |
 | **[FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://arxiv.org/abs/2512.14253v1)** | 2025-12-16 |  |
 | **[IdealTSF: Can Non-Ideal Data Contribute to Enhancing the Performance of Time Series Forecasting Models?](https://arxiv.org/abs/2512.05442v2)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
-| **[MIRA: Medical Time Series Foundation Model for Real-World Health Data](https://arxiv.org/abs/2506.07584v7)** | 2025-12-16 | <details><summary>NeurI...</summary><p>NeurIPS 2025 Main Conference</p></details> |
-| **[Enhancing Time Series Forecasting through Selective Representation Spaces: A Patch Perspective](https://arxiv.org/abs/2510.14510v5)** | 2025-12-16 |  |
-| **[Multivariate Time Series Forecasting with Hybrid Euclidean-SPD Manifold Graph Neural Networks](https://arxiv.org/abs/2512.14023v1)** | 2025-12-16 |  |
-| **[Theoretical Guarantees of Learning Ensembling Strategies with Applications to Time Series Forecasting](https://arxiv.org/abs/2305.15786v4)** | 2025-12-16 | <details><summary>Publi...</summary><p>Published at ICML 2023. In this version, we clarify that the proof in fact yields a strictly stronger bound than the one stated in the ICML version</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network](https://arxiv.org/abs/2504.04027v3)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted by 23rd USENIX Symposium on Network Systems Design and Implementation (NSDI '26), to be held in Seattle on May 4-6, 2026</p></details> |
+| **[CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis](https://arxiv.org/abs/2512.18878v1)** | 2025-12-21 |  |
+| **[Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators](https://arxiv.org/abs/2512.18537v1)** | 2025-12-20 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/LuminousLamp/SUMO-Benchmark</p></details> |
+| **[HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting](https://arxiv.org/abs/2307.14596v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted for publication in the Communications in Transportation Research on December 2025. 38 paqes with 9 fiqures and 6 tables</p></details> |
 | **[STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted by IEEE INFOCOM 2026. Camera-ready version</p></details> |
+| **[A Hybrid Inductive-Transductive Network for Traffic Flow Imputation on Unsampled Locations](https://arxiv.org/abs/2512.17984v1)** | 2025-12-19 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 3 tables</p></details> |
 | **[Adaptive Graph Pruning with Sudden-Events Evaluation for Traffic Prediction using Online Semi-Decentralized ST-GNNs](https://arxiv.org/abs/2512.17352v1)** | 2025-12-19 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 5 tables, journal</p></details> |
 | **[A simulation platform calibration method for automated vehicle evaluation: accurate on both vehicle level and traffic flow level](https://arxiv.org/abs/2512.16076v1)** | 2025-12-18 |  |
 | **[Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation](https://arxiv.org/abs/2512.02920v2)** | 2025-12-17 | <details><summary>17 pa...</summary><p>17 pages. To appear in KDD'26 Datasets</p></details> |
@@ -36,15 +41,17 @@ labels: documentation
 | **[Measuring Nonlinear Relationships and Spatial Heterogeneity of Influencing Factors on Traffic Crash Density Using GeoXAI](https://arxiv.org/abs/2512.14985v1)** | 2025-12-17 |  |
 | **[Spatio-Temporal Graph Neural Network for Urban Spaces: Interpolating Citywide Traffic Volume](https://arxiv.org/abs/2505.06292v2)** | 2025-12-16 |  |
 | **[Numerical optimization of aviation decarbonization scenarios: balancing traffic and emissions with maturing energy carriers and aircraft technology](https://arxiv.org/abs/2503.22435v3)** | 2025-12-16 |  |
-| **[UDFS: Lightweight Representation-Driven Open World Robust Encrypted Traffic Classification](https://arxiv.org/abs/2509.11157v2)** | 2025-12-16 | <details><summary>Code ...</summary><p>Code and Dataset are available at https://github.com/kid1999/UDFS</p></details> |
-| **[Optimizing Highway Traffic Flow in Mixed Autonomy: A Multiagent Truncated Rollout Approach](https://arxiv.org/abs/2508.19203v2)** | 2025-12-16 |  |
-| **[CFLight: Enhancing Safety with Traffic Signal Control through Counterfactual Learning](https://arxiv.org/abs/2512.09368v2)** | 2025-12-16 |  |
-| **[Network-Wide Traffic Volume Estimation from Speed Profiles using a Spatio-Temporal Graph Neural Network with Directed Spatial Attention](https://arxiv.org/abs/2512.13758v1)** | 2025-12-15 |  |
-| **[The Digital Life of Parisian Parks: Multifunctionality and Urban Context Uncovered by Mobile Application Traffic](https://arxiv.org/abs/2508.15516v2)** | 2025-12-15 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DK-STN: A Domain Knowledge Embedded Spatio-Temporal Network Model for MJO Forecast](https://arxiv.org/abs/2512.19506v1)** | 2025-12-22 | 18 pages, 10 figures |
+| **[SNN-Driven Multimodal Human Action Recognition via Sparse Spatial-Temporal Data Fusion](https://arxiv.org/abs/2502.13385v2)** | 2025-12-22 |  |
+| **[Brain-Gen: Towards Interpreting Neural Signals for Stimulus Reconstruction Using Transformers and Latent Diffusion Models](https://arxiv.org/abs/2512.18843v1)** | 2025-12-21 | <details><summary>21 pa...</summary><p>21 pages and 7 figures</p></details> |
+| **[$M^3-Verse$: A "Spot the Difference" Challenge for Large Multimodal Models](https://arxiv.org/abs/2512.18735v1)** | 2025-12-21 |  |
+| **[ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning](https://arxiv.org/abs/2512.18619v1)** | 2025-12-21 |  |
+| **[HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting](https://arxiv.org/abs/2307.14596v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted for publication in the Communications in Transportation Research on December 2025. 38 paqes with 9 fiqures and 6 tables</p></details> |
+| **[Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation](https://arxiv.org/abs/2512.18028v1)** | 2025-12-19 |  |
 | **[A lightweight Spatial-Temporal Graph Neural Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2512.17453v1)** | 2025-12-19 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 2 tables. Accepted for presentation at the 18th International Conference on Agents and Artificial Intelligence (ICAART 2026), Marbella, Spain</p></details> |
 | **[D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos](https://arxiv.org/abs/2507.05859v3)** | 2025-12-18 | <details><summary>chang...</summary><p>changes of some major results</p></details> |
 | **[SEED: Spectral Entropy-Guided Evaluation of SpatialTemporal Dependencies for Multivariate Time Series Forecasting](https://arxiv.org/abs/2512.14718v2)** | 2025-12-18 |  |
@@ -53,11 +60,4 @@ labels: documentation
 | **[Tracking spatial temporal details in ultrasound long video via wavelet analysis and memory bank](https://arxiv.org/abs/2512.15066v1)** | 2025-12-17 | <details><summary>Chenx...</summary><p>Chenxiao Zhang and Runshi Zhang contributed equally to this work. 14 pages, 11 figures</p></details> |
 | **[Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661v1)** | 2025-12-16 | HPCA 2026 |
 | **[STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management](https://arxiv.org/abs/2510.14112v2)** | 2025-12-16 |  |
-| **[Vision-Enhanced Large Language Models for High-Resolution Image Synthesis and Multimodal Data Interpretation](https://arxiv.org/abs/2512.12595v1)** | 2025-12-14 |  |
-| **[CAR-CHASE: Car-Like Robot Conflict-Aware Heuristic Adaptive Search Enhancement](https://arxiv.org/abs/2512.12243v1)** | 2025-12-13 |  |
-| **[Exploring Spatial-Temporal Representation via Star Graph for mmWave Radar-based Human Activity Recognition](https://arxiv.org/abs/2512.12013v1)** | 2025-12-12 |  |
-| **[CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction](https://arxiv.org/abs/2512.11988v1)** | 2025-12-12 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 4 tables. Project page: https://nvlabs.github.io/CARI4D/</p></details> |
-| **[Bridging Data and Physics: A Graph Neural Network-Based Hybrid Twin Framework](https://arxiv.org/abs/2512.15767v1)** | 2025-12-12 | 27 pages, 14 figures |
-| **[Surveillance Video-Based Traffic Accident Detection Using Transformer Architecture](https://arxiv.org/abs/2512.11350v1)** | 2025-12-12 |  |
-| **[TriFlow: A Progressive Multi-Agent Framework for Intelligent Trip Planning](https://arxiv.org/abs/2512.11271v1)** | 2025-12-12 | 4 pages, 3 figures |
 
