@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 24, 2025
+title: Latest 15 Papers - December 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,11 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Explainable time-series forecasting with sampling-free SHAP for Transformers](https://arxiv.org/abs/2512.20514v1)** | 2025-12-23 |  |
+| **[C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning](https://arxiv.org/abs/2507.17454v2)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection](https://arxiv.org/abs/2512.20140v1)** | 2025-12-23 | 9 pages,3 figures |
+| **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at KDD 2026. 9 pages</p></details> |
+| **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v3)** | 2025-12-23 |  |
 | **[Time-series Forecast for Indoor Zone Air Temperature with Long Horizons: A Case Study with Sensor-based Data from a Smart Building](https://arxiv.org/abs/2512.19038v1)** | 2025-12-22 |  |
 | **[Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511v4)** | 2025-12-21 |  |
 | **[ASTIF: Adaptive Semantic-Temporal Integration for Cryptocurrency Price Forecasting](https://arxiv.org/abs/2512.18661v1)** | 2025-12-21 | 33 Pages, 8 Figures |
@@ -17,15 +22,13 @@ labels: documentation
 | **[SEED: Spectral Entropy-Guided Evaluation of SpatialTemporal Dependencies for Multivariate Time Series Forecasting](https://arxiv.org/abs/2512.14718v2)** | 2025-12-18 |  |
 | **[Conversational Time Series Foundation Models: Towards Explainable and Effective Forecasting](https://arxiv.org/abs/2512.16022v1)** | 2025-12-17 | 31Pages |
 | **[Forking-Sequences](https://arxiv.org/abs/2510.04487v3)** | 2025-12-17 | <details><summary>Prese...</summary><p>Presented at the GPU-Accelerated and Scalable Optimization (ScaleOpt) Workshop, NeurIPS 2025</p></details> |
-| **[CANet: ChronoAdaptive Network for Enhanced Long-Term Time Series Forecasting under Non-Stationarity](https://arxiv.org/abs/2504.17913v2)** | 2025-12-17 |  |
-| **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v3)** | 2025-12-16 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 17 tables</p></details> |
-| **[Not All Data are Good Labels: On the Self-supervised Labeling for Time Series Forecasting](https://arxiv.org/abs/2502.14704v4)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted by NeurIPS'25 (spotlight)</p></details> |
-| **[FLAME: Flow Enhanced Legendre Memory Models for General Time Series Forecasting](https://arxiv.org/abs/2512.14253v1)** | 2025-12-16 |  |
-| **[IdealTSF: Can Non-Ideal Data Contribute to Enhancing the Performance of Time Series Forecasting Models?](https://arxiv.org/abs/2512.05442v2)** | 2025-12-16 | <details><summary>Accep...</summary><p>Accepted at AAAI 2026</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI-based Traffic Modeling for Network Security and Privacy: Challenges Ahead](https://arxiv.org/abs/2503.22161v4)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at the AAAI 2026 Workshop on Artificial Intelligence for Cyber Security (AICS)</p></details> |
+| **[BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations](https://arxiv.org/abs/2512.19997v1)** | 2025-12-23 | <details><summary>The f...</summary><p>The full version of this work consists of 15 pages and has been submitted to IEEE Transactions on Software Engineering (TSE)</p></details> |
+| **[Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](https://arxiv.org/abs/2501.12536v2)** | 2025-12-23 |  |
 | **[A Fast Solver-Free Algorithm for Traffic Engineering in Large-Scale Data Center Network](https://arxiv.org/abs/2504.04027v3)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted by 23rd USENIX Symposium on Network Systems Design and Implementation (NSDI '26), to be held in Seattle on May 4-6, 2026</p></details> |
 | **[CrashChat: A Multimodal Large Language Model for Multitask Traffic Crash Video Analysis](https://arxiv.org/abs/2512.18878v1)** | 2025-12-21 |  |
 | **[Systematic Benchmarking of SUMO Against Data-Driven Traffic Simulators](https://arxiv.org/abs/2512.18537v1)** | 2025-12-20 | <details><summary>Sourc...</summary><p>Source code is available at https://github.com/LuminousLamp/SUMO-Benchmark</p></details> |
@@ -38,13 +41,13 @@ labels: documentation
 | **[Optimal Transport-Based Clustering of Attributed Graphs with an Application to Road Traffic Data](https://arxiv.org/abs/2512.15570v1)** | 2025-12-17 | <details><summary>35 pa...</summary><p>35 pages, 14 Figures and 3 Tables</p></details> |
 | **[Packet-Level Traffic Modeling with Heavy-Tailed Payload and Inter-Arrival Distributions for Digital Twins](https://arxiv.org/abs/2512.15432v1)** | 2025-12-17 | 10 pages, 5 figures |
 | **[TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles](https://arxiv.org/abs/2408.15538v3)** | 2025-12-17 |  |
-| **[Measuring Nonlinear Relationships and Spatial Heterogeneity of Influencing Factors on Traffic Crash Density Using GeoXAI](https://arxiv.org/abs/2512.14985v1)** | 2025-12-17 |  |
-| **[Spatio-Temporal Graph Neural Network for Urban Spaces: Interpolating Citywide Traffic Volume](https://arxiv.org/abs/2505.06292v2)** | 2025-12-16 |  |
-| **[Numerical optimization of aviation decarbonization scenarios: balancing traffic and emissions with maturing energy carriers and aircraft technology](https://arxiv.org/abs/2503.22435v3)** | 2025-12-16 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](https://arxiv.org/abs/2512.20409v1)** | 2025-12-23 |  |
+| **[3D Stack In-Sensor-Computing (3DS-ISC): Accelerating Time-Surface Construction for Neuromorphic Event Cameras](https://arxiv.org/abs/2512.20073v1)** | 2025-12-23 |  |
+| **[I Want It That Way! Specifying Nuanced Camera Motions in Video Editing](https://arxiv.org/abs/2504.09472v2)** | 2025-12-23 |  |
 | **[DK-STN: A Domain Knowledge Embedded Spatio-Temporal Network Model for MJO Forecast](https://arxiv.org/abs/2512.19506v1)** | 2025-12-22 | 18 pages, 10 figures |
 | **[SNN-Driven Multimodal Human Action Recognition via Sparse Spatial-Temporal Data Fusion](https://arxiv.org/abs/2502.13385v2)** | 2025-12-22 |  |
 | **[Brain-Gen: Towards Interpreting Neural Signals for Stimulus Reconstruction Using Transformers and Latent Diffusion Models](https://arxiv.org/abs/2512.18843v1)** | 2025-12-21 | <details><summary>21 pa...</summary><p>21 pages and 7 figures</p></details> |
@@ -57,7 +60,4 @@ labels: documentation
 | **[SEED: Spectral Entropy-Guided Evaluation of SpatialTemporal Dependencies for Multivariate Time Series Forecasting](https://arxiv.org/abs/2512.14718v2)** | 2025-12-18 |  |
 | **[Reducing Pilots in Channel Estimation With Predictive Foundation Models](https://arxiv.org/abs/2512.15562v1)** | 2025-12-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657v2)** | 2025-12-17 | <details><summary>demos...</summary><p>demos at: https://3dllm-mem.github.io</p></details> |
-| **[Tracking spatial temporal details in ultrasound long video via wavelet analysis and memory bank](https://arxiv.org/abs/2512.15066v1)** | 2025-12-17 | <details><summary>Chenx...</summary><p>Chenxiao Zhang and Runshi Zhang contributed equally to this work. 14 pages, 11 figures</p></details> |
-| **[Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models](https://arxiv.org/abs/2512.14661v1)** | 2025-12-16 | HPCA 2026 |
-| **[STEMS: Spatial-Temporal Enhanced Safe Multi-Agent Coordination for Building Energy Management](https://arxiv.org/abs/2510.14112v2)** | 2025-12-16 |  |
 
