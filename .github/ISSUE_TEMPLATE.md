@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 25, 2025
+title: Latest 15 Papers - December 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Encrypted Traffic Detection in Resource Constrained IoT Networks: A Diffusion Model and LLM Integrated Framework](https://arxiv.org/abs/2512.21144v1)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper is accepted by IEEE Transactions on Network Science and Engineering</p></details> |
+| **[SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation](https://arxiv.org/abs/2512.21133v1)** | 2025-12-24 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 5 tables</p></details> |
+| **[Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching](https://arxiv.org/abs/2512.21116v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by IEEE INFOCOM 2026</p></details> |
+| **[TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control](https://arxiv.org/abs/2512.20996v1)** | 2025-12-24 | <details><summary>The c...</summary><p>The code will be available at: https://github.com/tsinghua-fib-lab/TrafficSimAgent</p></details> |
+| **[Adversarial Pre-Padding: Generating Evasive Network Traffic Against Transformer-Based Classifiers](https://arxiv.org/abs/2510.25810v2)** | 2025-12-24 |  |
 | **[AI-based Traffic Modeling for Network Security and Privacy: Challenges Ahead](https://arxiv.org/abs/2503.22161v4)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at the AAAI 2026 Workshop on Artificial Intelligence for Cyber Security (AICS)</p></details> |
 | **[BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations](https://arxiv.org/abs/2512.19997v1)** | 2025-12-23 | <details><summary>The f...</summary><p>The full version of this work consists of 15 pages and has been submitted to IEEE Transactions on Software Engineering (TSE)</p></details> |
 | **[Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](https://arxiv.org/abs/2501.12536v2)** | 2025-12-23 |  |
@@ -36,15 +41,11 @@ labels: documentation
 | **[STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted by IEEE INFOCOM 2026. Camera-ready version</p></details> |
 | **[A Hybrid Inductive-Transductive Network for Traffic Flow Imputation on Unsampled Locations](https://arxiv.org/abs/2512.17984v1)** | 2025-12-19 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 3 tables</p></details> |
 | **[Adaptive Graph Pruning with Sudden-Events Evaluation for Traffic Prediction using Online Semi-Decentralized ST-GNNs](https://arxiv.org/abs/2512.17352v1)** | 2025-12-19 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 5 tables, journal</p></details> |
-| **[A simulation platform calibration method for automated vehicle evaluation: accurate on both vehicle level and traffic flow level](https://arxiv.org/abs/2512.16076v1)** | 2025-12-18 |  |
-| **[Learning Multimodal Embeddings for Traffic Accident Prediction and Causal Estimation](https://arxiv.org/abs/2512.02920v2)** | 2025-12-17 | <details><summary>17 pa...</summary><p>17 pages. To appear in KDD'26 Datasets</p></details> |
-| **[Optimal Transport-Based Clustering of Attributed Graphs with an Application to Road Traffic Data](https://arxiv.org/abs/2512.15570v1)** | 2025-12-17 | <details><summary>35 pa...</summary><p>35 pages, 14 Figures and 3 Tables</p></details> |
-| **[Packet-Level Traffic Modeling with Heavy-Tailed Payload and Inter-Arrival Distributions for Digital Twins](https://arxiv.org/abs/2512.15432v1)** | 2025-12-17 | 10 pages, 5 figures |
-| **[TrafficGamer: Reliable and Flexible Traffic Simulation for Safety-Critical Scenarios with Game-Theoretic Oracles](https://arxiv.org/abs/2408.15538v3)** | 2025-12-17 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NeRV360: Neural Representation for 360-Degree Videos with a Viewport Decoder](https://arxiv.org/abs/2512.20871v1)** | 2025-12-24 | <details><summary>2026 ...</summary><p>2026 IIEEJ International Conference on Image Electronics and Visual Computing (IEVC)</p></details> |
 | **[DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](https://arxiv.org/abs/2512.20409v1)** | 2025-12-23 |  |
 | **[3D Stack In-Sensor-Computing (3DS-ISC): Accelerating Time-Surface Construction for Neuromorphic Event Cameras](https://arxiv.org/abs/2512.20073v1)** | 2025-12-23 |  |
 | **[I Want It That Way! Specifying Nuanced Camera Motions in Video Editing](https://arxiv.org/abs/2504.09472v2)** | 2025-12-23 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos](https://arxiv.org/abs/2507.05859v3)** | 2025-12-18 | <details><summary>chang...</summary><p>changes of some major results</p></details> |
 | **[SEED: Spectral Entropy-Guided Evaluation of SpatialTemporal Dependencies for Multivariate Time Series Forecasting](https://arxiv.org/abs/2512.14718v2)** | 2025-12-18 |  |
 | **[Reducing Pilots in Channel Estimation With Predictive Foundation Models](https://arxiv.org/abs/2512.15562v1)** | 2025-12-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
-| **[3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model](https://arxiv.org/abs/2505.22657v2)** | 2025-12-17 | <details><summary>demos...</summary><p>demos at: https://3dllm-mem.github.io</p></details> |
 
