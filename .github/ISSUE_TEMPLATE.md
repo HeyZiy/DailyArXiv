@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - December 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RefineBridge: Generative Bridge Models Improve Financial Forecasting by Foundation Models](https://arxiv.org/abs/2512.21572v1)** | 2025-12-25 |  |
 | **[Explainable time-series forecasting with sampling-free SHAP for Transformers](https://arxiv.org/abs/2512.20514v1)** | 2025-12-23 |  |
 | **[C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning](https://arxiv.org/abs/2507.17454v2)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection](https://arxiv.org/abs/2512.20140v1)** | 2025-12-23 | 9 pages,3 figures |
@@ -21,11 +22,11 @@ labels: documentation
 | **[Proactive Model Adaptation Against Concept Drift for Online Time Series Forecasting](https://arxiv.org/abs/2412.08435v5)** | 2025-12-18 | <details><summary>Accep...</summary><p>Accepted by KDD 2025. This version fixed typos in Eq. (3)</p></details> |
 | **[SEED: Spectral Entropy-Guided Evaluation of SpatialTemporal Dependencies for Multivariate Time Series Forecasting](https://arxiv.org/abs/2512.14718v2)** | 2025-12-18 |  |
 | **[Conversational Time Series Foundation Models: Towards Explainable and Effective Forecasting](https://arxiv.org/abs/2512.16022v1)** | 2025-12-17 | 31Pages |
-| **[Forking-Sequences](https://arxiv.org/abs/2510.04487v3)** | 2025-12-17 | <details><summary>Prese...</summary><p>Presented at the GPU-Accelerated and Scalable Optimization (ScaleOpt) Workshop, NeurIPS 2025</p></details> |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RIPCN: A Road Impedance Principal Component Network for Probabilistic Traffic Flow Forecasting](https://arxiv.org/abs/2512.21685v1)** | 2025-12-25 | <details><summary>Accep...</summary><p>Accepted at KDD 2026. 12 pages, 10 figures</p></details> |
 | **[Encrypted Traffic Detection in Resource Constrained IoT Networks: A Diffusion Model and LLM Integrated Framework](https://arxiv.org/abs/2512.21144v1)** | 2025-12-24 | <details><summary>This ...</summary><p>This paper is accepted by IEEE Transactions on Network Science and Engineering</p></details> |
 | **[SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation](https://arxiv.org/abs/2512.21133v1)** | 2025-12-24 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 5 tables</p></details> |
 | **[Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching](https://arxiv.org/abs/2512.21116v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by IEEE INFOCOM 2026</p></details> |
@@ -40,11 +41,12 @@ labels: documentation
 | **[HUTFormer: Hierarchical U-Net Transformer for Long-Term Traffic Forecasting](https://arxiv.org/abs/2307.14596v2)** | 2025-12-20 | <details><summary>Accep...</summary><p>Accepted for publication in the Communications in Transportation Research on December 2025. 38 paqes with 9 fiqures and 6 tables</p></details> |
 | **[STAR: Semantic-Traffic Alignment and Retrieval for Zero-Shot HTTPS Website Fingerprinting](https://arxiv.org/abs/2512.17667v1)** | 2025-12-19 | <details><summary>Accep...</summary><p>Accepted by IEEE INFOCOM 2026. Camera-ready version</p></details> |
 | **[A Hybrid Inductive-Transductive Network for Traffic Flow Imputation on Unsampled Locations](https://arxiv.org/abs/2512.17984v1)** | 2025-12-19 | <details><summary>10 pa...</summary><p>10 pages, 8 figures, 3 tables</p></details> |
-| **[Adaptive Graph Pruning with Sudden-Events Evaluation for Traffic Prediction using Online Semi-Decentralized ST-GNNs](https://arxiv.org/abs/2512.17352v1)** | 2025-12-19 | <details><summary>19 pa...</summary><p>19 pages, 6 figures, 5 tables, journal</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Self-Supervised Skeleton-Based Action Representation Learning: A Benchmark and Beyond](https://arxiv.org/abs/2406.02978v3)** | 2025-12-26 | IJCV 2025 |
+| **[Bayesian Inference for Spatial-Temporal Non-Gaussian Data Using Predictive Stacking](https://arxiv.org/abs/2406.04655v4)** | 2025-12-25 | 41 pages, 9 figures |
 | **[NeRV360: Neural Representation for 360-Degree Videos with a Viewport Decoder](https://arxiv.org/abs/2512.20871v1)** | 2025-12-24 | <details><summary>2026 ...</summary><p>2026 IIEEJ International Conference on Image Electronics and Visual Computing (IEVC)</p></details> |
 | **[DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](https://arxiv.org/abs/2512.20409v1)** | 2025-12-23 |  |
 | **[3D Stack In-Sensor-Computing (3DS-ISC): Accelerating Time-Surface Construction for Neuromorphic Event Cameras](https://arxiv.org/abs/2512.20073v1)** | 2025-12-23 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[Embodied4C: Measuring What Matters for Embodied Vision-Language Navigation](https://arxiv.org/abs/2512.18028v1)** | 2025-12-19 |  |
 | **[A lightweight Spatial-Temporal Graph Neural Network for Long-term Time Series Forecasting](https://arxiv.org/abs/2512.17453v1)** | 2025-12-19 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, 2 tables. Accepted for presentation at the 18th International Conference on Agents and Artificial Intelligence (ICAART 2026), Marbella, Spain</p></details> |
 | **[D-FCGS: Feedforward Compression of Dynamic Gaussian Splatting for Free-Viewpoint Videos](https://arxiv.org/abs/2507.05859v3)** | 2025-12-18 | <details><summary>chang...</summary><p>changes of some major results</p></details> |
-| **[SEED: Spectral Entropy-Guided Evaluation of SpatialTemporal Dependencies for Multivariate Time Series Forecasting](https://arxiv.org/abs/2512.14718v2)** | 2025-12-18 |  |
-| **[Reducing Pilots in Channel Estimation With Predictive Foundation Models](https://arxiv.org/abs/2512.15562v1)** | 2025-12-17 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 
