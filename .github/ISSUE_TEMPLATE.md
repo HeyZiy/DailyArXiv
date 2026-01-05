@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 05, 2026
+title: Latest 15 Papers - January 06, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BSAT: B-Spline Adaptive Tokenizer for Long-Term Time Series Forecasting](https://arxiv.org/abs/2601.00698v1)** | 2026-01-02 | 20 pages, 7 figures |
+| **[Learning to be Reproducible: Custom Loss Design for Robust Neural Networks](https://arxiv.org/abs/2601.00578v1)** | 2026-01-02 |  |
+| **[Sparse Tucker Decomposition and Graph Regularization for High-Dimensional Time Series Forecasting](https://arxiv.org/abs/2601.00377v1)** | 2026-01-01 |  |
+| **[StockBot 2.0: Vanilla LSTMs Outperform Transformer-based Forecasting for Stock Prices](https://arxiv.org/abs/2601.00197v1)** | 2026-01-01 | 14 pages, 5 figures |
 | **[PRISM: A hierarchical multiscale approach for time series forecasting](https://arxiv.org/abs/2512.24898v1)** | 2025-12-31 |  |
 | **[Efficient Deep Learning for Short-Term Solar Irradiance Time Series Forecasting: A Benchmark Study in Ho Chi Minh City](https://arxiv.org/abs/2512.23898v1)** | 2025-12-29 | preprint, 40 pages |
 | **[BCWildfire: A Long-term Multi-factor Dataset and Deep Learning Benchmark for Boreal Wildfire Risk Prediction](https://arxiv.org/abs/2511.17597v2)** | 2025-12-29 | <details><summary>This ...</summary><p>This paper has been accepted by AAAI-26</p></details> |
@@ -18,14 +22,14 @@ labels: documentation
 | **[Explainable time-series forecasting with sampling-free SHAP for Transformers](https://arxiv.org/abs/2512.20514v1)** | 2025-12-23 |  |
 | **[C3RL: Rethinking the Combination of Channel-independence and Channel-mixing from Representation Learning](https://arxiv.org/abs/2507.17454v2)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
 | **[Enhancing Zero-Shot Time Series Forecasting in Off-the-Shelf LLMs via Noise Injection](https://arxiv.org/abs/2512.20140v1)** | 2025-12-23 | 9 pages,3 figures |
-| **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v1)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at KDD 2026. 9 pages</p></details> |
-| **[Adaptive Information Routing for Multimodal Time Series Forecasting](https://arxiv.org/abs/2512.10229v3)** | 2025-12-23 |  |
-| **[Can Slow-thinking LLMs Reason Over Time? Empirical Studies in Time Series Forecasting](https://arxiv.org/abs/2505.24511v4)** | 2025-12-21 |  |
-| **[ASTIF: Adaptive Semantic-Temporal Integration for Cryptocurrency Price Forecasting](https://arxiv.org/abs/2512.18661v1)** | 2025-12-21 | 33 Pages, 8 Figures |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning](https://arxiv.org/abs/2601.00607v1)** | 2026-01-02 |  |
+| **[Traffic-MoE: A Sparse Foundation Model for Network Traffic Analysis](https://arxiv.org/abs/2601.00357v1)** | 2026-01-01 |  |
+| **[Intelligent Traffic Surveillance for Real-Time Vehicle Detection, License Plate Recognition, and Speed Estimation](https://arxiv.org/abs/2601.00344v1)** | 2026-01-01 |  |
+| **[The Weather Paradox: Why Precipitation Fails to Predict Traffic Accident Severity in Large-Scale US Data](https://arxiv.org/abs/2601.00152v1)** | 2026-01-01 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 0 tables. Preprint, machine learning analysis of 500,000 US traffic accidents</p></details> |
 | **[AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt](https://arxiv.org/abs/2512.24625v1)** | 2025-12-31 |  |
 | **[Measuring the Impact of Missingness in Traffic Stop Data](https://arxiv.org/abs/2505.18281v2)** | 2025-12-30 |  |
 | **[Generalising Traffic Forecasting to Regions without Traffic Observations](https://arxiv.org/abs/2508.08947v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
@@ -37,14 +41,12 @@ labels: documentation
 | **[SparScene: Efficient Traffic Scene Representation via Sparse Graph Learning for Large-Scale Trajectory Generation](https://arxiv.org/abs/2512.21133v1)** | 2025-12-24 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 5 tables</p></details> |
 | **[Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching](https://arxiv.org/abs/2512.21116v1)** | 2025-12-24 | <details><summary>Accep...</summary><p>Accepted by IEEE INFOCOM 2026</p></details> |
 | **[TrafficSimAgent: A Hierarchical Agent Framework for Autonomous Traffic Simulation with MCP Control](https://arxiv.org/abs/2512.20996v1)** | 2025-12-24 | <details><summary>The c...</summary><p>The code will be available at: https://github.com/tsinghua-fib-lab/TrafficSimAgent</p></details> |
-| **[Adversarial Pre-Padding: Generating Evasive Network Traffic Against Transformer-Based Classifiers](https://arxiv.org/abs/2510.25810v2)** | 2025-12-24 |  |
-| **[AI-based Traffic Modeling for Network Security and Privacy: Challenges Ahead](https://arxiv.org/abs/2503.22161v4)** | 2025-12-23 | <details><summary>Accep...</summary><p>Accepted at the AAAI 2026 Workshop on Artificial Intelligence for Cyber Security (AICS)</p></details> |
-| **[BacAlarm: Mining and Simulating Composite API Traffic to Prevent Broken Access Control Violations](https://arxiv.org/abs/2512.19997v1)** | 2025-12-23 | <details><summary>The f...</summary><p>The full version of this work consists of 15 pages and has been submitted to IEEE Transactions on Software Engineering (TSE)</p></details> |
-| **[Interaction Dataset of Autonomous Vehicles with Traffic Lights and Signs](https://arxiv.org/abs/2501.12536v2)** | 2025-12-23 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Traffic-Aware Optimal Taxi Placement Using Graph Neural Network-Based Reinforcement Learning](https://arxiv.org/abs/2601.00607v1)** | 2026-01-02 |  |
+| **[TeleWorld: Towards Dynamic Multimodal Synthesis with a 4D World Model](https://arxiv.org/abs/2601.00051v1)** | 2025-12-31 |  |
 | **[A Graph Neural Network with Auxiliary Task Learning for Missing PMU Data Reconstruction](https://arxiv.org/abs/2512.24542v1)** | 2025-12-31 |  |
 | **[INST-IT: Boosting Instance Understanding via Explicit Visual Prompt Instruction Tuning](https://arxiv.org/abs/2412.03565v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by NeurIPS 2025</p></details> |
 | **[TabMixNN: A Unified Deep Learning Framework for Structural Mixed Effects Modeling on Tabular Data](https://arxiv.org/abs/2512.23787v1)** | 2025-12-29 |  |
@@ -58,6 +60,4 @@ labels: documentation
 | **[NeRV360: Neural Representation for 360-Degree Videos with a Viewport Decoder](https://arxiv.org/abs/2512.20871v1)** | 2025-12-24 | <details><summary>2026 ...</summary><p>2026 IIEEJ International Conference on Image Electronics and Visual Computing (IEVC)</p></details> |
 | **[DETACH : Decomposed Spatio-Temporal Alignment for Exocentric Video and Ambient Sensors with Staged Learning](https://arxiv.org/abs/2512.20409v1)** | 2025-12-23 |  |
 | **[3D Stack In-Sensor-Computing (3DS-ISC): Accelerating Time-Surface Construction for Neuromorphic Event Cameras](https://arxiv.org/abs/2512.20073v1)** | 2025-12-23 |  |
-| **[I Want It That Way! Specifying Nuanced Camera Motions in Video Editing](https://arxiv.org/abs/2504.09472v2)** | 2025-12-23 |  |
-| **[DK-STN: A Domain Knowledge Embedded Spatio-Temporal Network Model for MJO Forecast](https://arxiv.org/abs/2512.19506v1)** | 2025-12-22 | 18 pages, 10 figures |
 
