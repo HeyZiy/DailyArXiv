@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 08, 2026
+title: Latest 15 Papers - January 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,8 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016v3)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at KDD 2026, we release our code publicly at https://github.com/LingFengGold/TimeDistill</p></details> |
+| **[Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization](https://arxiv.org/abs/2601.03683v1)** | 2026-01-07 |  |
 | **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v2)** | 2026-01-06 | <details><summary>This ...</summary><p>This submission is withdrawn due to internal review and compliance considerations</p></details> |
 | **[Which Deep Learner? A Systematic Evaluation of Advanced Deep Forecasting Models Accuracy and Efficiency for Network Traffic Prediction](https://arxiv.org/abs/2601.02694v1)** | 2026-01-06 | 19 pages, 13 figures |
 | **[From XAI to Stories: A Factorial Study of LLM-Generated Explanation Quality](https://arxiv.org/abs/2601.02224v1)** | 2026-01-05 |  |
@@ -20,12 +22,14 @@ labels: documentation
 | **[Learning to be Reproducible: Custom Loss Design for Robust Neural Networks](https://arxiv.org/abs/2601.00578v1)** | 2026-01-02 |  |
 | **[Sparse Tucker Decomposition and Graph Regularization for High-Dimensional Time Series Forecasting](https://arxiv.org/abs/2601.00377v1)** | 2026-01-01 |  |
 | **[StockBot 2.0: Vanilla LSTMs Outperform Transformer-based Forecasting for Stock Prices](https://arxiv.org/abs/2601.00197v1)** | 2026-01-01 | 14 pages, 5 figures |
-| **[PRISM: A hierarchical multiscale approach for time series forecasting](https://arxiv.org/abs/2512.24898v1)** | 2025-12-31 |  |
-| **[Efficient Deep Learning for Short-Term Solar Irradiance Time Series Forecasting: A Benchmark Study in Ho Chi Minh City](https://arxiv.org/abs/2512.23898v1)** | 2025-12-29 | preprint, 40 pages |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tutorial on Flow-Based Network Traffic Classification Using Machine Learning](https://arxiv.org/abs/2601.04089v1)** | 2026-01-07 | under review |
+| **[AI-Enabled Digital Twins for Next-Generation Networks: Forecasting Traffic and Resource Management in 5G/6G](https://arxiv.org/abs/2510.20796v3)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at IEEE Global Communications Conference (GLOBECOM) 2025</p></details> |
+| **[FÆRDXEL: An Expert System for Danish Traffic Law](https://arxiv.org/abs/2410.03560v2)** | 2026-01-07 | <details><summary>In Pr...</summary><p>In Proceedings ICLP 2025, arXiv:2601.00047</p></details> |
+| **[Detection and Prevention of Process Disruption Attacks in the Electrical Power Systems using MMS Traffic: An EPIC Case](https://arxiv.org/abs/2601.03690v1)** | 2026-01-07 |  |
 | **[A Probabilistic Digital Twin of UK En Route Airspace for Training and Evaluating AI Agents for Air Traffic Control](https://arxiv.org/abs/2601.03113v1)** | 2026-01-06 |  |
 | **[Which Deep Learner? A Systematic Evaluation of Advanced Deep Forecasting Models Accuracy and Efficiency for Network Traffic Prediction](https://arxiv.org/abs/2601.02694v1)** | 2026-01-06 | 19 pages, 13 figures |
 | **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v1)** | 2026-01-05 | <details><summary>To Ap...</summary><p>To Appear in IEEE INFOCOM 2026</p></details> |
@@ -37,10 +41,6 @@ labels: documentation
 | **[Intelligent Traffic Surveillance for Real-Time Vehicle Detection, License Plate Recognition, and Speed Estimation](https://arxiv.org/abs/2601.00344v1)** | 2026-01-01 |  |
 | **[The Weather Paradox: Why Precipitation Fails to Predict Traffic Accident Severity in Large-Scale US Data](https://arxiv.org/abs/2601.00152v1)** | 2026-01-01 | <details><summary>11 pa...</summary><p>11 pages, 8 figures, 0 tables. Preprint, machine learning analysis of 500,000 US traffic accidents</p></details> |
 | **[AutoFed: Manual-Free Federated Traffic Prediction via Personalized Prompt](https://arxiv.org/abs/2512.24625v1)** | 2025-12-31 |  |
-| **[Measuring the Impact of Missingness in Traffic Stop Data](https://arxiv.org/abs/2505.18281v2)** | 2025-12-30 |  |
-| **[Generalising Traffic Forecasting to Regions without Traffic Observations](https://arxiv.org/abs/2508.08947v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[RflyUT-Sim: A Simulation Platform for Development and Testing of Complex Low-Altitude Traffic Control](https://arxiv.org/abs/2512.24112v1)** | 2025-12-30 |  |
-| **[RAST: A Retrieval Augmented Spatio-Temporal Framework for Traffic Prediction](https://arxiv.org/abs/2508.16623v2)** | 2025-12-30 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 (AI for Social Impact)</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
