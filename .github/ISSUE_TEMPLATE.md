@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 14, 2026
+title: Latest 15 Papers - January 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,14 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[M$^2$FMoE: Multi-Resolution Multi-View Frequency Mixture-of-Experts for Extreme-Adaptive Time Series Forecasting](https://arxiv.org/abs/2601.08631v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
+| **[What If TSF: A Benchmark for Reframing Forecasting as Scenario-Guided Multimodal Forecasting](https://arxiv.org/abs/2601.08509v1)** | 2026-01-13 | 30 pages, 5 figures |
+| **[Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization](https://arxiv.org/abs/2601.03683v2)** | 2026-01-13 |  |
+| **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v3)** | 2026-01-13 | <details><summary>This ...</summary><p>This submission is withdrawn due to internal review and compliance considerations</p></details> |
+| **[Beyond the Next Port: A Multi-Task Transformer for Forecasting Future Voyage Segment Durations](https://arxiv.org/abs/2601.08013v1)** | 2026-01-12 |  |
 | **[Dual-Level Models for Physics-Informed Multi-Step Time Series Forecasting](https://arxiv.org/abs/2601.07640v1)** | 2026-01-12 |  |
 | **[Uncovering the Computational Roles of Nonlinearity in Sequence Modeling Using Almost-Linear RNNs](https://arxiv.org/abs/2506.07919v2)** | 2026-01-12 | <details><summary>Publi...</summary><p>Published in Transactions on Machine Learning Research (TMLR), https://openreview.net/forum?id=qI2Vt9P9rl</p></details> |
+| **[Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning](https://arxiv.org/abs/2601.07903v1)** | 2026-01-12 |  |
 | **[DDT: A Dual-Masking Dual-Expert Transformer for Energy Time-Series Forecasting](https://arxiv.org/abs/2601.07250v1)** | 2026-01-12 |  |
 | **[Improving Day-Ahead Grid Carbon Intensity Forecasting by Joint Modeling of Local-Temporal and Cross-Variable Dependencies Across Different Frequencies](https://arxiv.org/abs/2601.06530v1)** | 2026-01-10 | <details><summary>2026 ...</summary><p>2026 40th AAAI Conference on Artificial Intelligence</p></details> |
 | **[Continual Quantum Architecture Search with Tensor-Train Encoding: Theory and Applications to Signal Processing](https://arxiv.org/abs/2601.06392v1)** | 2026-01-10 | In submission |
@@ -16,16 +22,14 @@ labels: documentation
 | **[ReCast: Reliability-aware Codebook Assisted Lightweight Time Series Forecasting](https://arxiv.org/abs/2511.11991v2)** | 2026-01-09 | AAAI 2026 Oral |
 | **[PiXTime: A Model for Federated Time Series Forecasting with Heterogeneous Data Structures Across Nodes](https://arxiv.org/abs/2601.05613v1)** | 2026-01-09 |  |
 | **[GlyRAG: Context-Aware Retrieval-Augmented Framework for Blood Glucose Forecasting](https://arxiv.org/abs/2601.05353v1)** | 2026-01-08 |  |
-| **[Forking-Sequences](https://arxiv.org/abs/2510.04487v4)** | 2026-01-08 | <details><summary>Prese...</summary><p>Presented at the GPU-Accelerated and Scalable Optimization (ScaleOpt) Workshop, NeurIPS 2025</p></details> |
-| **[ASTGI: Adaptive Spatio-Temporal Graph Interactions for Irregular Multivariate Time Series Forecasting](https://arxiv.org/abs/2509.23313v2)** | 2026-01-08 |  |
-| **[TimeDistill: Efficient Long-Term Time Series Forecasting with MLP via Cross-Architecture Distillation](https://arxiv.org/abs/2502.15016v3)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at KDD 2026, we release our code publicly at https://github.com/LingFengGold/TimeDistill</p></details> |
-| **[Rethinking Recurrent Neural Networks for Time Series Forecasting: A Reinforced Recurrent Encoder with Prediction-Oriented Proximal Policy Optimization](https://arxiv.org/abs/2601.03683v1)** | 2026-01-07 |  |
-| **[LoFT-LLM: Low-Frequency Time-Series Forecasting with Large Language Models](https://arxiv.org/abs/2512.20002v2)** | 2026-01-06 | <details><summary>This ...</summary><p>This submission is withdrawn due to internal review and compliance considerations</p></details> |
-| **[Beyond Immediate Activation: Temporally Decoupled Backdoor Attacks on Time Series Forecasting](https://arxiv.org/abs/2601.04247v1)** | 2026-01-06 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Survey of Security Challenges and Solutions for UAS Traffic Management (UTM) and small Unmanned Aerial Systems (sUAS)](https://arxiv.org/abs/2601.08229v1)** | 2026-01-13 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 5 tables</p></details> |
+| **[Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning](https://arxiv.org/abs/2503.09252v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
+| **[Robust Single-Agent Reinforcement Learning for Regional Traffic Signal Control Under Demand Fluctuations](https://arxiv.org/abs/2511.00549v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
+| **[Single-agent Reinforcement Learning Model for Regional Adaptive Traffic Signal Control](https://arxiv.org/abs/2511.00551v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
 | **[Evaluating Impacts of Traffic Regulations in Complex Mobility Systems Using Scenario-Based Simulations](https://arxiv.org/abs/2601.07735v1)** | 2026-01-12 |  |
 | **[Studying the Role of Synthetic Data for Machine Learning-based Wireless Networks Traffic Forecasting](https://arxiv.org/abs/2601.07646v1)** | 2026-01-12 |  |
 | **[qAttCNN - Self Attention Mechanism for Video QoE Prediction in Encrypted Traffic](https://arxiv.org/abs/2601.06862v1)** | 2026-01-11 |  |
@@ -37,14 +41,11 @@ labels: documentation
 | **[Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation](https://arxiv.org/abs/2601.05022v1)** | 2026-01-08 |  |
 | **[Spatial-Temporal Feedback Diffusion Guidance for Controlled Traffic Imputation](https://arxiv.org/abs/2601.04572v1)** | 2026-01-08 |  |
 | **[GEnSHIN: Graphical Enhanced Spatio-temporal Hierarchical Inference Network for Traffic Flow Prediction](https://arxiv.org/abs/2601.04550v1)** | 2026-01-08 |  |
-| **[Tutorial on Flow-Based Network Traffic Classification Using Machine Learning](https://arxiv.org/abs/2601.04089v1)** | 2026-01-07 | under review |
-| **[AI-Enabled Digital Twins for Next-Generation Networks: Forecasting Traffic and Resource Management in 5G/6G](https://arxiv.org/abs/2510.20796v3)** | 2026-01-07 | <details><summary>Accep...</summary><p>Accepted at IEEE Global Communications Conference (GLOBECOM) 2025</p></details> |
-| **[Human-in-the-Loop Testing of AI Agents for Air Traffic Control with a Regulated Assessment Framework](https://arxiv.org/abs/2601.04288v1)** | 2026-01-07 |  |
-| **[Online Action-Stacking Improves Reinforcement Learning Performance for Air Traffic Control](https://arxiv.org/abs/2601.04287v1)** | 2026-01-07 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures](https://arxiv.org/abs/2601.08549v1)** | 2026-01-13 |  |
 | **[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](https://arxiv.org/abs/2601.07290v1)** | 2026-01-12 |  |
 | **[SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/abs/2601.05640v2)** | 2026-01-12 |  |
 | **[GlobalPaint: Spatiotemporal Coherent Video Outpainting with Global Feature Guidance](https://arxiv.org/abs/2601.06413v1)** | 2026-01-10 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Where do We Poop? City-Wide Simulation of Defecation Behavior for Wastewater-Based Epidemiology](https://arxiv.org/abs/2601.04231v1)** | 2026-01-03 |  |
 | **[Crowded Video Individual Counting Informed by Social Grouping and Spatial-Temporal Displacement Priors](https://arxiv.org/abs/2601.01192v1)** | 2026-01-03 | <details><summary>Journ...</summary><p>Journal Extension of arXiv:2506.13067</p></details> |
 | **[YODA: Yet Another One-step Diffusion-based Video Compressor](https://arxiv.org/abs/2601.01141v1)** | 2026-01-03 | <details><summary>Code ...</summary><p>Code will be available at https://github.com/NJUVISION/YODA</p></details> |
-| **[Vision-Enhanced Large Language Models for High-Resolution Image Synthesis and Multimodal Data Interpretation](https://arxiv.org/abs/2512.12595v2)** | 2026-01-03 |  |
 
