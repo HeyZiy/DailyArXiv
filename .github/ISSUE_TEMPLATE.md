@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 16, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Spatial As Deep: Spatial CNN for Traffic Scene Understanding](https://arxiv.org/abs/1712.06080v2)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted to AAAI 2018</p></details> |
+| **[Inverse Learning in $2\times2$ Games: From Synthetic Interactions to Traffic Simulation](https://arxiv.org/abs/2601.10367v1)** | 2026-01-15 |  |
+| **[Meta Dynamic Graph for Traffic Flow Prediction](https://arxiv.org/abs/2601.10328v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
+| **[Evaluating Impacts of Traffic Regulations in Complex Mobility Systems Using Scenario-Based Simulations](https://arxiv.org/abs/2601.07735v2)** | 2026-01-15 |  |
+| **[Bias in the Shadows: Explore Shortcuts in Encrypted Network Traffic Classification](https://arxiv.org/abs/2601.10180v1)** | 2026-01-15 |  |
 | **[Lens: A Knowledge-Guided Foundation Model for Network Traffic](https://arxiv.org/abs/2402.03646v5)** | 2026-01-14 |  |
 | **[A Survey of Security Challenges and Solutions for UAS Traffic Management (UTM) and small Unmanned Aerial Systems (sUAS)](https://arxiv.org/abs/2601.08229v1)** | 2026-01-13 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 5 tables</p></details> |
 | **[Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning](https://arxiv.org/abs/2503.09252v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
 | **[Robust Single-Agent Reinforcement Learning for Regional Traffic Signal Control Under Demand Fluctuations](https://arxiv.org/abs/2511.00549v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
 | **[Single-agent Reinforcement Learning Model for Regional Adaptive Traffic Signal Control](https://arxiv.org/abs/2511.00551v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
-| **[Evaluating Impacts of Traffic Regulations in Complex Mobility Systems Using Scenario-Based Simulations](https://arxiv.org/abs/2601.07735v1)** | 2026-01-12 |  |
 | **[Studying the Role of Synthetic Data for Machine Learning-based Wireless Networks Traffic Forecasting](https://arxiv.org/abs/2601.07646v1)** | 2026-01-12 |  |
 | **[qAttCNN - Self Attention Mechanism for Video QoE Prediction in Encrypted Traffic](https://arxiv.org/abs/2601.06862v1)** | 2026-01-11 |  |
 | **[Synecdoche: Efficient and Accurate In-Network Traffic Classification via Direct Packet Sequential Pattern Matching](https://arxiv.org/abs/2512.21116v2)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted by IEEE INFOCOM 2026</p></details> |
 | **[Reinforcement Learning-Guided Dynamic Multi-Graph Fusion for Evacuation Traffic Prediction](https://arxiv.org/abs/2601.06664v1)** | 2026-01-10 |  |
 | **[The Potential of Erroneous Outbound Traffic Analysis to Unveil Silent Internal Anomalies](https://arxiv.org/abs/2601.06280v1)** | 2026-01-09 | <details><summary>Accep...</summary><p>Accepted and presented at ACM IMC 2025 Student Workshop</p></details> |
-| **[EvoQRE: Modeling Bounded Rationality in Safety-Critical Traffic Simulation via Evolutionary Quantal Response Equilibrium](https://arxiv.org/abs/2601.05653v1)** | 2026-01-09 | 11 pages, 5 figures |
-| **[Congestion Mitigation in Vehicular Traffic Networks with Multiple Operational Modalities](https://arxiv.org/abs/2601.05375v1)** | 2026-01-08 | <details><summary>10 pa...</summary><p>10 pages, 4 figures; This is a working draft and can potentially have errors. Any feedback will be greatly appreciated, and will be acknowledged in the subsequent versions</p></details> |
-| **[Knowledge-to-Data: LLM-Driven Synthesis of Structured Network Traffic for Testbed-Free IDS Evaluation](https://arxiv.org/abs/2601.05022v1)** | 2026-01-08 |  |
-| **[Spatial-Temporal Feedback Diffusion Guidance for Controlled Traffic Imputation](https://arxiv.org/abs/2601.04572v1)** | 2026-01-08 |  |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
