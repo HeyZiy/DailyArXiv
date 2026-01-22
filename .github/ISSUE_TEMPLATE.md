@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 22, 2026
+title: Latest 15 Papers - January 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v2)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
 | **[Intermittent time series forecasting: local vs global models](https://arxiv.org/abs/2601.14031v1)** | 2026-01-20 | <details><summary>Submi...</summary><p>Submitted to Data Mining and Knowledge Discovery</p></details> |
 | **[From Many Models, One: Macroeconomic Forecasting with Reservoir Ensembles](https://arxiv.org/abs/2512.13642v2)** | 2026-01-20 | <details><summary>Updat...</summary><p>Updated manuscript with shortened main text</p></details> |
 | **[vLinear: A Powerful Linear Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2601.13768v1)** | 2026-01-20 |  |
@@ -15,7 +16,6 @@ labels: documentation
 | **[AdaNODEs: Test Time Adaptation for Time Series Forecasting Using Neural ODEs](https://arxiv.org/abs/2601.12893v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
 | **[Distilling Time Series Foundation Models for Efficient Forecasting](https://arxiv.org/abs/2601.12785v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP-2026</p></details> |
 | **[Trend-Adjusted Time Series Models with an Application to Gold Price Forecasting](https://arxiv.org/abs/2601.12706v1)** | 2026-01-19 |  |
-| **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v1)** | 2026-01-18 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
 | **[TimeGMM: Single-Pass Probabilistic Forecasting via Adaptive Gaussian Mixture Models with Reversible Normalization](https://arxiv.org/abs/2601.12288v1)** | 2026-01-18 |  |
 | **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v3)** | 2026-01-17 |  |
 | **[FEATHer: Fourier-Efficient Adaptive Temporal Hierarchy Forecaster for Time-Series Forecasting](https://arxiv.org/abs/2601.11350v1)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
@@ -26,6 +26,7 @@ labels: documentation
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Vision-Based Natural Language Scene Understanding for Autonomous Driving: An Extended Dataset and a New Model for Traffic Scene Description Generation](https://arxiv.org/abs/2601.14438v1)** | 2026-01-20 | <details><summary>Under...</summary><p>Under review at Computer Vision and Image Understanding (submitted July 25, 2025)</p></details> |
 | **[Back2Color: Domain-Adaptive Synthetic-to-Real Monocular Depth Estimation for Dynamic Traffic Scenes](https://arxiv.org/abs/2406.07741v7)** | 2026-01-20 |  |
 | **[Universal Embedding Function for Traffic Classification via QUIC Domain Recognition Pretraining: A Transfer Learning Success](https://arxiv.org/abs/2502.12930v2)** | 2026-01-20 |  |
 | **[No Traffic to Cry: Traffic-Oblivious Link Deactivation for Green Traffic Engineering](https://arxiv.org/abs/2601.13087v1)** | 2026-01-19 | <details><summary>Appea...</summary><p>Appears in the Proceedings of the IEEE International Conference on Computer Communications 2026 (INFOCOM 2026)</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Bias in the Shadows: Explore Shortcuts in Encrypted Network Traffic Classification](https://arxiv.org/abs/2601.10180v1)** | 2026-01-15 |  |
 | **[Lens: A Knowledge-Guided Foundation Model for Network Traffic](https://arxiv.org/abs/2402.03646v5)** | 2026-01-14 |  |
 | **[A Survey of Security Challenges and Solutions for UAS Traffic Management (UTM) and small Unmanned Aerial Systems (sUAS)](https://arxiv.org/abs/2601.08229v1)** | 2026-01-13 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 5 tables</p></details> |
-| **[Large-scale Regional Traffic Signal Control Based on Single-Agent Reinforcement Learning](https://arxiv.org/abs/2503.09252v2)** | 2026-01-12 | <details><summary>A cri...</summary><p>A critical error in the methodology. The reported congestion control effects were not caused by the proposed signal timing optimization, but by an incorrect traffic volume scaling factor during evaluation. The traffic demand was not properly amplified, resulting in misleading performance gains. Due to the substantial nature of the error, completion of revisions is not feasible in the short term</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
@@ -50,6 +50,7 @@ labels: documentation
 | **[Fine-grained spatial-temporal perception for gas leak segmentation](https://arxiv.org/abs/2505.00295v2)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Conference on Image Processing (ICIP)</p></details> |
 | **[SKANet: A Cognitive Dual-Stream Framework with Adaptive Modality Fusion for Robust Compound GNSS Interference Classification](https://arxiv.org/abs/2601.12791v1)** | 2026-01-19 |  |
 | **[An Efficient and Multi-Modal Navigation System with One-Step World Model](https://arxiv.org/abs/2601.12277v1)** | 2026-01-18 |  |
+| **[DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](https://arxiv.org/abs/2601.14302v1)** | 2026-01-18 | <details><summary>Prepr...</summary><p>Preprint accepted by ICASSP 2026 with minor revisions</p></details> |
 | **[Learning Language-Driven Sequence-Level Modal-Invariant Representations for Video-Based Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2601.12062v1)** | 2026-01-17 |  |
 | **[CAHC:A General Conflict-Aware Heuristic Caching Framework for Multi-Agent Path Finding](https://arxiv.org/abs/2512.12243v2)** | 2026-01-17 |  |
 | **[Multi-Receptive Field Ensemble with Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection](https://arxiv.org/abs/2508.10568v2)** | 2026-01-16 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures](https://arxiv.org/abs/2601.08549v1)** | 2026-01-13 |  |
 | **[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](https://arxiv.org/abs/2601.07290v1)** | 2026-01-12 |  |
 | **[SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/abs/2601.05640v2)** | 2026-01-12 |  |
-| **[GlobalPaint: Spatiotemporal Coherent Video Outpainting with Global Feature Guidance](https://arxiv.org/abs/2601.06413v1)** | 2026-01-10 |  |
 
