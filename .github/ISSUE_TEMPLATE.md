@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 23, 2026
+title: Latest 15 Papers - January 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning](https://arxiv.org/abs/2601.07903v3)** | 2026-01-22 |  |
+| **[StoxLSTM: A Stochastic Extended Long Short-Term Memory Network for Time Series Forecasting](https://arxiv.org/abs/2509.01187v2)** | 2026-01-22 |  |
+| **[Dualformer: Time-Frequency Dual Domain Learning for Long-term Time Series Forecasting](https://arxiv.org/abs/2601.15669v1)** | 2026-01-22 |  |
 | **[Patch-Level Tokenization with CNN Encoders and Attention for Improved Transformer Time-Series Forecasting](https://arxiv.org/abs/2601.12467v2)** | 2026-01-21 | <details><summary>6 pag...</summary><p>6 pages, 2 figures, 3 tables</p></details> |
 | **[Intermittent time series forecasting: local vs global models](https://arxiv.org/abs/2601.14031v1)** | 2026-01-20 | <details><summary>Submi...</summary><p>Submitted to Data Mining and Knowledge Discovery</p></details> |
 | **[From Many Models, One: Macroeconomic Forecasting with Reservoir Ensembles](https://arxiv.org/abs/2512.13642v2)** | 2026-01-20 | <details><summary>Updat...</summary><p>Updated manuscript with shortened main text</p></details> |
@@ -19,13 +22,13 @@ labels: documentation
 | **[TimeGMM: Single-Pass Probabilistic Forecasting via Adaptive Gaussian Mixture Models with Reversible Normalization](https://arxiv.org/abs/2601.12288v1)** | 2026-01-18 |  |
 | **[Horizon Activation Mapping for Neural Networks in Time Series Forecasting](https://arxiv.org/abs/2601.02094v3)** | 2026-01-17 |  |
 | **[FEATHer: Fourier-Efficient Adaptive Temporal Hierarchy Forecaster for Time-Series Forecasting](https://arxiv.org/abs/2601.11350v1)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
-| **[Epidemic Forecasting with a Hybrid Deep Learning Method Using CNN-LSTM With WOA-GWO Parameter Optimization: Global COVID-19 Case Study](https://arxiv.org/abs/2503.12813v3)** | 2026-01-16 |  |
-| **[Beyond Accuracy: A Stability-Aware Metric for Multi-Horizon Forecasting](https://arxiv.org/abs/2601.10863v1)** | 2026-01-15 |  |
-| **[Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning](https://arxiv.org/abs/2601.07903v2)** | 2026-01-14 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Virtual Traffic Police: Large Language Model-Augmented Traffic Signal Control for Unforeseen Incidents](https://arxiv.org/abs/2601.15816v1)** | 2026-01-22 |  |
+| **[TempoNet: Learning Realistic Communication and Timing Patterns for Network Traffic Simulation](https://arxiv.org/abs/2601.15663v1)** | 2026-01-22 |  |
+| **[TransportAgents: a multi-agents LLM framework for traffic accident severity prediction](https://arxiv.org/abs/2601.15519v1)** | 2026-01-21 |  |
 | **[Vision-Based Natural Language Scene Understanding for Autonomous Driving: An Extended Dataset and a New Model for Traffic Scene Description Generation](https://arxiv.org/abs/2601.14438v1)** | 2026-01-20 | <details><summary>Under...</summary><p>Under review at Computer Vision and Image Understanding (submitted July 25, 2025)</p></details> |
 | **[Back2Color: Domain-Adaptive Synthetic-to-Real Monocular Depth Estimation for Dynamic Traffic Scenes](https://arxiv.org/abs/2406.07741v7)** | 2026-01-20 |  |
 | **[Universal Embedding Function for Traffic Classification via QUIC Domain Recognition Pretraining: A Transfer Learning Success](https://arxiv.org/abs/2502.12930v2)** | 2026-01-20 |  |
@@ -38,13 +41,12 @@ labels: documentation
 | **[Inverse Learning in $2\times2$ Games: From Synthetic Interactions to Traffic Simulation](https://arxiv.org/abs/2601.10367v1)** | 2026-01-15 |  |
 | **[Meta Dynamic Graph for Traffic Flow Prediction](https://arxiv.org/abs/2601.10328v1)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted to AAAI 2026</p></details> |
 | **[Evaluating Impacts of Traffic Regulations in Complex Mobility Systems Using Scenario-Based Simulations](https://arxiv.org/abs/2601.07735v2)** | 2026-01-15 |  |
-| **[Bias in the Shadows: Explore Shortcuts in Encrypted Network Traffic Classification](https://arxiv.org/abs/2601.10180v1)** | 2026-01-15 |  |
-| **[Lens: A Knowledge-Guided Foundation Model for Network Traffic](https://arxiv.org/abs/2402.03646v5)** | 2026-01-14 |  |
-| **[A Survey of Security Challenges and Solutions for UAS Traffic Management (UTM) and small Unmanned Aerial Systems (sUAS)](https://arxiv.org/abs/2601.08229v1)** | 2026-01-13 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 5 tables</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures](https://arxiv.org/abs/2601.08549v2)** | 2026-01-22 |  |
+| **[Where do We Poop? City-Wide Simulation of Defecation Behavior for Wastewater-Based Epidemiology](https://arxiv.org/abs/2601.04231v2)** | 2026-01-21 |  |
 | **[CARI4D: Category Agnostic 4D Reconstruction of Human-Object Interaction](https://arxiv.org/abs/2512.11988v2)** | 2026-01-20 | <details><summary>14 pa...</summary><p>14 pages, 8 figures, 4 tables. Project page: https://nvlabs.github.io/CARI4D/</p></details> |
 | **[Leveraging Transformer Decoder for Automotive Radar Object Detection](https://arxiv.org/abs/2601.13386v1)** | 2026-01-19 |  |
 | **[Fine-grained spatial-temporal perception for gas leak segmentation](https://arxiv.org/abs/2505.00295v2)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted at the 2025 IEEE International Conference on Image Processing (ICIP)</p></details> |
@@ -57,7 +59,5 @@ labels: documentation
 | **[PEMNet: Towards Autonomous and Enhanced Environment-Aware Mobile Networks](https://arxiv.org/abs/2601.11025v1)** | 2026-01-16 |  |
 | **[Enhancing Federated Class-Incremental Learning via Spatial-Temporal Statistics Aggregation](https://arxiv.org/abs/2506.01327v2)** | 2026-01-14 | WWW 2026 |
 | **[CogRail: Benchmarking VLMs in Cognitive Intrusion Perception for Intelligent Railway Transportation Systems](https://arxiv.org/abs/2601.09613v1)** | 2026-01-14 |  |
-| **[Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures](https://arxiv.org/abs/2601.08549v1)** | 2026-01-13 |  |
 | **[VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding](https://arxiv.org/abs/2601.07290v1)** | 2026-01-12 |  |
-| **[SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/abs/2601.05640v2)** | 2026-01-12 |  |
 
