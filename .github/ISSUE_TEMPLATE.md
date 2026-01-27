@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2026
+title: Latest 15 Papers - January 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,10 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Conformal Prediction Algorithms for Time Series Forecasting: Methods and Benchmark](https://arxiv.org/abs/2601.18509v1)** | 2026-01-26 |  |
+| **[Forecasting the Maintained Score from the OpenSSF Scorecard for GitHub Repositories linked to PyPI libraries](https://arxiv.org/abs/2601.18344v1)** | 2026-01-26 | <details><summary>11 pa...</summary><p>11 pages, 9 figures, 2 tables</p></details> |
+| **[SDGF: Fusing Static and Multi-Scale Dynamic Correlations for Multivariate Time Series Forecasting](https://arxiv.org/abs/2509.18135v2)** | 2026-01-26 |  |
+| **[Momentum-integrated Multi-task Stock Recommendation with Converge-based Optimization](https://arxiv.org/abs/2509.10461v2)** | 2026-01-24 | 10 pages, 5 figures |
 | **[Dual-Prototype Disentanglement: A Context-Aware Enhancement Framework for Time Series Forecasting](https://arxiv.org/abs/2601.16632v1)** | 2026-01-23 |  |
 | **[Jacobian Scopes: token-level causal attributions in LLMs](https://arxiv.org/abs/2601.16407v1)** | 2026-01-23 | <details><summary>12 pa...</summary><p>12 pages, 15 figures, under review at ACL 2026</p></details> |
 | **[Enhancing Large Language Models for Time-Series Forecasting via Vector-Injected In-Context Learning](https://arxiv.org/abs/2601.07903v3)** | 2026-01-22 |  |
@@ -18,14 +22,13 @@ labels: documentation
 | **[vLinear: A Powerful Linear Model for Multivariate Time Series Forecasting](https://arxiv.org/abs/2601.13768v1)** | 2026-01-20 |  |
 | **[Channel, Trend and Periodic-Wise Representation Learning for Multivariate Long-term Time Series Forecasting](https://arxiv.org/abs/2509.23583v2)** | 2026-01-20 |  |
 | **[Online Continual Learning for Time Series: a Natural Score-driven Approach](https://arxiv.org/abs/2601.12931v1)** | 2026-01-19 |  |
-| **[AdaNODEs: Test Time Adaptation for Time Series Forecasting Using Neural ODEs](https://arxiv.org/abs/2601.12893v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP 2026</p></details> |
-| **[Distilling Time Series Foundation Models for Efficient Forecasting](https://arxiv.org/abs/2601.12785v1)** | 2026-01-19 | <details><summary>Accep...</summary><p>Accepted by ICASSP-2026</p></details> |
-| **[Trend-Adjusted Time Series Models with an Application to Gold Price Forecasting](https://arxiv.org/abs/2601.12706v1)** | 2026-01-19 |  |
-| **[TimeGMM: Single-Pass Probabilistic Forecasting via Adaptive Gaussian Mixture Models with Reversible Normalization](https://arxiv.org/abs/2601.12288v1)** | 2026-01-18 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AI-Driven Fuzzing for Vulnerability Assessment of 5G Traffic Steering Algorithms](https://arxiv.org/abs/2601.18690v1)** | 2026-01-26 |  |
+| **[DecompGAIL: Learning Realistic Traffic Behaviors with Decomposed Multi-Agent Generative Adversarial Imitation Learning](https://arxiv.org/abs/2510.06913v2)** | 2026-01-26 | accepted by ICLR |
+| **[VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim](https://arxiv.org/abs/2601.18284v1)** | 2026-01-26 |  |
 | **[Evaluating Wi-Fi Performance for VR Streaming: A Study on Realistic HEVC Video Traffic](https://arxiv.org/abs/2601.16950v1)** | 2026-01-23 |  |
 | **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v2)** | 2026-01-23 | <details><summary>To Ap...</summary><p>To Appear in IEEE INFOCOM 2026</p></details> |
 | **[GTA: Generative Traffic Agents for Simulating Realistic Mobility Behavior](https://arxiv.org/abs/2601.16778v1)** | 2026-01-23 | <details><summary>Condi...</summary><p>Conditionally accepted at CHI 2026</p></details> |
@@ -38,13 +41,16 @@ labels: documentation
 | **[No Traffic to Cry: Traffic-Oblivious Link Deactivation for Green Traffic Engineering](https://arxiv.org/abs/2601.13087v1)** | 2026-01-19 | <details><summary>Appea...</summary><p>Appears in the Proceedings of the IEEE International Conference on Computer Communications 2026 (INFOCOM 2026)</p></details> |
 | **[Traffic Collisions: Temporal Patterns and Severity-Weighted Hotspot Analysis](https://arxiv.org/abs/2601.12548v1)** | 2026-01-18 |  |
 | **[Automating Traffic Monitoring with SHM Sensor Networks via Vision-Supervised Deep Learning](https://arxiv.org/abs/2506.19023v3)** | 2026-01-17 |  |
-| **[YOLO-LLTS: Real-Time Low-Light Traffic Sign Detection via Prior-Guided Enhancement and Multibranch Feature Interaction](https://arxiv.org/abs/2503.13883v4)** | 2026-01-17 | <details><summary>This ...</summary><p>This work has been published in IEEE Transactions on Instrumentation and Measurement</p></details> |
-| **[Multi-agent DRL-based Lane Change Decision Model for Cooperative Planning in Mixed Traffic](https://arxiv.org/abs/2601.11809v1)** | 2026-01-16 | <details><summary>Under...</summary><p>Under review at IEEE Transactions on Intelligent Transportation Systems</p></details> |
-| **[Spatial As Deep: Spatial CNN for Traffic Scene Understanding](https://arxiv.org/abs/1712.06080v2)** | 2026-01-15 | <details><summary>Accep...</summary><p>Accepted to AAAI 2018</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning long term climate-resilient transport adaptation pathways under direct and indirect flood impacts using reinforcement learning](https://arxiv.org/abs/2601.18586v1)** | 2026-01-26 |  |
+| **[Enhancing Federated Class-Incremental Learning via Spatial-Temporal Statistics Aggregation](https://arxiv.org/abs/2506.01327v3)** | 2026-01-26 | WWW 2026 |
+| **[Strip-Fusion: Spatiotemporal Fusion for Multispectral Pedestrian Detection](https://arxiv.org/abs/2601.18008v1)** | 2026-01-25 | <details><summary>This ...</summary><p>This work has been accepted for publication in IEEE Robotics and Automation Letters (RA-L). Code available at: https://github.com/akanuasiegbu/stripfusion</p></details> |
+| **[Multimodal Trajectory Representation Learning for Travel Time Estimation](https://arxiv.org/abs/2510.05840v2)** | 2026-01-25 |  |
+| **[Bridging Supervision Gaps: A Unified Framework for Remote Sensing Change Detection](https://arxiv.org/abs/2601.17747v1)** | 2026-01-25 |  |
+| **[Memento: Towards Proactive Visualization of Everyday Memories with Personal Wearable AR Assistant](https://arxiv.org/abs/2601.17622v1)** | 2026-01-24 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. This is the author's version of the article that will appear at the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW) 2026</p></details> |
 | **[Integrating Meteorological and Operational Data: A Novel Approach to Understanding Railway Delays in Finland](https://arxiv.org/abs/2601.16592v1)** | 2026-01-23 | <details><summary>12 pa...</summary><p>12 pages, 8 figures, database: https://www.kaggle.com/datasets/viniborin/finland-integrated-train-weather-dataset-fi-tw</p></details> |
 | **[Contrastive and Multi-Task Learning on Noisy Brain Signals with Nonlinear Dynamical Signatures](https://arxiv.org/abs/2601.08549v2)** | 2026-01-22 |  |
 | **[Where do We Poop? City-Wide Simulation of Defecation Behavior for Wastewater-Based Epidemiology](https://arxiv.org/abs/2601.04231v2)** | 2026-01-21 |  |
@@ -54,10 +60,4 @@ labels: documentation
 | **[SKANet: A Cognitive Dual-Stream Framework with Adaptive Modality Fusion for Robust Compound GNSS Interference Classification](https://arxiv.org/abs/2601.12791v1)** | 2026-01-19 |  |
 | **[An Efficient and Multi-Modal Navigation System with One-Step World Model](https://arxiv.org/abs/2601.12277v1)** | 2026-01-18 |  |
 | **[DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](https://arxiv.org/abs/2601.14302v1)** | 2026-01-18 | <details><summary>Prepr...</summary><p>Preprint accepted by ICASSP 2026 with minor revisions</p></details> |
-| **[Learning Language-Driven Sequence-Level Modal-Invariant Representations for Video-Based Visible-Infrared Person Re-Identification](https://arxiv.org/abs/2601.12062v1)** | 2026-01-17 |  |
-| **[CAHC:A General Conflict-Aware Heuristic Caching Framework for Multi-Agent Path Finding](https://arxiv.org/abs/2512.12243v2)** | 2026-01-17 |  |
-| **[Multi-Receptive Field Ensemble with Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection](https://arxiv.org/abs/2508.10568v2)** | 2026-01-16 |  |
-| **[PEMNet: Towards Autonomous and Enhanced Environment-Aware Mobile Networks](https://arxiv.org/abs/2601.11025v1)** | 2026-01-16 |  |
-| **[Enhancing Federated Class-Incremental Learning via Spatial-Temporal Statistics Aggregation](https://arxiv.org/abs/2506.01327v2)** | 2026-01-14 | WWW 2026 |
-| **[CogRail: Benchmarking VLMs in Cognitive Intrusion Perception for Intelligent Railway Transportation Systems](https://arxiv.org/abs/2601.09613v1)** | 2026-01-14 |  |
 
