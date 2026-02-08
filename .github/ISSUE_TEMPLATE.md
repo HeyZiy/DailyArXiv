@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 06, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,25 +7,30 @@ labels: documentation
 ## Time Series Forecasting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Task-Adaptive Physical Reservoir Computing via Tunable Molecular Communication Dynamics](https://arxiv.org/abs/2602.05931v1)** | 2026-02-05 |  |
+| **[Large-scale Score-based Variational Posterior Inference for Bayesian Deep Neural Networks](https://arxiv.org/abs/2602.05873v1)** | 2026-02-05 |  |
+| **[Empowering Time Series Analysis with Large-Scale Multimodal Pretraining](https://arxiv.org/abs/2602.05646v1)** | 2026-02-05 |  |
+| **[TempoPFN: Synthetic Pre-training of Linear RNNs for Zero-shot Time Series Forecasting](https://arxiv.org/abs/2510.25502v4)** | 2026-02-05 | <details><summary>38 pa...</summary><p>38 pages, 22 figures, 17 tables</p></details> |
+| **[Hierarchical Time Series Forecasting with Robust Reconciliation](https://arxiv.org/abs/2510.20383v2)** | 2026-02-05 |  |
+| **[Day-Ahead Electricity Price Forecasting for Volatile Markets Using Foundation Models with Regularization Strategy](https://arxiv.org/abs/2602.05430v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to AI4TS Workshop @ AAAI'26 (Oral and Poster), see https://ai4ts.github.io/aaai2026</p></details> |
+| **[A Decomposition-based State Space Model for Multivariate Time-Series Forecasting](https://arxiv.org/abs/2602.05389v1)** | 2026-02-05 | ICASSP2026 |
+| **[ARM: Refining Multivariate Forecasting with Adaptive Temporal-Contextual Learning](https://arxiv.org/abs/2310.09488v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICLR 2024</p></details> |
+| **[CATS: Enhancing Multivariate Time Series Forecasting by Constructing Auxiliary Time Series as Exogenous Variables](https://arxiv.org/abs/2403.01673v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICML 2024</p></details> |
+| **[In-context Time Series Predictor](https://arxiv.org/abs/2405.14982v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICLR 2025</p></details> |
+| **[WAVE: Weighted Autoregressive Varying Gate for Time Series Forecasting](https://arxiv.org/abs/2410.03159v4)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICML 2025</p></details> |
+| **[HealthMamba: An Uncertainty-aware Spatiotemporal Graph State Space Model for Effective and Reliable Healthcare Facility Visit Prediction](https://arxiv.org/abs/2602.05286v1)** | 2026-02-05 |  |
+| **[Linear Transformers as VAR Models: Aligning Autoregressive Attention Mechanisms with Autoregressive Forecasting](https://arxiv.org/abs/2502.07244v2)** | 2026-02-05 | <details><summary>Camer...</summary><p>Camera-ready version. Accepted at ICML 2025</p></details> |
 | **[Bounded-Abstention Multi-horizon Time-series Forecasting](https://arxiv.org/abs/2602.04714v1)** | 2026-02-04 |  |
 | **[Let Experts Feel Uncertainty: A Multi-Expert Label Distribution Approach to Probabilistic Time Series Forecasting](https://arxiv.org/abs/2602.04678v1)** | 2026-02-04 | 11 pages, 2figures |
-| **[LLM-ABBA: Understanding time series via symbolic approximation](https://arxiv.org/abs/2411.18506v5)** | 2026-02-04 |  |
-| **[Aurora: Towards Universal Generative Multimodal Time Series Forecasting](https://arxiv.org/abs/2509.22295v4)** | 2026-02-04 |  |
-| **[Pruning for Generalization: A Transfer-Oriented Spatiotemporal Graph Framework](https://arxiv.org/abs/2602.04153v1)** | 2026-02-04 | <details><summary>Under...</summary><p>Under review at ICLR 2026 Workshop TSALM</p></details> |
-| **[Echo State Networks for Time Series Forecasting: Hyperparameter Sweep and Benchmarking](https://arxiv.org/abs/2602.03912v1)** | 2026-02-03 |  |
-| **[fev-bench: A Realistic Benchmark for Time Series Forecasting](https://arxiv.org/abs/2509.26468v2)** | 2026-02-03 |  |
-| **[CoGenCast: A Coupled Autoregressive-Flow Generative Framework for Time Series Forecasting](https://arxiv.org/abs/2602.03564v1)** | 2026-02-03 |  |
-| **[SEDformer: Event-Synchronous Spiking Transformers for Irregular Telemetry Time Series Forecasting](https://arxiv.org/abs/2602.02230v2)** | 2026-02-03 | Under review |
-| **[MoGU: Mixture-of-Gaussians with Uncertainty-based Gating for Time Series Forecasting](https://arxiv.org/abs/2510.07459v2)** | 2026-02-03 |  |
-| **[MemCast: Memory-Driven Time Series Forecasting with Experience-Conditioned Reasoning](https://arxiv.org/abs/2602.03164v1)** | 2026-02-03 |  |
-| **[Spectral Text Fusion: A Frequency-Aware Approach to Multimodal Time-Series Forecasting](https://arxiv.org/abs/2602.01588v2)** | 2026-02-03 |  |
-| **[Moirai 2.0: When Less Is More for Time Series Forecasting](https://arxiv.org/abs/2511.11698v3)** | 2026-02-03 | <details><summary>16 pa...</summary><p>16 pages, 13 figures, and 1 table</p></details> |
-| **[The Role of Entanglement in Quantum Reservoir Computing with Coupled Kerr Nonlinear Oscillators](https://arxiv.org/abs/2508.11175v2)** | 2026-02-03 |  |
-| **[CAPS: Unifying Attention, Recurrence, and Alignment in Transformer-based Time Series Forecasting](https://arxiv.org/abs/2602.02729v1)** | 2026-02-02 |  |
 
 ## Traffic
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geographically-aware Transformer-based Traffic Forecasting for Urban Motorway Digital Twins](https://arxiv.org/abs/2602.05983v1)** | 2026-02-05 | <details><summary>IEEE ...</summary><p>IEEE IV2026 37th IEEE Intelligent Vehicles Symposium</p></details> |
+| **[LSA: Localized Semantic Alignment for Enhancing Temporal Consistency in Traffic Video Generation](https://arxiv.org/abs/2602.05966v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to IEEE IV 2026. 8 pages, 3 figures. Code available at https://github.com/mirlanium/LSA</p></details> |
+| **[On Path-based Marginal Cost of Heterogeneous Traffic Flow for General Networks](https://arxiv.org/abs/2602.05565v1)** | 2026-02-05 |  |
+| **[TSBOW: Traffic Surveillance Benchmark for Occluded Vehicles Under Various Weather Conditions](https://arxiv.org/abs/2602.05414v1)** | 2026-02-05 | <details><summary>This ...</summary><p>This paper has been accepted by the 40th AAAI Conference on Artificial Intelligence (AAAI-26)</p></details> |
+| **[CAST-CKT: Chaos-Aware Spatio-Temporal and Cross-City Knowledge Transfer for Traffic Flow Prediction](https://arxiv.org/abs/2602.05133v1)** | 2026-02-04 |  |
 | **[Safe Urban Traffic Control via Uncertainty-Aware Conformal Prediction and World-Model Reinforcement Learning](https://arxiv.org/abs/2602.04821v1)** | 2026-02-04 |  |
 | **[Optimal Oblivious Load-Balancing for Sparse Traffic in Large-Scale Satellite Networks](https://arxiv.org/abs/2601.02537v3)** | 2026-02-04 | <details><summary>To Ap...</summary><p>To Appear in IEEE INFOCOM 2026</p></details> |
 | **[Confidence Driven Classification of Application Types in the Presence of Background Network Traffic](https://arxiv.org/abs/2508.03891v5)** | 2026-02-03 | <details><summary>Addit...</summary><p>Additional clarification; pending submission</p></details> |
@@ -36,11 +41,6 @@ labels: documentation
 | **[SATORIS-N: Spectral Analysis based Traffic Observation Recovery via Informed Subspaces and Nuclear-norm minimization](https://arxiv.org/abs/2602.03138v1)** | 2026-02-03 |  |
 | **[Human-Centric Traffic Signal Control for Equity: A Multi-Agent Action Branching Deep Reinforcement Learning Approach](https://arxiv.org/abs/2602.02959v1)** | 2026-02-03 |  |
 | **[Spatiotemporal Decision Transformer for Traffic Coordination](https://arxiv.org/abs/2602.02903v1)** | 2026-02-02 |  |
-| **[Accurate Network Traffic Matrix Prediction via LEAD: a Large Language Model-Enhanced Adapter-Based Conditional Diffusion Model](https://arxiv.org/abs/2601.21437v2)** | 2026-02-02 |  |
-| **[Traffic-Aware Navigation in Road Networks](https://arxiv.org/abs/2602.02158v1)** | 2026-02-02 |  |
-| **[Calibrating Adaptive Smoothing Methods for Freeway Traffic Reconstruction](https://arxiv.org/abs/2602.02072v1)** | 2026-02-02 |  |
-| **[PIMCST: Physics-Informed Multi-Phase Consensus and Spatio-Temporal Few-Shot Learning for Traffic Flow Forecasting](https://arxiv.org/abs/2602.01936v1)** | 2026-02-02 |  |
-| **[Things that Matter -- Identifying Interactions and IoT Device Types in Encrypted Matter Traffic](https://arxiv.org/abs/2602.01932v1)** | 2026-02-02 | <details><summary>11 pa...</summary><p>11 pages, 1 figure, 12 tables</p></details> |
 
 ## Spatial temporal
 | **Title** | **Date** | **Comment** |
